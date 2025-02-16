@@ -6456,7 +6456,8 @@
     "raw": "Br~ger~mei~ste~rin",
     "string": "Bür~ger~mei~ste~rin",
     "enRaw": "Mayor (female)",
-    "en": "Mayor (female)"
+    "en": "Mayor (female)",
+    "en2": "Mayor"
   },
   {
     "start": 618359,
@@ -6714,7 +6715,8 @@
     "raw": ">In einer strmischen Herbstnacht konnte ich genau be~obachten, wie sich die Angeklagte des Vergehens schuldig ge~macht hat.<$N",
     "string": ">In einer stürmischen Herbstnacht konnte ich genau be~obachten, wie sich die Angeklagte des Vergehens schuldig ge~macht hat.<$N",
     "enRaw": ">On a stormy autumn night, I clearly observed how the defendant (female) committed the offense.<$(N)",
-    "en": ">On a stormy autumn night, I clearly observed how the defendant (female) committed the offense.<$N"
+    "en": ">On a stormy autumn night, I clearly observed how the defendant (female) committed the offense.<$N",
+    "en2": ">On a stormy autumn night, I clearly observed how the defendant committed the offense.<$N"
   },
   {
     "start": 619136,
@@ -6762,7 +6764,8 @@
     "raw": ">In der Tat! Es war die Angeklagte. Sie hat schon so ein richtiges Verbrechergesicht...<$N",
     "string": ">In der Tat! Es war die Angeklagte. Sie hat schon so ein richtiges Verbrechergesicht...<$N",
     "enRaw": ">Indeed! It was the defendant (female). She really has a criminal face...<$(N)",
-    "en": ">Indeed! It was the defendant (female). She really has a criminal face...<$N"
+    "en": ">Indeed! It was the defendant (female). She really has a criminal face...<$N",
+    "en2": ">Indeed! It was the defendant. She really has a criminal face...<$N"
   },
   {
     "start": 619604,
@@ -6852,7 +6855,8 @@
     "raw": ">Die Angeklagte war's nie und nimmer, dafr lege ich meine Hand ins Feuer!<$N",
     "string": ">Die Angeklagte war's nie und nimmer, dafür lege ich meine Hand ins Feuer!<$N",
     "enRaw": ">The defendant (female) was by no means guilty, I would bet my life on it!<$(N)",
-    "en": ">The defendant (female) was by no means guilty, I would bet my life on it!<$N"
+    "en": ">The defendant (female) was by no means guilty, I would bet my life on it!<$N",
+    "en2": ">The defendant was by no means guilty, I would bet my life on it!<$N"
   },
   {
     "start": 620268,
