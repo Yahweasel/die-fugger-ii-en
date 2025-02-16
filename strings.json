@@ -24715,5 +24715,958 @@
     "string": "$P$4H$CIn diesem Jahr ereigneten sich in Mittelland keine besonderen Vorfälle.$B$N",
     "enRaw": "$(P)$4H$(C)This year, no significant incidents occurred in Mittelland.$(B)$(N)",
     "en": "$P$4H$CThis year, no significant incidents occurred in Mittelland.$B$N"
+  },
+  {
+    "start": 544699,
+    "end": 544728,
+    "raw": "4-KHz-Sound~effekte (10.6 MB)",
+    "string": "4-KHz-Sound~effekte (10.6 MB)",
+    "enRaw": "4-KHz sound effects (10.6 MB)",
+    "en": "4-KHz sound effects (10.6 MB)"
+  },
+  {
+    "start": 554158,
+    "end": 554190,
+    "raw": "$0s$C%s$N%c %s %c$N%c %* %c$N$1s",
+    "string": "$0s$C%s$N%c %s %c$N%c %* %c$N$1s",
+    "enRaw": "$0s$(C)%(s)$(N)%(c) %(s) %(c)$(N)%(c) %* %(c)$(N)$1s",
+    "en": "$0s$C%s$N%c %s %c$N%c %* %c$N$1s"
+  },
+  {
+    "start": 554191,
+    "end": 554227,
+    "raw": "$0s$C%s$N%c %s %c$N%c %v%v%v %c$N$1s",
+    "string": "$0s$C%s$N%c %s %c$N%c %v%v%v %c$N$1s",
+    "enRaw": "$0s$(C)%(s)$(N)%(c) %(s) %(c)$(N)%(c) %(v)%(v)%(v) %(c)$(N)$1s",
+    "en": "$0s$C%s$N%c %s %c$N%c %v%v%v %c$N$1s"
+  },
+  {
+    "start": 554228,
+    "end": 554265,
+    "raw": "$0s$C%s$N%c %s %c$N%c =%v%v%v %c$N$1s",
+    "string": "$0s$C%s$N%c %s %c$N%c =%v%v%v %c$N$1s",
+    "enRaw": "$0s$(C)%(s)$(N)%(c) %(s) %(c)$(N)%(c) =%(v)%(v)%(v) %(c)$(N)$1s",
+    "en": "$0s$C%s$N%c %s %c$N%c =%v%v%v %c$N$1s"
+  },
+  {
+    "start": 559535,
+    "end": 559567,
+    "raw": "Der Preis fr %s in %s ist %s.$N",
+    "string": "Der Preis für %s in %s ist %s.$N",
+    "enRaw": "The price for %(s) in %(s) is %(s).$(N)",
+    "en": "The price for %s in %s is %s.$N"
+  },
+  {
+    "start": 607395,
+    "end": 607405,
+    "raw": "$C>Aua!<$N",
+    "string": "$C>Aua!<$N",
+    "enRaw": "$(C)>Ouch!<$(N)",
+    "en": "$C>Ouch!<$N",
+    "en2": "$C>Ow!<$N"
+  },
+  {
+    "start": 607518,
+    "end": 607529,
+    "raw": "$C>Argh!<$N",
+    "string": "$C>Argh!<$N",
+    "enRaw": "$(C)>Argh!<$(N)",
+    "en": "$C>Argh!<$N"
+  },
+  {
+    "start": 607530,
+    "end": 607541,
+    "raw": "$C>Hmpf.<$N",
+    "string": "$C>Hmpf.<$N",
+    "enRaw": "$(C)>Hmpf.<$(N)",
+    "en": "$C>Hmpf.<$N"
+  },
+  {
+    "start": 607542,
+    "end": 607559,
+    "raw": "$C>Na war~tet!<$N",
+    "string": "$C>Na war~tet!<$N",
+    "enRaw": "$(C)>Just you wait!<$(N)",
+    "en": "$C>Just you wait!<$N",
+    "en2": "$C>Just wait!<$N"
+  },
+  {
+    "start": 607650,
+    "end": 607659,
+    "raw": "$C>Oh.<$N",
+    "string": "$C>Oh.<$N",
+    "enRaw": "$(C)>Oh.<$(N)",
+    "en": "$C>Oh.<$N"
+  },
+  {
+    "start": 607946,
+    "end": 607960,
+    "raw": "$C>Har-Har!<$N",
+    "string": "$C>Har-Har!<$N",
+    "enRaw": "$(C)>Har-har!<$(N)",
+    "en": "$C>Har-har!<$N"
+  },
+  {
+    "start": 607988,
+    "end": 608005,
+    "raw": "$C>Tut es weh?<$N",
+    "string": "$C>Tut es weh?<$N",
+    "enRaw": "$(C)>Does it hurt?<$(N)",
+    "en": "$C>Does it hurt?<$N",
+    "en2": "$C>It hurts?<$N"
+  },
+  {
+    "start": 608171,
+    "end": 608181,
+    "raw": "$C>Oho!<$N",
+    "string": "$C>Oho!<$N",
+    "enRaw": "$(C)>Oho!<$(N)",
+    "en": "$C>Oho!<$N"
+  },
+  {
+    "start": 608359,
+    "end": 608368,
+    "raw": "$C>He!<$N",
+    "string": "$C>He!<$N",
+    "enRaw": "$(C)>Hey!<$(N)",
+    "en": "$C>Hey!<$N",
+    "en2": "$C>Ey!<$N"
+  },
+  {
+    "start": 608369,
+    "end": 608381,
+    "raw": "$C>He-He!<$N",
+    "string": "$C>He-He!<$N",
+    "enRaw": "$(C)>He-he!<$(N)",
+    "en": "$C>He-he!<$N"
+  },
+  {
+    "start": 608484,
+    "end": 608511,
+    "raw": "$C>Wo ist mein Degen?...<$N",
+    "string": "$C>Wo ist mein Degen?...<$N",
+    "enRaw": "$(C)>Where is my rapier?...<$(N)",
+    "en": "$C>Where is my rapier?...<$N",
+    "en2": "$C>Where is my rapier?..<$N"
+  },
+  {
+    "start": 608527,
+    "end": 608553,
+    "raw": "$C>Links - rechts - Ha!<$N",
+    "string": "$C>Links - rechts - Ha!<$N",
+    "enRaw": "$(C)>Left - right - Ha!<$(N)",
+    "en": "$C>Left - right - Ha!<$N"
+  },
+  {
+    "start": 610716,
+    "end": 610789,
+    "raw": "%s. >Ich wette um %d Taler, daá %s. Schlagt Ihr ein?<$Z%a>Ja!<%a>Nein.<$|",
+    "string": "%s. >Ich wette um %d Taler, daß %s. Schlagt Ihr ein?<$Z%a>Ja!<%a>Nein.<$|",
+    "enRaw": "%(s). >I bet %(d) thalers that %(s). Do you accept?<$(Z)%(a)>Yes!<%(a)>No.<$|",
+    "en": "%s. >I bet %d thalers that %s. Do you accept?<$Z%a>Yes!<%a>No.<$|"
+  },
+  {
+    "start": 611368,
+    "end": 611373,
+    "raw": "%s!$N",
+    "string": "%s!$N",
+    "enRaw": "%(s)!$(N)",
+    "en": "%s!$N"
+  },
+  {
+    "start": 611374,
+    "end": 611379,
+    "raw": "%s %s",
+    "string": "%s %s",
+    "enRaw": "%(s) %(s)",
+    "en": "%s %s"
+  },
+  {
+    "start": 611380,
+    "end": 611395,
+    "raw": "%s %s und %s %s",
+    "string": "%s %s und %s %s",
+    "enRaw": "%(s) %(s) and %(s) %(s)",
+    "en": "%s %s and %s %s"
+  },
+  {
+    "start": 611396,
+    "end": 611411,
+    "raw": "%s %s, %s in %s",
+    "string": "%s %s, %s in %s",
+    "enRaw": "%(s) %(s), %(s) in %(s)",
+    "en": "%s %s, %s in %s"
+  },
+  {
+    "start": 612533,
+    "end": 612547,
+    "raw": "%w.%w Uhr...$N",
+    "string": "%w.%w Uhr...$N",
+    "enRaw": "%(w).%(w) o'clock...$(N)",
+    "en": "%w.%w o'clock...$N",
+    "en2": "%w.%w oclock$N"
+  },
+  {
+    "start": 618071,
+    "end": 618093,
+    "raw": "$B$Z%1N0 ist %s...$N$N",
+    "string": "$B$Z%1N0 ist %s...$N$N",
+    "enRaw": "$(B)$(Z)%(1N)0 is %(s)...$(N)$(N)",
+    "en": "$B$Z%1N0 is %s...$N$N"
+  },
+  {
+    "start": 632442,
+    "end": 632460,
+    "raw": "$C%1N1 meint: %s$N",
+    "string": "$C%1N1 meint: %s$N",
+    "enRaw": "$(C)%(1N)1 says: %(s)$(N)",
+    "en": "$C%1N1 says: %s$N"
+  },
+  {
+    "start": 633578,
+    "end": 633589,
+    "raw": "%a>%s %s<$|",
+    "string": "%a>%s %s<$|",
+    "enRaw": "%(a)>%(s) %(s)<$|",
+    "en": "%a>%s %s<$|"
+  },
+  {
+    "start": 638287,
+    "end": 638299,
+    "raw": ">Har-Har!<$N",
+    "string": ">Har-Har!<$N",
+    "enRaw": ">Har-har!<$(N)",
+    "en": ">Har-har!<$N"
+  },
+  {
+    "start": 638328,
+    "end": 638343,
+    "raw": ">Mir alles!!<$N",
+    "string": ">Mir alles!!<$N",
+    "enRaw": ">Everything is mine!!<$(N)",
+    "en": ">Everything is mine!!<$N",
+    "en2": ">All is mine<$N"
+  },
+  {
+    "start": 638504,
+    "end": 638516,
+    "raw": ">Ver~rat!<$N",
+    "string": ">Ver~rat!<$N",
+    "enRaw": ">Betrayal!<$(N)",
+    "en": ">Betrayal!<$N",
+    "en2": ">Betrayal<$N"
+  },
+  {
+    "start": 640716,
+    "end": 640788,
+    "raw": "Nennt den Mr~der von %s %s!$N%m %s %s$N%m %s %s$N%m %s %s$N%m %s %s$N$N",
+    "string": "Nennt den Mör~der von %s %s!$N%m %s %s$N%m %s %s$N%m %s %s$N%m %s %s$N$N",
+    "enRaw": "Name the murderer of %(s) %(s)!$(N)%(m) %(s) %(s)$(N)%(m) %(s) %(s)$(N)%(m) %(s) %(s)$(N)%(m) %(s) %(s)$(N)$(N)",
+    "en": "Name the murderer of %s %s!$N%m %s %s$N%m %s %s$N%m %s %s$N%m %s %s$N$N"
+  },
+  {
+    "start": 642692,
+    "end": 642710,
+    "raw": "$C%v%vBurg %o...$N",
+    "string": "$C%v%vBurg %o...$N",
+    "enRaw": "$(C)%(v)%(v)Castle %(o)...$(N)",
+    "en": "$C%v%vCastle %o...$N",
+    "en2": "$C%v%vCastle %o.$N"
+  },
+  {
+    "start": 645366,
+    "end": 645405,
+    "raw": "$C$NHochzeit zwi~schen %3N1 und %3N1.$N",
+    "string": "$C$NHochzeit zwi~schen %3N1 und %3N1.$N",
+    "enRaw": "$(C)$(N)Wedding between %(3N)1 and %(3N)1.$(N)",
+    "en": "$C$NWedding between %3N1 and %3N1.$N"
+  },
+  {
+    "start": 647156,
+    "end": 647176,
+    "raw": "%v%v%v%v%v%v%s in %s",
+    "string": "%v%v%v%v%v%v%s in %s",
+    "enRaw": "%(v)%(v)%(v)%(v)%(v)%(v)%(s) in %(s)",
+    "en": "%v%v%v%v%v%v%s in %s"
+  },
+  {
+    "start": 647177,
+    "end": 647200,
+    "raw": "%s%s%v %s, %v%v%s in %s",
+    "string": "%s%s%v %s, %v%v%s in %s",
+    "enRaw": "%(s)%(s)%(v) %(s), %(v)%(v)%(s) in %(s)",
+    "en": "%s%s%v %s, %v%v%s in %s"
+  },
+  {
+    "start": 647201,
+    "end": 647226,
+    "raw": "%s%s%v %s %s %s, %s in %s",
+    "string": "%s%s%v %s %s %s, %s in %s",
+    "enRaw": "%(s)%(s)%(v) %(s) %(s) %(s), %(s) in %(s)",
+    "en": "%s%s%v %s %s %s, %s in %s"
+  },
+  {
+    "start": 647383,
+    "end": 647406,
+    "raw": "%s%s%v %g, %v%v%s in %s",
+    "string": "%s%s%v %g, %v%v%s in %s",
+    "enRaw": "%(s)%(s)%(v) %(g), %(v)%(v)%(s) in %(s)",
+    "en": "%s%s%v %g, %v%v%s in %s"
+  },
+  {
+    "start": 647407,
+    "end": 647432,
+    "raw": "%s%s%v %g %s %s, %s in %s",
+    "string": "%s%s%v %g %s %s, %s in %s",
+    "enRaw": "%(s)%(s)%(v) %(g) %(s) %(s), %(s) in %(s)",
+    "en": "%s%s%v %g %s %s, %s in %s"
+  },
+  {
+    "start": 647503,
+    "end": 647531,
+    "raw": "$B%1N5, hei~ra~tet %4N5.$N$N",
+    "string": "$B%1N5, hei~ra~tet %4N5.$N$N",
+    "enRaw": "$(B)%(1N)5, marries %(4N)5.$(N)$(N)",
+    "en": "$B%1N5, marries %4N5.$N$N"
+  },
+  {
+    "start": 648554,
+    "end": 648589,
+    "raw": "$B%1N5, gibt ein %s Fest in %o.$N$N",
+    "string": "$B%1N5, gibt ein %s Fest in %o.$N$N",
+    "enRaw": "$(B)%(1N)5, gives a %(s) feast in %(o).$(N)$(N)",
+    "en": "$B%1N5, gives a %s feast in %o.$N$N"
+  },
+  {
+    "start": 657615,
+    "end": 657648,
+    "raw": "%m%M %m mit %m %s %s %m%M %s %m$N",
+    "string": "%m%M %m mit %m %s %s %m%M %s %m$N",
+    "enRaw": "%(m)%(M) %(m) with %(m) %(s) %(s) %(m)%(M) %(s) %(m)$(N)",
+    "en": "%m%M %m with %m %s %s %m%M %s %m$N",
+    "en2": "%m%M %m with%m %s %s %m%M %s %m$N"
+  },
+  {
+    "start": 657649,
+    "end": 657678,
+    "raw": "%m %m %m auf %m %m in %m %m$N",
+    "string": "%m %m %m auf %m %m in %m %m$N",
+    "enRaw": "%(m) %(m) %(m) on %(m) %(m) in %(m) %(m)$(N)",
+    "en": "%m %m %m on %m %m in %m %m$N"
+  },
+  {
+    "start": 657679,
+    "end": 657710,
+    "raw": "%m %m %m mit %m %m nach %m %m$N",
+    "string": "%m %m %m mit %m %m nach %m %m$N",
+    "enRaw": "%(m) %(m) %(m) with %(m) %(m) to %(m) %(m)$(N)",
+    "en": "%m %m %m with %m %m to %m %m$N"
+  },
+  {
+    "start": 657711,
+    "end": 657739,
+    "raw": "%m%M%M mit %m %m aus %m %m$N",
+    "string": "%m%M%M mit %m %m aus %m %m$N",
+    "enRaw": "%(m)%(M)%(M) with %(m) %(m) from %(m) %(m)$(N)",
+    "en": "%m%M%M with %m %m from %m %m$N",
+    "en2": "%m%M%M with%m %m from%m %m$N"
+  },
+  {
+    "start": 657753,
+    "end": 657779,
+    "raw": "%m %m %s %m mit %m %s %m$N",
+    "string": "%m %m %s %m mit %m %s %m$N",
+    "enRaw": "%(m) %(m) %(s) %(m) with %(m) %(s) %(m)$(N)",
+    "en": "%m %m %s %m with %m %s %m$N",
+    "en2": "%m %m %s %m with%m %s %m$N"
+  },
+  {
+    "start": 657803,
+    "end": 657841,
+    "raw": "%m%M die Graf~schaft %m mit %m %s %m$N",
+    "string": "%m%M die Graf~schaft %m mit %m %s %m$N",
+    "enRaw": "%(m)%(M) the county %(m) with %(m) %(s) %(m)$(N)",
+    "en": "%m%M the county %m with %m %s %m$N"
+  },
+  {
+    "start": 673827,
+    "end": 673836,
+    "raw": "$C>Ja!<$N",
+    "string": "$C>Ja!<$N",
+    "enRaw": "$(C)>Yes!<$(N)",
+    "en": "$C>Yes!<$N",
+    "en2": "$C>Ja!<$N"
+  },
+  {
+    "start": 674245,
+    "end": 674268,
+    "raw": "%aEin%s fr %d Taler.$|",
+    "string": "%aEin%s für %d Taler.$|",
+    "enRaw": "%(a)One%(s) for %(d) thaler.$|",
+    "en": "%aOne%s for %d thaler.$|",
+    "en2": "%aOne%s for %d thal.$|"
+  },
+  {
+    "start": 681034,
+    "end": 681055,
+    "raw": "%aGegen %s...$E$R%m$N",
+    "string": "%aGegen %s...$E$R%m$N",
+    "enRaw": "%(a)Against %(s)...$(E)$(R)%(m)$(N)",
+    "en": "%aAgainst %s...$E$R%m$N",
+    "en2": "%aAgainst %s.$E$R%m$N"
+  },
+  {
+    "start": 681757,
+    "end": 681779,
+    "raw": "$C%1N3 stimmt fr...$N",
+    "string": "$C%1N3 stimmt für...$N",
+    "enRaw": "$(C)%(1N)3 votes for...$(N)",
+    "en": "$C%1N3 votes for...$N"
+  },
+  {
+    "start": 682151,
+    "end": 682172,
+    "raw": "%s %s%s %s mit %s%v%v",
+    "string": "%s %s%s %s mit %s%v%v",
+    "enRaw": "%(s) %(s)%(s) %(s) with %(s)%(v)%(v)",
+    "en": "%s %s%s %s with %s%v%v",
+    "en2": "%s %s%s %s with%s%v%v"
+  },
+  {
+    "start": 682173,
+    "end": 682194,
+    "raw": "%s %s%s %s mit %v%s%v",
+    "string": "%s %s%s %s mit %v%s%v",
+    "enRaw": "%(s) %(s)%(s) %(s) with %(v)%(s)%(v)",
+    "en": "%s %s%s %s with %v%s%v",
+    "en2": "%s %s%s %s with%v%s%v"
+  },
+  {
+    "start": 682195,
+    "end": 682221,
+    "raw": "%s %s%s %s mit %s und %s%v",
+    "string": "%s %s%s %s mit %s und %s%v",
+    "enRaw": "%(s) %(s)%(s) %(s) with %(s) and %(s)%(v)",
+    "en": "%s %s%s %s with %s and %s%v",
+    "en2": "%s %s%s %s with%s and %s%v"
+  },
+  {
+    "start": 682222,
+    "end": 682243,
+    "raw": "%s %s%s %s mit %v%v%s",
+    "string": "%s %s%s %s mit %v%v%s",
+    "enRaw": "%(s) %(s)%(s) %(s) with %(v)%(v)%(s)",
+    "en": "%s %s%s %s with %v%v%s",
+    "en2": "%s %s%s %s with%v%v%s"
+  },
+  {
+    "start": 691107,
+    "end": 691155,
+    "raw": "$CAls Richter fungieren %1N3, %1N3 sowie %1N3.$N",
+    "string": "$CAls Richter fungieren %1N3, %1N3 sowie %1N3.$N",
+    "enRaw": "$(C)Serving as judges are %(1N)3, %(1N)3 as well as %(1N)3.$(N)",
+    "en": "$CServing as judges are %1N3, %1N3 as well as %1N3.$N",
+    "en2": "$CServing as judges are %1N3, %1N3, and %1N3.$N"
+  },
+  {
+    "start": 691323,
+    "end": 691352,
+    "raw": "$CHeute Pro~zeá gegen %4N1.$N",
+    "string": "$CHeute Pro~zeß gegen %4N1.$N",
+    "enRaw": "$(C)Today trial against %(4N)1.$(N)",
+    "en": "$CToday trial against %4N1.$N"
+  },
+  {
+    "start": 694514,
+    "end": 694540,
+    "raw": "$C>%v...zum zwei~ten...<$N",
+    "string": "$C>%v...zum zwei~ten...<$N",
+    "enRaw": "$(C)>%(v)...for the second time...<$(N)",
+    "en": "$C>%v...for the second time...<$N",
+    "en2": "$C>%v...again...<$N"
+  },
+  {
+    "start": 694812,
+    "end": 694935,
+    "raw": "$N$C^ Ur~kunde _$N$NIch, %1N5, er~weise Euch, %1N0, die Gnade, fort~an den Titel$N$N>%s<$N$Nzu fh~ren.$N$N$R%1N2$N%1N4$N$B",
+    "string": "$N$C^ Ur~kunde _$N$NIch, %1N5, er~weise Euch, %1N0, die Gnade, fort~an den Titel$N$N>%s<$N$Nzu füh~ren.$N$N$R%1N2$N%1N4$N$B",
+    "enRaw": "$(N)$(C)^ Certificate _$(N)$(N)I, %(1N)5, grant you, %(1N)0, the favor to henceforth bear the title$(N)$(N)>%(s)<$(N)$(N).$(N)$(N)$(R)%(1N)2$(N)%(1N)4$(N)$(B)",
+    "en": "$N$C^ Certificate _$N$NI, %1N5, grant you, %1N0, the favor to henceforth bear the title$N$N>%s<$N$N.$N$N$R%1N2$N%1N4$N$B"
+  },
+  {
+    "start": 694936,
+    "end": 695060,
+    "raw": "$N$C^ Ur~kunde _$N$NWir, %1N5, ver~fgen hier~mit, daá Ihr, %4N1, Euch fort~an$N$N>%s<$N$Nnen~nen drft.$N$N$R%1N2$N%1N4$N$B",
+    "string": "$N$C^ Ur~kunde _$N$NWir, %1N5, ver~fügen hier~mit, daß Ihr, %4N1, Euch fort~an$N$N>%s<$N$Nnen~nen dürft.$N$N$R%1N2$N%1N4$N$B",
+    "enRaw": "$(N)$(C)^ Certificate _$(N)$(N)We, %(1N)5, hereby decree that you, %(4N)1, may henceforth call yourself$(N)$(N)>%(s)<$(N)$(N).$(N)$(N)$(R)%(1N)2$(N)%(1N)4$(N)$(B)",
+    "en": "$N$C^ Certificate _$N$NWe, %1N5, hereby decree that you, %4N1, may henceforth call yourself$N$N>%s<$N$N.$N$N$R%1N2$N%1N4$N$B"
+  },
+  {
+    "start": 695696,
+    "end": 695726,
+    "raw": "$BEu%s %s ver~lát Euch...$N$N",
+    "string": "$BEu%s %s ver~läßt Euch...$N$N",
+    "enRaw": "$(B)Your %(s) %(s) leaves you...$(N)$(N)",
+    "en": "$BYour %s %s leaves you...$N$N"
+  },
+  {
+    "start": 697453,
+    "end": 697478,
+    "raw": "%a%m Taler fr %2N0 %s!$|",
+    "string": "%a%m Taler für %2N0 %s!$|",
+    "enRaw": "%(a)%(m) thaler for %(2N)0 %(s)!$|",
+    "en": "%a%m thaler for %2N0 %s!$|",
+    "en2": "%a%m thal. for %2N0 %s!$|"
+  },
+  {
+    "start": 702400,
+    "end": 702438,
+    "raw": "$ZIhr schickt %3N1 Eure Ab~sage...$N$N",
+    "string": "$ZIhr schickt %3N1 Eure Ab~sage...$N$N",
+    "enRaw": "$(Z)You send %(3N)1 your cancellation...$(N)$(N)",
+    "en": "$ZYou send %3N1 your cancellation...$N$N",
+    "en2": "$ZYou send %3N1 your cancellation.$N$N"
+  },
+  {
+    "start": 703788,
+    "end": 703801,
+    "raw": "$CSpter...$N",
+    "string": "$CSpäter...$N",
+    "enRaw": "$(C)Later...$(N)",
+    "en": "$CLater...$N"
+  },
+  {
+    "start": 708550,
+    "end": 708564,
+    "raw": "%aJa!%aNein!$|",
+    "string": "%aJa!%aNein!$|",
+    "enRaw": "%(a)Yes!%(a)No!$|",
+    "en": "%aYes!%aNo!$|"
+  },
+  {
+    "start": 709838,
+    "end": 709871,
+    "raw": "$C>Der Zu~schlag geht an %4N5!<$N",
+    "string": "$C>Der Zu~schlag geht an %4N5!<$N",
+    "enRaw": "$(C)>The bid goes to %(4N)5!<$(N)",
+    "en": "$C>The bid goes to %4N5!<$N"
+  },
+  {
+    "start": 715075,
+    "end": 715117,
+    "raw": "$ZIhr ber~sendet %3N1 Eure Ab~sage...$N$N",
+    "string": "$ZIhr über~sendet %3N1 Eure Ab~sage...$N$N",
+    "enRaw": "$(Z)You send %(3N)1 your cancellation...$(N)$(N)",
+    "en": "$ZYou send %3N1 your cancellation...$N$N"
+  },
+  {
+    "start": 762528,
+    "end": 762559,
+    "raw": "$P$Z$CBitte warten...$Z%*$E%*$N",
+    "string": "$P$Z$CBitte warten...$Z%*$E%*$N",
+    "enRaw": "$(P)$(Z)$(C)Please wait...$(Z)%*$(E)%*$(N)",
+    "en": "$P$Z$CPlease wait...$Z%*$E%*$N"
+  },
+  {
+    "start": 764032,
+    "end": 764085,
+    "raw": "$|$N$CWohin soll in~stal~liert wer~den?$Z$20>$20<%m$N",
+    "string": "$|$N$CWohin soll in~stal~liert wer~den?$Z$20>$20<%m$N",
+    "enRaw": "$|$(N)$(C)Where should it be installed?$(Z)$20>$20<%(m)$(N)",
+    "en": "$|$N$CWhere should it be installed?$Z$20>$20<%m$N"
+  },
+  {
+    "start": 765472,
+    "end": 765504,
+    "raw": "$C%l - Ihr gabt ein %s Fest...$N",
+    "string": "$C%l - Ihr gabt ein %s Fest...$N",
+    "enRaw": "$(C)%(l) - You held a %(s) feast...$(N)",
+    "en": "$C%l - You held a %s feast...$N"
+  },
+  {
+    "start": 765732,
+    "end": 765765,
+    "raw": "$C%l - Die Pest wtete in %o...$N",
+    "string": "$C%l - Die Pest wütete in %o...$N",
+    "enRaw": "$(C)%(l) - The plague raged in %(o)...$(N)",
+    "en": "$C%l - The plague raged in %o...$N",
+    "en2": "$C%l - The plague raged in %o..$N"
+  },
+  {
+    "start": 767488,
+    "end": 767523,
+    "raw": "$C^ Versteigerung A.D. %l in %o _$N",
+    "string": "$C^ Versteigerung A.D. %l in %o _$N",
+    "enRaw": "$(C)^ Auction A.D. %(l) in %(o) _$(N)",
+    "en": "$C^ Auction A.D. %l in %o _$N"
+  },
+  {
+    "start": 767544,
+    "end": 767586,
+    "raw": "$t$|$4H$10>$56<$Z$C^ Position %d _$N$N%J$N",
+    "string": "$t$|$4H$10>$56<$Z$C^ Position %d _$N$N%J$N",
+    "enRaw": "$(t)$|$4H$10>$56<$(Z)$(C)^ Position %(d) _$(N)$(N)%(J)$(N)",
+    "en": "$t$|$4H$10>$56<$Z$C^ Position %d _$N$N%J$N"
+  },
+  {
+    "start": 767732,
+    "end": 767774,
+    "raw": "$t$|$4H$10>$56<$Z$C^ Position %d _$N$N%J$N",
+    "string": "$t$|$4H$10>$56<$Z$C^ Position %d _$N$N%J$N",
+    "enRaw": "$(t)$|$4H$10>$56<$(Z)$(C)^ Position %(d) _$(N)$(N)%(J)$(N)",
+    "en": "$t$|$4H$10>$56<$Z$C^ Position %d _$N$N%J$N"
+  },
+  {
+    "start": 767908,
+    "end": 767950,
+    "raw": "$t$|$4H$10>$56<$Z$C^ Position %d _$N$N%J$N",
+    "string": "$t$|$4H$10>$56<$Z$C^ Position %d _$N$N%J$N",
+    "enRaw": "$(t)$|$4H$10>$56<$(Z)$(C)^ Position %(d) _$(N)$(N)%(J)$(N)",
+    "en": "$t$|$4H$10>$56<$Z$C^ Position %d _$N$N%J$N"
+  },
+  {
+    "start": 772220,
+    "end": 772250,
+    "raw": "$W$P$N$C^ Gewinne... _$N$N$N$L",
+    "string": "$W$P$N$C^ Gewinne... _$N$N$N$L",
+    "enRaw": "$(W)$(P)$(N)$(C)^ Winnings... _$(N)$(N)$(N)$(L)",
+    "en": "$W$P$N$C^ Winnings... _$N$N$N$L",
+    "en2": "$W$P$N$C^ Winnings.. _$N$N$N$L"
+  },
+  {
+    "start": 772524,
+    "end": 772545,
+    "raw": "^ Verluste... _$N$Z$L",
+    "string": "^ Verluste... _$N$Z$L",
+    "enRaw": "^ Losses... _$(N)$(Z)$(L)",
+    "en": "^ Losses... _$N$Z$L"
+  },
+  {
+    "start": 772844,
+    "end": 772872,
+    "raw": "$W$P$C$Z^ Bezahlung... _$N$N",
+    "string": "$W$P$C$Z^ Bezahlung... _$N$N",
+    "enRaw": "$(W)$(P)$(C)$(Z)^ Payment... _$(N)$(N)",
+    "en": "$W$P$C$Z^ Payment... _$N$N"
+  },
+  {
+    "start": 773444,
+    "end": 773460,
+    "raw": "$C^ %s in %o _$N",
+    "string": "$C^ %s in %o _$N",
+    "enRaw": "$(C)^ %(s) in %(o) _$(N)",
+    "en": "$C^ %s in %o _$N"
+  },
+  {
+    "start": 773480,
+    "end": 773498,
+    "raw": "$H$C^ %s in %o _$N",
+    "string": "$H$C^ %s in %o _$N",
+    "enRaw": "$(H)$(C)^ %(s) in %(o) _$(N)",
+    "en": "$H$C^ %s in %o _$N"
+  },
+  {
+    "start": 773500,
+    "end": 773519,
+    "raw": "$H$C^ %s bei... _$N",
+    "string": "$H$C^ %s bei... _$N",
+    "enRaw": "$(H)$(C)^ %(s) at... _$(N)",
+    "en": "$H$C^ %s at... _$N"
+  },
+  {
+    "start": 776348,
+    "end": 776366,
+    "raw": "%a%s in %o$E$R%m$|",
+    "string": "%a%s in %o$E$R%m$|",
+    "enRaw": "%(a)%(s) in %(o)$(E)$(R)%(m)$|",
+    "en": "%a%s in %o$E$R%m$|"
+  },
+  {
+    "start": 778668,
+    "end": 778708,
+    "raw": "$8H$Z$C$gNchster Spieler:$Z%1N1, %1N4$N",
+    "string": "$8H$Z$C$gNächster Spieler:$Z%1N1, %1N4$N",
+    "enRaw": "$8H$(Z)$(C)$(g)Next player:$(Z)%(1N)1, %(1N)4$(N)",
+    "en": "$8H$Z$C$gNext player:$Z%1N1, %1N4$N"
+  },
+  {
+    "start": 779840,
+    "end": 779868,
+    "raw": "$|$H$Z$C^ Spieler Nr. %d _$Z",
+    "string": "$|$H$Z$C^ Spieler Nr. %d _$Z",
+    "enRaw": "$|$(H)$(Z)$(C)^ Player No. %(d) _$(Z)",
+    "en": "$|$H$Z$C^ Player No. %d _$Z"
+  },
+  {
+    "start": 779883,
+    "end": 779899,
+    "raw": "$56<$C^ Name _$Z",
+    "string": "$56<$C^ Name _$Z",
+    "enRaw": "$56<$(C)^ Name _$(Z)",
+    "en": "$56<$C^ Name _$Z"
+  },
+  {
+    "start": 781384,
+    "end": 781403,
+    "raw": "Begehrte Gter:    ",
+    "string": "Begehrte Güter:    ",
+    "enRaw": "Coveted goods:",
+    "en": "Coveted goods:"
+  },
+  {
+    "start": 781808,
+    "end": 781884,
+    "raw": "                                Kein Auftrag                                ",
+    "string": "                                Kein Auftrag                                ",
+    "enRaw": "No order",
+    "en": "No order"
+  },
+  {
+    "start": 781912,
+    "end": 781988,
+    "raw": "$78<$R%m%M %m$E$|$30>$Lmit %m %s$E$|$62>$7=$C%s$E$|$70>$L%m%M %s$E$|$R%m$|$L",
+    "string": "$78<$R%m%M %m$E$|$30>$Lmit %m %s$E$|$62>$7=$C%s$E$|$70>$L%m%M %s$E$|$R%m$|$L",
+    "enRaw": "$78<$(R)%(m)%(M) %(m)$(E)$|$30>$(L)with %(m) %(s)$(E)$|$62>$7=$(C)%(s)$(E)$|$70>$(L)%(m)%(M) %(s)$(E)$|$(R)%(m)$|$(L)",
+    "en": "$78<$R%m%M %m$E$|$30>$Lwith %m %s$E$|$62>$7=$C%s$E$|$70>$L%m%M %s$E$|$R%m$|$L",
+    "en2": "$78<$R%m%M %m$E$|$30>$Lwith%m %s$E$|$62>$7=$C%s$E$|$70>$L%m%M %s$E$|$R%m$|$L"
+  },
+  {
+    "start": 781992,
+    "end": 782048,
+    "raw": "%m %m$E$30>$14=$C%m$E$|$44>$Lauf %m %m in %m$E$|$R%m$|$L",
+    "string": "%m %m$E$30>$14=$C%m$E$|$44>$Lauf %m %m in %m$E$|$R%m$|$L",
+    "enRaw": "%(m) %(m)$(E)$30>$14=$(C)%(m)$(E)$|$44>$(L)on %(m) %(m) in %(m)$(E)$|$(R)%(m)$|$(L)",
+    "en": "%m %m$E$30>$14=$C%m$E$|$44>$Lon %m %m in %m$E$|$R%m$|$L"
+  },
+  {
+    "start": 782052,
+    "end": 782108,
+    "raw": "%m %m$E$30>$14=$C%m$E$|$44>$Lmit %m %m n. %m$E$|$R%m$|$L",
+    "string": "%m %m$E$30>$14=$C%m$E$|$44>$Lmit %m %m n. %m$E$|$R%m$|$L",
+    "enRaw": "%(m) %(m)$(E)$30>$14=$(C)%(m)$(E)$|$44>$(L)with %(m) %(m) to %(m)$(E)$|$(R)%(m)$|$(L)",
+    "en": "%m %m$E$30>$14=$C%m$E$|$44>$Lwith %m %m to %m$E$|$R%m$|$L",
+    "en2": "%m %m$E$30>$14=$C%m$E$|$44>$Lwith%m %m to %m$E$|$R%m$|$L"
+  },
+  {
+    "start": 782112,
+    "end": 782171,
+    "raw": "%m %J %m$E$30>$14=$C%m$E$|$44>$Lauf %m %m in %m$E$|$R%m$|$L",
+    "string": "%m %J %m$E$30>$14=$C%m$E$|$44>$Lauf %m %m in %m$E$|$R%m$|$L",
+    "enRaw": "%(m) %(J) %(m)$(E)$30>$14=$(C)%(m)$(E)$|$44>$(L)on %(m) %(m) in %(m)$(E)$|$(R)%(m)$|$(L)",
+    "en": "%m %J %m$E$30>$14=$C%m$E$|$44>$Lon %m %m in %m$E$|$R%m$|$L"
+  },
+  {
+    "start": 782172,
+    "end": 782231,
+    "raw": "%m %J %m$E$30>$14=$C%m$E$|$44>$Lmit %m %m n. %m$E$|$R%m$|$L",
+    "string": "%m %J %m$E$30>$14=$C%m$E$|$44>$Lmit %m %m n. %m$E$|$R%m$|$L",
+    "enRaw": "%(m) %(J) %(m)$(E)$30>$14=$(C)%(m)$(E)$|$44>$(L)with %(m) %(m) to %(m)$(E)$|$(R)%(m)$|$(L)",
+    "en": "%m %J %m$E$30>$14=$C%m$E$|$44>$Lwith %m %m to %m$E$|$R%m$|$L",
+    "en2": "%m %J %m$E$30>$14=$C%m$E$|$44>$Lwith%m %m to %m$E$|$R%m$|$L"
+  },
+  {
+    "start": 782232,
+    "end": 782282,
+    "raw": "$78<$R%m%M%M$E$|$30>$Lmit %m %m aus %m$E$|$R%m$|$L",
+    "string": "$78<$R%m%M%M$E$|$30>$Lmit %m %m aus %m$E$|$R%m$|$L",
+    "enRaw": "$78<$(R)%(m)%(M)%(M)$(E)$|$30>$(L)with %(m) %(m) from %(m)$(E)$|$(R)%(m)$|$(L)",
+    "en": "$78<$R%m%M%M$E$|$30>$Lwith %m %m from %m$E$|$R%m$|$L",
+    "en2": "$78<$R%m%M%M$E$|$30>$Lwith%m %m from%m$E$|$R%m$|$L"
+  },
+  {
+    "start": 782584,
+    "end": 782597,
+    "raw": "%1W in %o$N$N",
+    "string": "%1W in %o$N$N",
+    "enRaw": "%(1W) in %(o)$(N)$(N)",
+    "en": "%1W in %o$N$N"
+  },
+  {
+    "start": 784700,
+    "end": 784715,
+    "raw": "Zustand: %d%%$Z",
+    "string": "Zustand: %d%%$Z",
+    "enRaw": "Condition: %(d)%%$(Z)",
+    "en": "Condition: %d%%$Z",
+    "en2": "Cond.: %d%%$Z"
+  },
+  {
+    "start": 784716,
+    "end": 784729,
+    "raw": "Zustand: --$Z",
+    "string": "Zustand: --$Z",
+    "enRaw": "Condition: --$(Z)",
+    "en": "Condition: --$Z",
+    "en2": "Cond.: --$Z"
+  },
+  {
+    "start": 785080,
+    "end": 785182,
+    "raw": "$C^ Information Burg %o _$ZDiese Burg gehrt %3N5.$N$14H$Z$/Wert: %d Taler$E$1/Wege-Zollsatz: %d%%$|$Z",
+    "string": "$C^ Information Burg %o _$ZDiese Burg gehört %3N5.$N$14H$Z$/Wert: %d Taler$E$1/Wege-Zollsatz: %d%%$|$Z",
+    "enRaw": "$(C)^ Castle Information %(o) _$(Z)This castle belongs to %(3N)5.$(N)$14H$(Z)$/Value: %(d) thaler$(E)$1/Toll rate: %(d)%%$|$(Z)",
+    "en": "$C^ Castle Information %o _$ZThis castle belongs to %3N5.$N$14H$Z$/Value: %d thaler$E$1/Toll rate: %d%%$|$Z",
+    "en2": "$C^ Castle Information %o _$ZBelongs to %3N5.$N$14H$Z$/Value: %d thaler$E$1/Toll rate: %d%%$|$Z"
+  },
+  {
+    "start": 785840,
+    "end": 785916,
+    "raw": "                                Kein Auftrag                                ",
+    "string": "                                Kein Auftrag                                ",
+    "enRaw": "No assignment",
+    "en": "No assignment"
+  },
+  {
+    "start": 785944,
+    "end": 785996,
+    "raw": "$R$25<%m%M %m mit %m+%m+%m+%m$E$2<$L$82>%s$E$R%m$|$L",
+    "string": "$R$25<%m%M %m mit %m+%m+%m+%m$E$2<$L$82>%s$E$R%m$|$L",
+    "enRaw": "$(R)$25<%(m)%(M) %(m) with %(m)+%(m)+%(m)+%(m)$(E)$2<$(L)$82>%(s)$(E)$(R)%(m)$|$(L)",
+    "en": "$R$25<%m%M %m with %m+%m+%m+%m$E$2<$L$82>%s$E$R%m$|$L",
+    "en2": "$R$25<%m%M %m with%m+%m+%m+%m$E$2<$L$82>%s$E$R%m$|$L"
+  },
+  {
+    "start": 786052,
+    "end": 786104,
+    "raw": "$R$25<%m%M %m mit %m+%m+%m+%m$E$2<$L$82>%s$E$R%m$|$L",
+    "string": "$R$25<%m%M %m mit %m+%m+%m+%m$E$2<$L$82>%s$E$R%m$|$L",
+    "enRaw": "$(R)$25<%(m)%(M) %(m) with %(m)+%(m)+%(m)+%(m)$(E)$2<$(L)$82>%(s)$(E)$(R)%(m)$|$(L)",
+    "en": "$R$25<%m%M %m with %m+%m+%m+%m$E$2<$L$82>%s$E$R%m$|$L",
+    "en2": "$R$25<%m%M %m with%m+%m+%m+%m$E$2<$L$82>%s$E$R%m$|$L"
+  },
+  {
+    "start": 786204,
+    "end": 786227,
+    "raw": "$Z$C^ Zustand im %o _$Z",
+    "string": "$Z$C^ Zustand im %o _$Z",
+    "enRaw": "$(Z)$(C)^ Condition in the %(o) _$(Z)",
+    "en": "$Z$C^ Condition in the %o _$Z",
+    "en2": "$Z$C^ Cond. in %o _$Z"
+  },
+  {
+    "start": 787104,
+    "end": 787121,
+    "raw": "$Z$C^ Manver _$Z",
+    "string": "$Z$C^ Manöver _$Z",
+    "enRaw": "$(Z)$(C)^ Maneuver _$(Z)",
+    "en": "$Z$C^ Maneuver _$Z",
+    "en2": "$Z$C^ Maneuver_$Z"
+  },
+  {
+    "start": 787300,
+    "end": 787348,
+    "raw": "$Z$C^ Zollsatz Burg %o _$N$15H$CZollsatz: %m%%$N",
+    "string": "$Z$C^ Zollsatz Burg %o _$N$15H$CZollsatz: %m%%$N",
+    "enRaw": "$(Z)$(C)^ Toll rate Castle %(o) _$(N)$15H$(C)Toll rate: %(m)%%$(N)",
+    "en": "$Z$C^ Toll rate Castle %o _$N$15H$CToll rate: %m%%$N",
+    "en2": "$Z$C^ Toll Castle %o _$N$15H$CToll rate: %m%%$N"
+  },
+  {
+    "start": 787352,
+    "end": 787428,
+    "raw": "                                Kein Auftrag                                ",
+    "string": "                                Kein Auftrag                                ",
+    "enRaw": "No assignment",
+    "en": "No assignment"
+  },
+  {
+    "start": 787432,
+    "end": 787484,
+    "raw": "$R$25<%m%M %m mit %m+%m+%m+%m$E$2<$L$82>%s$E$R%m$|$L",
+    "string": "$R$25<%m%M %m mit %m+%m+%m+%m$E$2<$L$82>%s$E$R%m$|$L",
+    "enRaw": "$(R)$25<%(m)%(M) %(m) with %(m)+%(m)+%(m)+%(m)$(E)$2<$(L)$82>%(s)$(E)$(R)%(m)$|$(L)",
+    "en": "$R$25<%m%M %m with %m+%m+%m+%m$E$2<$L$82>%s$E$R%m$|$L",
+    "en2": "$R$25<%m%M %m with%m+%m+%m+%m$E$2<$L$82>%s$E$R%m$|$L"
+  },
+  {
+    "start": 787648,
+    "end": 787701,
+    "raw": "%1N5, er~hht den Zoll~satz der Burg %s auf %d%%.$N$N",
+    "string": "%1N5, er~höht den Zoll~satz der Burg %s auf %d%%.$N$N",
+    "enRaw": "%(1N)5, increases the castle's toll rate %(s) to %(d)%%.$(N)$(N)",
+    "en": "%1N5, increases the castle's toll rate %s to %d%%.$N$N",
+    "en2": "%1N5, increases the castle's toll %s to %d%%.$N$N"
+  },
+  {
+    "start": 787708,
+    "end": 787749,
+    "raw": "$h%1N5, schwrzt$h %4N0 bei %3N5, an.$N$N",
+    "string": "$h%1N5, schwärzt$h %4N0 bei %3N5, an.$N$N",
+    "enRaw": "$(h)%(1N)5, blackens$(h) %(4N)0 at %(3N)5, on.$(N)$(N)",
+    "en": "$h%1N5, blackens$h %4N0 at %3N5, on.$N$N"
+  },
+  {
+    "start": 789412,
+    "end": 789441,
+    "raw": "$Z$B%1N0 ist zur Zeit %1N4.$N",
+    "string": "$Z$B%1N0 ist zur Zeit %1N4.$N",
+    "enRaw": "$(Z)$(B)%(1N)0 is currently %(1N)4.$(N)",
+    "en": "$Z$B%1N0 is currently %1N4.$N"
+  },
+  {
+    "start": 789444,
+    "end": 789489,
+    "raw": "$Z$B%1N1 ist zur Zeit %1N4 und %f von %3N0.$N",
+    "string": "$Z$B%1N1 ist zur Zeit %1N4 und %f von %3N0.$N",
+    "enRaw": "$(Z)$(B)%(1N)1 is currently %(1N)4 and %(f) of %(3N)0.$(N)",
+    "en": "$Z$B%1N1 is currently %1N4 and %f of %3N0.$N"
+  },
+  {
+    "start": 790192,
+    "end": 790221,
+    "raw": "$H$C^ Eure Ausgaben _$Z$8>$8<",
+    "string": "$H$C^ Eure Ausgaben _$Z$8>$8<",
+    "enRaw": "$(H)$(C)^ Your expenses _$(Z)$8>$8<",
+    "en": "$H$C^ Your expenses _$Z$8>$8<"
+  },
+  {
+    "start": 794892,
+    "end": 794916,
+    "raw": "$C%1N3 stimmt fr...$N$H",
+    "string": "$C%1N3 stimmt für...$N$H",
+    "enRaw": "$(C)%(1N)3 votes for...$(N)$(H)",
+    "en": "$C%1N3 votes for...$N$H"
+  },
+  {
+    "start": 794932,
+    "end": 794962,
+    "raw": "$CDamit wird %1F %s in %o.$N$H",
+    "string": "$CDamit wird %1F %s in %o.$N$H",
+    "enRaw": "$(C)With that, %(1F) %(s) in %(o).$(N)$(H)",
+    "en": "$CWith that, %1F %s in %o.$N$H"
+  },
+  {
+    "start": 795000,
+    "end": 795029,
+    "raw": "$8H$C$g%1F wird %s in %o.$N$H",
+    "string": "$8H$C$g%1F wird %s in %o.$N$H",
+    "enRaw": "$8H$(C)$(g)%(1F) becomes %(s) in %(o).$(N)$(H)",
+    "en": "$8H$C$g%1F becomes %s in %o.$N$H",
+    "en2": "$8H$C$g%1F bec. %s in %o.$N$H"
+  },
+  {
+    "start": 796120,
+    "end": 796159,
+    "raw": "$B$h%o$h geht fr %d Taler an %1N5.$N$N",
+    "string": "$B$h%o$h geht für %d Taler an %1N5.$N$N",
+    "enRaw": "$(B)$(h)%(o)$(h) goes for %(d) thalers to %(1N)5.$(N)$(N)",
+    "en": "$B$h%o$h goes for %d thalers to %1N5.$N$N",
+    "en2": "$B$h%o$h goes for %d thal. to %1N5.$N$N"
+  },
+  {
+    "start": 796676,
+    "end": 796686,
+    "raw": "%s in %o$N",
+    "string": "%s in %o$N",
+    "enRaw": "%(s) in %(o)$(N)",
+    "en": "%s in %o$N"
+  },
+  {
+    "start": 796688,
+    "end": 796703,
+    "raw": "Der %s von %o$N",
+    "string": "Der %s von %o$N",
+    "enRaw": "The %(s) of %(o)$(N)",
+    "en": "The %s of %o$N"
   }
 ]
