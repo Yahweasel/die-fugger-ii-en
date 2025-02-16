@@ -21,6 +21,9 @@ The patch is provided as a .ips file, which can be applied with any IPS patcher
 `tools/extract.js` extracts strings, and converts them to Unicode, in
 `strings.json`.
 
+Irrelevant strings, error codes, random string-like sequences, and other cruft
+was removed from `strings.json` by hand.
+
 Those strings were then run through ChatGPT for translation, using
 `tools/trans.js`. It leaves the translation as `en` fields in `strings.json`.
 
