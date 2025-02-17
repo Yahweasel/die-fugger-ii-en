@@ -17,10 +17,17 @@ Thanks to archive.org user Eulisker for uploading the [original German
 handbook](https://archive.org/details/fugger-ii-die-1996-das-handbuch-de), in
 higher quality than the copy that came with my version of the game.
 
+A translation of the mission cards that came in my box—I have no idea whether
+they're the same in every box—is available in
+[cards-en.txt](mission-cards/cards-en.txt). It was translated the same as the
+manual.
+
+
 ## Applying the patch
 
 The patch is provided as a .ips file, which can be applied with any IPS patcher
 (such as flips). Or, you can use `tools/apply.js`.
+
 
 ## How the patch was made
 
