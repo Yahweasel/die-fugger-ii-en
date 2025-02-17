@@ -1,0 +1,53 @@
+träge auf einfache Weise ein Jahr „pausieren“ lassen, wenn
+Ihnen dies geraten erscheint.
+
+7.1.2.3 Der Produktionsauftrag
+Mittels eines Produktionsauftrages „mieten“ Sie einige Ar=
+beiter und einige Produktionsmittel, mit deren Hilfe eine be=
+stimmte Ware hergestellt werden soll. Je nach Art der Ware
+schwankt das optimale Verhältnis zwischen eingesetzten Ar=
+beitern und eingesetzten Produktionsmitteln. Heißt Ihre erste
+Niederlassung zum Beispiel Falkenhorst, so könnte ein für
+Sie günstiger Produktionsauftrag etwa heißen:
+
+Braut Bier mit 6 Arbeitern an 3 Kesseln. (Status)
+Die fett gedruckten Auftragsbestandteile können von Ihnen
+verändert werden. Die „6“ und die „3“ sind selbsterklärend.
+Bei „Bier“ können Sie die Waren durchblättern, die Sie in
+dieser Stadt produzieren können. In Falkenhorst hieße dies,
+wenn Sie „Bier“ anklicken, veränderte sich der Auftrag zu
+
+Fangt Fisch mit 6 Arbeitern an 3 Booten. (Status)
+Da nun für den Fischfang das optimale Verhältnis von Ar=
+beitern zu Booten 3:1 ist, sollten Sie, wenn Sie Fisch fan=
+gen wollen, die Anzahl der Boote um 1 erniedigen. Die
+jeweils optimale Arbeiter=Produktionsmittel=Verhältnisse
+können Sie dem „Wichtige Hinweise zum Spiel“-Teil ent=
+nehmen.
+
+Durch Klicken auf den ersten Begriff eines Auftrags kön=
+nen Sie auftragsuntypische Maßnahmen ergreifen. Wenn
+Sie also zum Beispiel „Fangt...“ durch „Schafft...“ erset=
+zen, wird der Auftrag effektiv in einen „Schafft Waren“-=
+abtrag umgewandelt. Sollten Sie Ihrer erste Niederlas=
+sungen bringen, so klicken Sie abermals, und Sie haben
+den Auftragstyp „Schafft Waren“ eingestellt...
+
+7.1.2.4 Der Verkaufsauftrag
+Mit einem Verkaufsauftrag verschicken Sie eine bestimmte
+Anzahl Waren mit einer bestimmten Anzahl Transportmitteln
+in eine andere Stadt und verkaufen die Waren dort.
+Die Transportmittel kehren danach in Ihr Lager zurück und
+sind im nächsten Jahr wieder verfügbar.
+
+Verkauft 100 Fisch auf 1 Karren in Fürstenbrück. 
+(Status)
+
+„100“ ist abermals selbsterklärend. Bei „Fisch“ stellen Sie den
+Warentyp ein, den Sie in „Fürstenbrück“, Ihrer Zielstadt für
+diesen Auftrag, verkaufen wollen. Beachten Sie bei allen
+Transportaufträgen, daß ein bestimmter Transporttyp (hier
+„Karren“) nur ein bestimmtes Fassungsvermögen hat. Karren
+können beispielsweise 100 Einheiten einer Ware transportieren,
+
+16

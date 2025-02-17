@@ -1,0 +1,15 @@
+orders "pause" for a year if you deem it advisable.
+
+7.1.2.3 The Production Order By issuing a production order, you "hire" some workers and several production tools to help produce a specific commodity. Depending on the type of commodity, the optimal ratio between workers and production tools varies. For example, if your first branch is called Falkenhorst, a good production order for you might be:
+
+Brew beer with 6 workers at 3 kettles. (Status) The bold components of the order can be changed by you. The "6" and the "3" are self-explanatory. You can scroll through the goods that you can produce in this city with "Beer." In Falkenhorst, if you click on "Beer," the order changes to:
+
+Catch fish with 6 workers at 3 boats. (Status) Since the optimal ratio of workers to boats for fishing is 3:1, if you want to fish, you should reduce the number of boats by 1. You can find the optimal worker-production tool ratios in the "Important Tips for the Game" section.
+
+By clicking on the first term of an order, you can take uncharacteristic actions for orders. If, for example, you replace "Catch..." with "Transport...," the order effectively changes to a "Transport Goods" order. If you intend to bring your first branches, click again, and you have set the order type to "Transport Goods"...
+
+7.1.2.4 The Sales Order With a sales order, you send a certain number of goods with a specific number of transport means to another city and sell the goods there. The transport means return to your warehouse afterward and are available again the next year.
+
+Sell 100 fish on 1 cart in Fürstenbrück. (Status)
+
+"100" is again self-explanatory. With "Fish," you set the type of goods that you want to sell in "Fürstenbrück," the target city for this order. Note for all transport orders that a certain type of transport (in this case "Cart") has a specific capacity. For example, carts can transport 100 units of a commodity.

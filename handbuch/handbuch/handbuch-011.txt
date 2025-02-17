@@ -1,0 +1,30 @@
+Banner klicken, so öffnet sich der Marktplatz, das Optionen-Fenster. Hier haben Sie folgende Möglichkeiten: 
+
+6.2.1 Speichern 
+Klicken Sie auf das Schild mit dem Buchstaben „S“. Sie können bis zu fünf Spielstände mit einem Kommentar versehen und speichern. 
+
+6.2.2 Laden 
+Ein zuvor gespeichertes Spiel kann über Klicken auf das Schild „L“ fortgesetzt werden. 
+
+6.2.3 Grafik 
+Hier können Sie die Farbauflösung zwischen 256 und 32.768 Farben wählen, die Fenstergröße für die Animationen einstellen und die Ablaufgeschwindigkeit von Texten (Scrollgeschwindigkeit) bestimmen. 
+
+6.2.4 Musik 
+In diesem Fenster stehen Ihnen drei Lautstärkeregler für Digital-Sound, Musik und Sprache zur Verfügung. Sie können weiterhin die Sprachausgabe ein- oder ausschalten und Ihreinstellungen durch einen „Soundcheck“ überprüfen. Durch den Menüpunkt „Soundkarten...“ gelangen Sie in das Sound-Menü (siehe S.7). 
+
+6.2.5 Optionen 
+Sie können die Geschichtsschreibung (historische Ereignisse), Abenteuer (Sub-Plots), das Schicksal (Zufallsereignisse), Hilfe von Jakob Fugger (Spielhilfen) und wahrens einer oder Zyke setzen. Wenn Sie eines miteiltesten Spielern spielen, so 
+
+werden Sie etwa auf Fehler bei Ihrem Handel hingewiesen oder gewarnt, wenn sich Ihr Bildschirrnleben dem Ende zuneigt, Sie jedoch keine Kinder haben, um weiterspielen zu können. Wenn Sie „Runde bestätigen“ einschalten, so werden Sie nach einem Rechtsklick im Kontor gefragt, ob Sie Ihre Spielrunde wirklich beenden wollen. Durch Anschalten von „Spieler ankündigen“ wird vor jeder Runde der Name des Mitspielers angezeigt, der als Nächstes spielt. Schalten Sie „Zeugen & Plädoyers“ aus, so verkürzen Sie die Gerichtsverhandlungen. 
+
+6.2.6 Neuer Spieler 
+„Die Fugger II“ gestattet es Ihnen, auch während einer laufenden Partie weitere Spieler aufzunehmen, sofern noch nicht alle sechs möglichen Startorte vergeben sind. Wenn Sie beispielsweise zu zweit bereits bis zum Jahr 1617 gespielt haben und ein Dritter mitspielen möchte, wird das Spiel mit dem durchschnittlichen Vermögen der beiden Anderen beginnen; ein Amt und einen Titel wird er sich freilich erst arbeiten müssen. 
+
+6.2.7 Spiel beenden 
+Irgendwann gegen vier Uhr morgens sind Sie vielleicht so müde, daß Sie sich entscheiden, die laufende Partie abzubrechen. Das Stadttor auf dem Marktplatz ist der Ausgang aus dem 17. Jahrhundert. Sie können die zuletzt beendete Partie übrigens nach dem Neustart von „Die Fugger II“ direkt mit der Option „Letztes Spiel fortsetzen“ weiterspielen. 
+
+7. Im Kontor 
+
+„Die Fugger II“ ist ein auf Runden- und Jahre basierendes Spiel. Das heißt, wenn Sie mit mehreren Spielern spielen,
+
+12

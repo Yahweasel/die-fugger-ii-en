@@ -1,0 +1,29 @@
+Säbeltal Truppen schicken, so könnten Sie einstellen:
+Schickt Hohenfels 04+02+07+03 Räuber.
+(Status)
+
+Sie schicken 4 Räuber, 2 Bombenleger, 7 Kanoniere und 3 Flintenschützen nach Hohenfels, dort werden (wegen der Umwandlung) 4 Söldner, 3 Musketiere, 7 Kanoniere und 2 Offiziere ankommen.
+
+7.5.2.5 Nur Räuberlager: Der Plündert-Auftrag
+Der Plündert-Auftrag dient dazu, von einem Räuberlager aus Warentransporte in einer bestimmten Grafschaft zu plündern. Die Räuber ziehen also los und lauern den Transporten auf. Da aber auch Räuber nicht immer wissen, welche geheimen Schleichwege diese Transporte nehmen, führt dieser Auftrag nicht unbedingt zum Erfolg.
+Plündert Bergenhöh mit 03+05+02+04 Räubern.
+(Status)
+
+Der Zielort "Bergenhöh” bedeutet: Die Räuber werden versuchen, Warentransporte mit einer Zielstadt, welche in der Grafschaft Bergenhöh gelegen ist, zu plündern. Potentielle Opfer wären also Transporte nach Greifenheim, Bergstedt und Falkenhorst.
+
+7.5.2.6 Nur Zollburgen: Der Überwacht-Auftrag
+Der Überwacht-Auftrag ist das Gegenstück des Plündert-Auftrags. Wenn Söldner eine Grafschaft überwachen, passieren dort keine Räuber und die Warenströme aus passierenden Transporten können einbehalten werden und in den Kampf eingreifen können.
+
+Solch’ für die Händler hilfreiches Eingreifen kann sich finanziell durchaus lohnen. Überfallene Händler zeigen sich, häufig hilfreichen Söldnern gegenüber, recht spendabel.
+Überwacht Bergenhöh mit 04+05+03+03 Söldnern.
+(Status)
+
+Es soll jedoch auch schon vorgekommen sein, daß sich Söldner mit den finsteren Räubern verbündet haben und sich die Beute brüderlich geteilt haben…
+
+7.5.2.7 Die Steuericons
+Am unteren Bildrand befinden sich vier, im Falle der Zollburg fünf Steuericons, mit deren Hilfe Sie Ihren Stützpunkt ausbauen können, neue Mannen anwerben können oder Manöver veranstalten können. In Zollburgen haben Sie zudem die Möglichkeit, den Zollsatz festzulegen.
+
+7.5.2.8 Zustandsübersicht
+Das erste der am unteren Bildrand liegenden Steuericons führt Sie in ein Übersichtsmenü Ihrer Zollburg bzw. Ihres Räuberlagers. Hier können Sie sehen, ob, und wenn ja, wie viele Waren vor Ort lagern und ob eine Abholung durch einen Holt-Beute-Auftrag aus einer Ihrer Niederlassungen warten. Weiter wird Ihnen der Sicherheits- bzw. Tarnungsgrad Ihres Stützpunktes mitgeteilt. Besonders sichere Zollburgen schrecken Angreifer unter Umständen ab, es kommt dann gar nicht erst zu einem Angriff. Gut getarnte Räuberlager hingegen werden von Angreifern unter Umständen gar nicht erst entdeckt. Sie können hier ebenfalls neue Kasematten oder Strohager bauen lassen, um so die Kapazität Ihres Stützpunktes zu vergrößern.
+
+26

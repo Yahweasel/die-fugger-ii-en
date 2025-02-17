@@ -1,0 +1,56 @@
+führen lassen möchten. Bei minimaler Installation werden nur 
+die wichtigsten Dateien auf Ihre Festplatte kopiert - Sie sparen 
+Festplattenspeicher. In diesem Fall werden jedoch während ei¬ 
+ner Partie „Die Fugger II" viele Daten von CD gelesen, was zu 
+Wartezeiten während des Spiels führen kann. Für schnellen 
+Spielfluß ist daher insbesondere auf langsameren PCs die nor¬ 
+male Installation empfehlenswert. 
+Sie können nun wählen, ob das Spiel in 256 Farben oder in 
+32.768 Farben installiert werden soll (siehe Punkt 1-2). 
+Klicken Sie einfach mit der linken Maustaste auf die ge¬ 
+wünschte Version der Installation. 
+Geben Sie jetzt über die Tastatur das gewünschte Verzeichnis 
+ein, oder übernehmen Sie die Vorgabe „C:\FUGGER2" durch 
+Betätigen der RETURN-Taste. 
+Bestätigen Sie in dem nun geöffneten Fenster Ihre Angaben mit 
+der linken Maustaste. Wenn Sie ein langsames CD-ROM Lauf¬ 
+werk besitzen erscheint nun die Empfehlung, die Animationen 
+im Spiel verkleinert abspielen zu lassen. Sie können hier zwar 
+trotzdem die volle Größe wählen, die Animationen im Spiel 
+könnten in dieser Konfiguration jedoch Stockend ablaufen. 
+Nach dieser Auswahl werden die erforderlichen Daten auf Ihre 
+Festplatte kopiert. Schließen Sie nach erfolgreicher Installation 
+das Informationsfenster durch Drücken der rechten Maustaste. 
+Sie gelangen nun automatisch in das Sound-Menü zur Einstel¬ 
+lung Ihrer Soundkarte. Wenn Sie keine Soundkarte besitzen, so 
+klicken Sie einfach die Maus oder Enter und brauchen keine 
+Soundkarte auszuwählen. Nach der Auswahl der Soundkarte 
+kann Autodetect (bzw. Einstellung von Port-Adresse und IRQ) 
+gestartet werden. Sie mit der Option „Test" versuchen, ob Ihre 
+Karte korrekt konfiguriert wurde. Der Soundcheck wird nach 
+Drücken der rechten Maustaste gestoppt. Klicken Sie nun auf 
+„Soundkarte aktivieren." Es erfolgt eine Abfrage, ob Sie die 
+Soundeffekte auf Ihre Festplatte kopieren lassen möchten, um 
+so die Spielgeschwindigkeit zu erhöhen. Nach dem Kopiervor¬ 
+gang bzw. Auswahl von „Nein“ schließen Sie das Sound-Menü 
+durch Drücken der rechten Maustaste. 
+HINWEIS: Wenn Sie sowohl eine Roland-LAPC-1-Karte als 
+auch eine Soundblaster-kompatible Karte besitzen, so können 
+Sie beide Karten aktivieren. In diesem Fall erfolgt die Musik¬ 
+wiedergabe über die Roland-LAPC-1, Effekte und Sprachauge¬ 
+gaben werden über die Soundblaster-Karte abgespielt! 
+Die Installation und Konfiguration von „Die Fugger II" ist nun 
+abgeschlossen. Durch Eingabe von 
+„fugger2" + (ENTER) im entsprechenden „Die Fugger II"-Ver¬ 
+zeichnis auf Ihrer Festplatte betreten Sie nun eine Welt voller 
+Intrigen und politischer Ränke spiele. 
+Mögen Sie zu Reichtum und Ansehen kommen! Viel Erfolg! 
+HINWEIS: Das Konfigurations-Menü für Ihre Soundkarte 
+können Sie nach abgeschlossener Installation jederzeit im 
+Optionsmenü des Spieles (siehe S.12) sowie durch Eingabe 
+von „sndsetup" im entsprechenden „Die Fugger II"-Verzeich¬ 
+nis auf Ihrer Festplatte wieder aufrufen. 
+3. Einige Worte der Entwickler 
+3.1 Liebe Frauen! 
+Leider - bei den meisten Computerspielen dieser Tage viel¬ 
+leicht auch aus gutem Grund - sind Sie unter den Spielern im

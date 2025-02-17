@@ -1,0 +1,25 @@
+One position on one of the numbers below the worker column.  
+A "+" appears on the mouse cursor. Press the left mouse  
+button. You have just increased the pay for your workers by 2 percent. Move the mouse to the lower half  
+of the tens position, a "-" appears. Click the left mouse button now. The pay for your workers is now only 92 percent of the normal wage. Numbers are therefore set completely with the left mouse button, with the following rules: If the mouse cursor is in the upper half of the number, the corresponding digit is increased; if it is in the lower half, it is decreased.
+
+TEXTS - Similar to numbers, texts are also adjusted.  
+If a text is changeable, it lights up when you move the mouse cursor over it: Gold text lights up in a gold color, black text in red. Instead of the "+-" symbol, an upward-pointing arrow appears on texts in the mouse cursor in the upper text half; that means: Pressing the left mouse button switches to the next text. In the lower text half, a downward-pointing arrow appears in the mouse cursor; the previous text is displayed by left-clicking.
+
+Each window is closed by pressing the right mouse button - each game screen is exited by pressing the right mouse button!
+
+In the office, move the mouse to the statistics tablet above the chest. Click left. The game screen starts appearing. Click right. Confirm the available order: Press the left mouse button. The game closes. Move the mouse to the
+
+Print. Cross in the office. Click left. The image of a church appears. Click right. The "Church" screen is exited.
+
+You can't do anything wrong with a right-click! If you right-click in the office, you end your turn. Therefore, you are securely asked if this was your intention.
+
+5. Here we go - starting a game
+
+When you start "Die Fugger II" for the first time, you are asked how many players want to join. A game can be played with up to six players. Now you will be asked how difficult your tasks should be.
+
+You can play the game completely without tasks, which means that after a few generations, your dynasty may produce a prince, or perhaps a robber captain who spreads misfortune across the land, but in this way, there is no real game goal - you just play for fun. However, if you decide to play the game with tasks, your choice could mean the following:
+
+EASY: You might receive the task of becoming the mayor of a city, or you might need to achieve a certain title.
+
+MEDIUM: Perhaps you are tasked with owning a castle with extensive lands, a park, and outbuildings, so a criminal career could also be possible.

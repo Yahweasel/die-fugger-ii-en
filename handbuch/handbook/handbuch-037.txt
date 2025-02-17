@@ -1,0 +1,22 @@
+14. Appendix III – Production Ratios
+
+Optimal production ratios between workers and resources:
+
+GOOD:                RATIO:
+GRAIN                 .5 : 1
+FISH                   .3 : 1
+BEER                  .2 : 1
+WOOL                 .1 : 2
+WOOD                 .7 : 1
+CATTLE               .1 : 1
+ORE                    .5 : 1
+WINE                  .1 : 1
+FUR                    .1 : 2
+GLASS                .3 : 1
+SALT                   .6 : 1
+CLOTH                .2 : 1
+SILVER               .8 : 1
+PEPPER             .9 : 1
+WEAPONS          .4 : 1
+
+38

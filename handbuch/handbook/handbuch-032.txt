@@ -1,0 +1,14 @@
+it can still take. The second specification "Attack enemies" is the tactic with which the unit proceeds. Clicking the left mouse button selects the next possible tactic for this unit. If you are satisfied with the tactic you have chosen, you can move the mouse to select another unit; clicking the left button again cycles through its possible tactics.
+
+10.5 Possible Tactics
+Attack enemies: The unit will move toward the nearest enemies and attack them.
+Wait: The unit stands still and does not move. It will defend itself but not inflict damage on any enemy.
+MAKE PRISONERS: If your men operate from a customs castle or a robber camp, you can attempt to take prisoners. In this case, a unit will try to surround enemies and capture them. If the attempt is successful, the enemy falls to the ground, and a flag of your color appears on their body. After the battle, your men will try to "persuade" prisoners to switch to your side.
+CAPTURE GOODS: If you, as an attacker, raid a goods transport, you can seize goods. The unit moves to the uncaptured goods and plants your emblem there; the goods are yours.
+RECAPTURE GOODS: As a defender, you naturally have the opportunity to fight back captured goods. You will then plant your flag on your goods.
+
+SHOOT ENEMIES: Cannoneers fire their cannons at spots in the scenario where they suspect an abundant harvest among the enemies. Sometimes, however, the dreadful cartridges also claim your own people as victims...
+BOMBARD TO SURRENDER: If you attack a customs castle or a robber camp, you can give your cannoneers the tactic to bombard the object to surrender. They then damage it when security or concealment facilities are damaged and casemates or straw storages are destroyed.
+STORM ENTRANCE: Do you want to capture the customs castle, robber camp, or a ship you are attacking? Give one of the specified units this tactic, and your men will strive toward the entrance. A customs castle or a robber camp is considered captured when three specific fields in the entrance area are occupied by three of your swordsmen. On their advance, your men will only attack those enemies that prevent them from occupying these fields. Caution is advised. Before you use this tactic, you should have established significant superiority on the battlefield.
+DEFEND ENTRANCE: The opposite tactic. As a defender of a ship, customs castle, or robber camp, your unit will do everything possible to prevent the object from being captured. The unit will group in the entrance area and attack all enemies that come too close.
+RETREAT: The unit will try to put as much distance as possible between itself and the enemies, but without leaving the combat scenario in a headlong rush.

@@ -1,0 +1,18 @@
+7.5.2.2 Das Auftragsbuch
+Über den Steuereicons befindet sich das Auftragsbuch, in welchem Sie Ihren Söldnern oder Räubern Anweisungen geben können, was sie in diesem Jahr tun sollen. Das Einstellen der verschiedenen Aufträge geschieht ganz analog zum Einstellen der Aufträge im Auftragsbuch einer Niederlassung. Abhängig davon, ob Sie sich in einer Zollburg oder einem Räuberlager befinden, stehen Ihnen verschiedene Auftragstypen zur Verfügung. Der Auftragsstatus wird vom Programm ebenfalls genauso wie im Auftragsbuch einer Niederlassung interpretiert; das Durchschalten der Auftragstypen geschieht wie auch in der Niederlassung durch Click auf den ersten Begriff jedes Auftrags.
+
+7.5.2.3 Zollburg und Räuberlager: Der Überfall-Auftrag
+Mithilfe des Überfall-Auftrags können Sie von einer Zollburg oder einem Räuberlager aus jede andere Zollburg (Räuberlager) angreifen, sofern Ihnen der Zielort nicht selbst gehört. Ziel eines solchen Auftrags ist es entweder, das anzugehende Objekt durch Ihre Kanoniere in Schutt und Asche zu legen und so die „Sicherheit“ (im Falle der Zollburg) bzw. die „Tarnung“ (im Falle des Räubärlagers) zu verschlechtern. Oder aber Absicht ist es, den Zielort zu erobern. Wollen Sie zum Beispiel das Räubergebiet Dunkelforst von Ihrer Zollburg aus überfallen, so könnten Sie einstellen:
+Überfall Dunkelforst mit 08+03+06+12 Söldnern.
+(Status)
+Die fettgedruckten Auftragsbestandteile lassen sich verändern. Ein Klick auf „Überfall“ stellt den nächsten Auftragstyp ein (siehe unten), ein Klick auf „Dunkelforst“ stellt das nächste, 
+
+nicht Ihnen gehörende Räuberlager bzw. die nächste Zollburg ein. In den vier zweistelligen Anzeigen stellen Sie sich die Armee zusammen, mit der Sie den Auftrag durchführen lassen wollen. In diesem Fall bedeutet das, daß Sie 8 Söldner, 3 Musketiere, 6 Kanoniere und 12 Offiziere an der Expedition teilnehmen lassen wollen. Dies kann nun sinnvoll sein, weil Ihre Offiziere besonders gut ausgebildet sind und Sie sich so einen Erfolg von dem Auftrag erhoffen. Sie können aber auch eine ganz andere Motivation haben; Ihre Musketiere sind besonders gut ausgebildet und Sie wollen viele Ihrer Musketiere in der Zollburg zurücklassen, um gegen einen feindlichen Angriff gewappnet zu sein, wenn ein Großteil der Besetzung Ihrer Burg durch die Lande streift.
+
+HINWEIS: In der Abwesenheit von großen Truppenteilen ist eine Zollburg oder ein Räuberlager ein leichtes Opfer für Ihre Gegner.
+
+7.5.2.4 Zollburg und Räuberlager: Der Schickt-Auftrag
+Mit dem Schickt-Auftrag können Sie Truppen von Ihrem Stütz● punkt in eine beliebige Zollburg oder ein beliebiges Räuberla. ger schicken. Wenn Sie einer Zollburg Truppen in ein Räuberlager schicken, so werden die vier Söldnertypen in die vier Räubertypen umgewandelt. Analog erfolgt eine Umwandlung, wenn Sie von einem Räuberlager aus Truppen in eine Zollburg überstellen wollen. Sie können diesen Auftrag dazu verwenden, die Truppenstärke zwischen den Stützpunkten auszugleichen oder jemand anderen Truppen zu überstellen.
+Wollen Sie das gut bezahlt haben lassen sollen! Wollen Sie Baron! Hugo, dem Besitzer der Zollburg Hohenfels, welcher ihen hierfür 12000 Taler angeboten hat, etwa aus Ihrem Räuberlager
+
+25

@@ -1,0 +1,1394 @@
+Contents
+
+The Technical Part:
+
+1. Requirements for Your PC .......................... Page 6
+2. Installation and Configuration ................... Page 6
+3. A Few Words from the Developers ................. Page 7
+4. The Controls ........................................ Page 8
+5. Let's Get Started – Starting a Game ............ Page 9
+6. The Banner ......................................... Page 10
+7. In the Office ....................................... Page 12
+8. Fortune Smiles – Events .......................... Page 29
+9. Happenings in Midland ............................ Page 30
+10. Help, an Attack – The Battle ................... Page 31
+11. Special Events ..................................... Page 34
+12. Appendix I – Allocation of Positions .......... Page 36
+13. Appendix II – Who Appoints Whom? ........... Page 37
+14. Appendix III – Production Ratios ............... Page 38
+
+Important Information About the Game:
+
+Introduction ......................................... Page 39
+The Map of Midland ................................ Page 40
+Midland – A Small Geography ..................... Page 41
+Trade ..................................................... Page 42
+About Relations ..................................... Page 44
+An Honorable Career ................................ Page 47
+Means and Ways ...................................... Page 49
+The Law Books ......................................... Page 53
+The Family – How to Establish a Dynasty ...... Page 56
+Blows of Fate – A Letter from the Dungeon .... Page 58
+Castles, Swords, Wild Feasts ...................... Page 60
+To the Dark Robbery ................................. Page 62
+Encounters with Wondrous Characters ........ Page 64
+Index ...................................................... Page 65
+
+--------------------------------------------------------------------------------
+
+The Technical Part
+
+1. Requirements for Your PC
+
+1.1 Speed and Operating System
+"The Fugger II" can be played on a PC (from 486 onwards) with at least 8 MB of main memory and a double-speed CD-ROM drive. A standard VESA driver for displaying SVGA graphics must be installed. Minimum requirements: 486 with 33 MHz and 8 MB of main memory, from MS-DOS version 3.3, ISA-bus graphics card with at least 0.5 MB of video memory, and a double-speed CD-ROM drive. Recommended: 486 with 66 MHz and 8 MB of main memory, VLB or PCI graphics card with 1 MB of video memory, and a 4x-speed CD-ROM drive. A Pentium P90 processor can also handle the tasks set before it. Operating System: "The Fugger II" runs under MS-DOS version 3.3 with 8 MB, under Windows 3.1, Windows NT, and Windows 95 in DOS mode with 8 MB, and under OS/2 in a DOS full screen with 8 MB.
+
+1.2 Graphics
+"The Fugger II" can be played in two color resolutions. If your PC has 8 MB of main memory, you can choose between SVGA graphics with 256 colors and Hi-Color graphics with 32,768 colors. Both resolutions support a standard VESA driver (e.g., UNIVBE) as standard.
+
+1.3 Music, Sound Effects, and Voice Output
+The game supports the following sound cards:
+- Soundblaster 2.0 in 22 KHz Mono
+- Soundblaster in 22 KHz Mono
+- Soundblaster-Pro up to 22 KHz Stereo/Pro 2
+- Soundblaster-16 up to 44 KHz Stereo
+- SB-AWE-32 up to 22 KHz Stereo
+- Mozart Wavetable 22 KHz Stereo
+- Sound Galaxy 16 in 22 KHz Stereo
+- Roland LAPC-1 (no voice output)
+- General MIDI cards with Soundblaster compatibility
+
+2. Installation and Configuration
+
+To install "The Fugger II," insert the Fugger II CD into your CD-ROM drive (example here is drive d:), switch to the corresponding drive by entering:
+d:
+(ENTER)
+If your CD-ROM drive is not d:, enter the appropriate drive letter, for example: e: (ENTER) or f: (ENTER).
+Now call up the installation program:
+install
+(ENTER)
+The "The Fugger II" installation program now welcomes you.
+
+NOTE: Most windows in "The Fugger II" can be exited by pressing the right mouse button.
+
+The free space on your hard disk will now be displayed, and you can decide with the ESC key which type of installation you would like to perform.
+
+--------------------------------------------------------------------------------
+
+you want to lead. Minimal installation only copies the essential files to your hard drive, saving disk space. However, in this case, many data from "Die Fugger II" will be read from CD during gameplay, which can lead to wait times during the game. For smooth gameplay, the normal installation is recommended, especially on slower PCs.
+
+You can now choose whether the game should be installed in 256 colors or in 32,768 colors (see point 1-2). Simply click with the left mouse button on the desired version of the installation. Now, enter the desired directory using the keyboard or accept the default "C:\FUGGER2" by pressing the RETURN key. Confirm your entries in the now-opened window with the left mouse button.
+
+If you have a slow CD-ROM drive, you will be advised to play the animations in the game in a reduced size. While you can still choose the full size, the animations in the game may run choppily with this configuration. After this selection, the necessary data will be copied to your hard drive. After a successful installation, close the information window by pressing the right mouse button.
+
+You will now automatically be taken to the sound menu to set up your sound card. If you do not have a sound card, simply click the mouse or press Enter and you do not need to select a sound card. After selecting the sound card, you can start Autodetect (or set the port address and IRQ). Try the "Test" option to check if your card has been configured correctly. The sound check is stopped by pressing the right mouse button. Now click "Activate Sound Card." A prompt will ask if you want to copy the sound effects to your hard drive to increase game speed. After the copying process or selecting "No," close the sound menu by pressing the right mouse button.
+
+NOTE: If you have both a Roland-LAPC-1 card and a Soundblaster-compatible card, you can activate both cards. In this case, music playback will occur via the Roland-LAPC-1, and effects and voice output will be played through the Soundblaster card!
+
+The installation and configuration of "Die Fugger II" is now complete. By entering "fugger2" + (ENTER) in the appropriate "Die Fugger II" directory on your hard drive, you will enter a world full of intrigues and political schemes.
+
+May you achieve wealth and prestige! Good luck!
+
+NOTE: You can access the configuration menu for your sound card at any time in the game's options menu (see p.12) as well as by entering "sndsetup" in the corresponding "Die Fugger II" directory on your hard drive.
+
+3. A Few Words from the Developers
+
+3.1 Dear Women!
+
+Unfortunately – perhaps for good reason with most computer games these days – you are among the players in
+
+--------------------------------------------------------------------------------
+
+still in the minority. In "Die Fugger II," women and men are treated completely equally, meaning women have access to the same titles and offices as men. In fact, they even enjoy a slight advantage. Since we have pre-filled three-quarters of offices with men, your bribes work better — the opposite gender is more receptive to such "persuasion attempts." Additionally, if you wish to marry, you simply have a better selection...  
+The aforementioned pre-filling of offices in Midland is a nod to the realities of the 17th century.
+
+33 The Role of the Church  
+Many wars have been fought in the name of faith. The Thirty Years' War is probably the best example in German history. As 54% of believers in Germany currently belong to the Protestant faith and 46% are Catholic, we have decided to integrate a fictional ecclesiastical office hierarchy into the game. The office titles we have chosen are partly derived from the Protestant, Catholic, or even Anglican Church. We do not claim to accurately reflect the realities, but we believe we have found an acceptable solution for most denominations.
+
+4. Controls  
+"Die Fugger II" is played completely with the mouse, only three keyboard maneuvers are used during an auction (when you place a bid) or during a raid (when you want to change your men's tactics). Every action in the game is initiated by pressing the left mouse button!
+
+ICONS - A mouse click on a graphic icon either performs an action or opens a new window.
+
+CONTACT AREAS - For example, if you move the mouse over the desk in the office, the word "Writing Room" lights up in gold lettering. Move the mouse away from the desk, and the term disappears. Such contact areas open windows or entire new game screens.
+
+NUMBERS - Move the mouse over the chest in the office — "Payment" lights up. Press the left mouse button. You will enter the Payment game screen and see four columns of coins. Move the mouse to the top half of the screen...
+
+--------------------------------------------------------------------------------
+
+One position on one of the numbers below the worker column.  
+A "+" appears on the mouse cursor. Press the left mouse  
+button. You have just increased the pay for your workers by 2 percent. Move the mouse to the lower half  
+of the tens position, a "-" appears. Click the left mouse button now. The pay for your workers is now only 92 percent of the normal wage. Numbers are therefore set completely with the left mouse button, with the following rules: If the mouse cursor is in the upper half of the number, the corresponding digit is increased; if it is in the lower half, it is decreased.
+
+TEXTS - Similar to numbers, texts are also adjusted.  
+If a text is changeable, it lights up when you move the mouse cursor over it: Gold text lights up in a gold color, black text in red. Instead of the "+-" symbol, an upward-pointing arrow appears on texts in the mouse cursor in the upper text half; that means: Pressing the left mouse button switches to the next text. In the lower text half, a downward-pointing arrow appears in the mouse cursor; the previous text is displayed by left-clicking.
+
+Each window is closed by pressing the right mouse button - each game screen is exited by pressing the right mouse button!
+
+In the office, move the mouse to the statistics tablet above the chest. Click left. The game screen starts appearing. Click right. Confirm the available order: Press the left mouse button. The game closes. Move the mouse to the
+
+Print. Cross in the office. Click left. The image of a church appears. Click right. The "Church" screen is exited.
+
+You can't do anything wrong with a right-click! If you right-click in the office, you end your turn. Therefore, you are securely asked if this was your intention.
+
+5. Here we go - starting a game
+
+When you start "Die Fugger II" for the first time, you are asked how many players want to join. A game can be played with up to six players. Now you will be asked how difficult your tasks should be.
+
+You can play the game completely without tasks, which means that after a few generations, your dynasty may produce a prince, or perhaps a robber captain who spreads misfortune across the land, but in this way, there is no real game goal - you just play for fun. However, if you decide to play the game with tasks, your choice could mean the following:
+
+EASY: You might receive the task of becoming the mayor of a city, or you might need to achieve a certain title.
+
+MEDIUM: Perhaps you are tasked with owning a castle with extensive lands, a park, and outbuildings, so a criminal career could also be possible.
+
+--------------------------------------------------------------------------------
+
+break and must violate certain laws of Middelland.
+
+HARD: You aim to become Grand Chancellor or acquire possession of all three toll castles, with the toughest tasks awaiting their resolution.
+
+Nevertheless, when you decide to play with missions, the game will take on the character of a board game in many ways, even if it's just that you want to grab a coffee but turn back after a few steps to take your mission card to the kitchen; after all, the other players will catch up quickly to your mission goal...
+
+After these details are given, players are asked in turn to provide their name, gender, and faith. Since in the 17th century or during the Thirty Years' War in Germany, mainly Catholic and Protestant (Lutheran) faiths were prevalent, at the beginning of the game, religion can only be chosen between these two. However, in the course of the game, you can also choose to leave the church...
+
+You now select your COLOR. This color will accompany you throughout the game, you'll see that your flag is displayed in your settlement in this color, or that mercenaries or robbers fight in your colors.
+
+Next, you choose your so-called "Hot-Key." This is a key that allows you to act on certain occasions later in the game. In auctions, pressing your hotkey will result in you placing a bid, during an attack you can change the tactics of each unit under your command in this way.
+
+Now your uncle enters the stage of events. He bequeaths you a settlement in one of the insignificant cities of Middelland.
+You will now be asked if you are satisfied with your inputs. It should be noted here that only the first four of the six cities assignable at the start of the game are navigable. That means, from Moortal and Falkenhorst, no trade can be conducted via ships. However, this is not a severe disadvantage.
+
+If you are playing with missions, you will be required to draw a mission card in the color corresponding to your chosen difficulty level. Enter any of the three secret numbers, your PC knows now which mission you have and can later recognize when you have fulfilled your mission.
+
+6. The Banner
+
+The banner at the top of the screen accompanies you on most game screens. The banner displays the current year, your cash, your title, and your office.
+
+--------------------------------------------------------------------------------
+
+6.1 Bribery and Other Misdeeds –
+Selecting a Position
+Whenever the banner is visible on the screen, you have the opportunity to offer bribes. Click on the coin display in the top left: A map of the principality appears. Above the map, the location where you want to bribe someone is displayed. You can select any of the ten cities, one of the three counties, the entire principality, a customs castle, or a bandit camp. A frame appears around the respective target. For example, if you click on Fürstenbrück in the center of the map, an office tree will appear showing the political relationships in the city.
+
+(To select the entire principality: Move the mouse over the large lake in the center of the map and click left, an office tree of the highest princely offices will be shown.)
+
+At the top is the mayor, below are the architect, judge, and treasurer, and finally, at the bottom are the three council members. Under each of the offices is a black bar indicating the reputation you have with the officeholder. The wider the bar, the better for you. At the very bottom of this page, you have the option to switch to ecclesiastical offices, whose structure consists of two priesthoods and the office of the cathedral heart. You also have the choice of the faith denomination. If you share the same faith as your target, click on their office. A window appears where you can enter the sum and let the coins flow. If you give the architect a sufficiently large sum, it will positively impact your reputation, and the black bar below the architect will have widened after the bribe. Keep in mind: If you share the same faith as the "victim" of your bribery, the advantage to you will be greater than someone of a different faith. This mechanism of selecting an office is used in many places throughout the game and is summarized here once again.
+
+1. Choose city, county, principality, bandit camp, or customs castle
+2. Choose secular or ecclesiastical level
+3. Choose office
+
+6.2 Game Options
+
+If you click on a different spot than the coin display in the
+
+--------------------------------------------------------------------------------
+
+Click the banner to open the marketplace and the options window. Here are your choices:
+
+6.2.1 Save  
+Click the sign with the letter "S". You can add comments and save up to five game states.
+
+6.2.2 Load  
+A previously saved game can be resumed by clicking the "L" sign.
+
+6.2.3 Graphics  
+Here you can choose the color resolution between 256 and 32,768 colors, set the window size for animations, and determine the text scrolling speed.
+
+6.2.4 Music  
+This window provides you with three volume controls for digital sound, music, and speech. You can also toggle the voice output on or off and check your settings with a "sound check". Through the menu item "Sound cards...", you can access the sound menu (see p.7).
+
+6.2.5 Options  
+You can manage historical records (historical events), adventures (sub-plots), fate (random events), help from Jakob Fugger (game aids), and maintain or set specific conditions. If playing with more experienced players, you will be advised of mistakes in your trading or warned if your screen life's end is near and you have no heirs to continue. If you enable "Confirm turn", you will be asked if you really want to end your turn after a right-click in the office. Enabling "Announce player" will display the next player's name before each turn. Disabling "Witnesses & Pleas" will shorten court proceedings.
+
+6.2.6 New Player  
+"Die Fugger II" allows you to add more players during an ongoing game, provided not all six starting locations are taken. For example, if two players have advanced to the year 1617 and a third player wants to join, the game will start with the average wealth of the two others; however, they will need to earn their own office and title.
+
+6.2.7 End Game  
+At some point around four in the morning, you may be so tired that you decide to abandon the current game. The city gate in the marketplace is the exit from the 17th century. You can resume the last ended game directly after restarting "Die Fugger II" by selecting the "Continue last game" option.
+
+7. In the Office  
+
+"Die Fugger II" is a game based on turns and years. That means, when playing with multiple players,
+
+--------------------------------------------------------------------------------
+
+which significantly increases the fun of the game, all players take their turns one after another: First (except in the first year), you reach a screen where you are informed about the results of your trade from the previous year. After that, you find yourself back at the office, from where you make all important decisions.
+
+When you have completed your turn (your game year), the consequences of your decisions are presented to you. Once all players have completed their turn, the more than one hundred computer-controlled players take action, and you are informed about the progression of events in Mittelland.
+
+To achieve fame and prestige in the thorny world of the 17th century, numerous options are available to you at the office.
+
+7.1 Trade
+
+7.1.1 The Trade Map
+Click on the globe in the office, and you will be taken to a map of Mittelland. From here, you conduct your trading activities. Near the cities where settlement rights have already been granted, small flags wave in the wind. You can easily identify the location of your establishments by their color. This also keeps you informed about your competitors on the screen at any time.
+
+In each city, there are two areas you can click on. If you select the city name, a window will provide you with information about that city. If you click on the city's image, you will be taken to your local establishment, if you have one there.
+
+CITY INFORMATION:
+Is the city hit by a disaster? What goods can be especially 
+
+--------------------------------------------------------------------------------
+
+are produced well here, and which are in high demand and therefore fetch a high price? Is the city currently under siege? And finally, what is the price for acquiring settlement rights in this location? (As settlement rights in each city are granted to only one of the players on the screen.) All these questions are answered in the city information.
+
+CITY GRAPHIC: Click on the graphic of a city where you do not have an establishment, and a window will open asking if you would like to purchase the settlement rights, provided they have not yet been allocated. Be cautious; at the start of the game, the price for a second establishment is beyond your means. After you have increased your coins over several years, you then face the following consideration: If you open another establishment in a desired location, your budget may not allow for significant expenditure in the coming years. On the other hand, if you decide to reinvest your coins into trading with just one establishment, you may earn significantly higher profits, but another player might beat you to it... However, once your flag is planted at a location, a mouse click on the city graphic will take you directly to your establishment.
+
+7.1.2 In the Establishment
+You are now in one of your establishments. From here, you initiate all measures to utilize your business at this location successfully. In the upper right area of the screen, you can see your ordered goods; at the bottom are your other assets arranged.
+
+7.1.2.1 Your Inventory
+In each city, six different goods can be produced. Which goods can be manufactured at a location depends on the city's geographic location and the specific skills of its inhabitants. Above a good is a two-digit number indicating how many coins can be gained by selling a unit of the respective good. The price of the goods is enclosed by a more or less golden ring. This ring provides information on your personal skills in producing a particular good. The further the ring closes at the top, the more experienced and successful you are in its production. The number below the goods indicates how many units of the goods are in storage - at the game's start, you possess no goods. At the beginning of the game, four out of six goods appear darkened, meaning you cannot yet produce these goods. As the game progresses, you will be awarded various certificates that will also allow you to trade in valuable goods. If you issue a production order in the first game year (see below), all units of the goods you produce that year will be in your storage. There are three ways to sell these goods locally:
+
+SELLING GOODS LOCALLY:
+1. You can sell goods piece by piece by clicking with the left button on the number of goods below the respective product when a knife icon appears in the mouse pointer. Refer to the chapter on controls for this.
+
+--------------------------------------------------------------------------------
+
+2.) You can sell an entire item lot by clicking on the graphic of the item.
+
+3.) You can sell all goods in storage by clicking on the icon to the left of the goods icons, which represents an empty warehouse.
+
+7.1.2.2 The Order Book
+
+The order book is the centerpiece of your trade operations. It is where you record which orders your subordinates should complete over the course of a year. In each branch, you have the opportunity to issue two orders per year. For example, you might issue a production order: Harvest grain with 10 workers on 2 fields! Or you have grain in stock and want to sell it in another city for a better price: Sell 270 grain on 3 carts in Bergstedt! (...as long as your branch is not Bergstedt.)
+
+In the order book, you can set four different order types, which are described below. A forecast of the expected costs and storage utilization in percentage gives you an overview of whether you can afford your desires. The costs will only be deducted from you at the end of your round.
+
+The order status at the end of each order line determines whether one of your orders can be executed or whether it should be executed:
+
+1.) A CHECKED CIRCLE: Confirmation of an order! The order is possible and will be executed. You have chosen it.
+
+2.) A CIRCLE: The order is possible, but you have not confirmed it, so it will not be executed.
+
+3.) A BROKEN CIRCLE: The order cannot be executed. A broken circle cannot be clicked and activated. This can happen, for example, if you want to undertake a transport with 4 carts but your branch only has 3 carts available. You can turn impossible orders into feasible ones by lowering the number of transporters or goods to be transported.
+
+The order status you set will be maintained by the program over the years, provided the corresponding order is feasible. This way, you can certain orders...
+
+--------------------------------------------------------------------------------
+
+orders "pause" for a year if you deem it advisable.
+
+7.1.2.3 The Production Order By issuing a production order, you "hire" some workers and several production tools to help produce a specific commodity. Depending on the type of commodity, the optimal ratio between workers and production tools varies. For example, if your first branch is called Falkenhorst, a good production order for you might be:
+
+Brew beer with 6 workers at 3 kettles. (Status) The bold components of the order can be changed by you. The "6" and the "3" are self-explanatory. You can scroll through the goods that you can produce in this city with "Beer." In Falkenhorst, if you click on "Beer," the order changes to:
+
+Catch fish with 6 workers at 3 boats. (Status) Since the optimal ratio of workers to boats for fishing is 3:1, if you want to fish, you should reduce the number of boats by 1. You can find the optimal worker-production tool ratios in the "Important Tips for the Game" section.
+
+By clicking on the first term of an order, you can take uncharacteristic actions for orders. If, for example, you replace "Catch..." with "Transport...," the order effectively changes to a "Transport Goods" order. If you intend to bring your first branches, click again, and you have set the order type to "Transport Goods"...
+
+7.1.2.4 The Sales Order With a sales order, you send a certain number of goods with a specific number of transport means to another city and sell the goods there. The transport means return to your warehouse afterward and are available again the next year.
+
+Sell 100 fish on 1 cart in Fürstenbrück. (Status)
+
+"100" is again self-explanatory. With "Fish," you set the type of goods that you want to sell in "Fürstenbrück," the target city for this order. Note for all transport orders that a certain type of transport (in this case "Cart") has a specific capacity. For example, carts can transport 100 units of a commodity.
+
+--------------------------------------------------------------------------------
+
+while ships have ten times the capacity. Compare this to the capacities of the transporters. The number of transporters needed is determined by the number of goods to be transported.
+
+TRANSPORTER TYPE CAPACITY:
+
+CART ..........................................................100
+
+SHIP ........................................................1,000
+
+BALLOON ....................................................50
+
+STEAM CART ..............................................80
+
+SUBMARINE ..............................................700
+
+FLYING MACHINE .......................................30
+
+7.1.2.5 The Delivery Order
+
+A delivery order can only be given to a destination where you have another branch. Both the transporters and the goods will be sent to the destination; neither will the transporters return nor will the dispatched goods be automatically sold at the destination.
+
+Deliver 1643 grain on 2 ships to Greifenheim. (Status)
+
+7.1.2.6 The Loot Retrieval Order
+
+The loot retrieval order is a specific task. If you own a custom fort or a robber's camp where goods are stored (after a plunder, you must first retrieve this loot with transporters to one of your branches before you can sell it).
+
+Retrieve loot on 6 balloons from Meuchel I am. (Status)
+
+“6x balloons are sent out to retrieve loot” from the robber camp “Meuchelratten”.
+
+7.1.2.7 Ships – Where There Is No River…
+
+With carts and balloons, you can conduct transport from any place to any other place. Nevertheless, when assigning transport orders, consider that ships need to have enough water beneath their keel! Places that cannot be reached by ship include Roortal, Finsterval, Falkenhorst, and Waldstein. There are also no navigable connections to the four robber camps.
+
+7.1.2.8 Escorting Transporters
+
+All of the transport orders listed above can also be escorted. In this case, two crossed swords appear behind the first words of the order, for example, “Retrieve loot x...”, where X represents the escort. In this case, should you be attacked by a marauding band, some stout-hearted landsknechts will come to your assistance to defend your goods. Such an escort naturally has its price: the costs of your transport will increase by half again.
+
+7.1.2.9 Your Residence
+
+The first of the six icons in the lower graphic area of your branch leads you to your residence when clicked – at the beginning of the game, a blank parchment since you do not have a residence. You have the option to buy a residence, have one built, acquire an available one, or put it up for auction. Sometimes a storm or worse necessitates renovation; and when you one day have the necessary thalers, you can even expand your residence with parks, outbuildings, or extensive lands.
+
+--------------------------------------------------------------------------------
+
+The importance of an appropriate domicile is obvious: Patricians who value pomp and status symbols will be impressed by your estate, and you gain the favor of more dignitaries in the land, the more magnificent your estate appears.
+
+7.1.2.10 The Size of Your Warehouse
+The second control icon shows a number, 15 at the start of the game. This means you have 15 square meters of storage space. Clicking the icon takes you to the warehouse menu. The size of your warehouse determines how many goods you can store there, depending on the type of goods, between 15 and 20 units per square meter. However, if you do not have enough storage space to accommodate the results of your production, you will charitably donate goods to those in need... There are two categories of storage: wood and stone. The former is cheaper to acquire but produces more smoke during a fire! Each year, you receive a certain number of purchase offers from which you can choose at your discretion. The option to sell your warehouse is available at any time and is not limited.
+
+7.1.2.11 Your Transport Means
+The three control icons located at the bottom right lead you to your means of transport. Caravels, ships, and balloons all have different advantages and disadvantages. Caravels are best for deliveries, provided they do not have to cover great distances; ships, on the other hand, naturally transport relatively heavier loads at quite high costs and can be produced more quickly to ultimately move a large number of goods from one place to another. In the event of an attack, ships can also defend themselves with cannons. A disadvantage of ships is that they can only operate between certain locations. Finally, balloons are quite expensive, cannot transport many goods, and sometimes go off course. Their big advantage is that they cannot be plundered by anyone.
+
+In the respective menu, you have the option to issue construction orders, sell, or repair transport. When an auction is scheduled, you can also have your transport auctioned.
+
+7.1.2.12 The First Part of the Director
+Is all this too complicated? Or: you don't feel like managing your branch yourself? Oh, you've already opened your third branch!? Then it's time for a director! Click the signet ring control icon, and you will be taken to a window where you have the opportunity to appoint a director to manage your branch. Depending on their skills, they will demand an annual percentage of the annual allowance you provide in the writing office for your branch as compensation. This means you allocate a certain amount of money annually for your branch, which your director should manage. The director will take some percentage as a fee, and with the remaining coins, they will run your branch. You then don't need to
+
+--------------------------------------------------------------------------------
+
+more to manage your trade and can fully engage in politics or even darker passions.
+
+ADVANTAGES OF DIRECTORS ARE: Directors save you a lot of time, especially if you own multiple branches. Directors maximize experience in the production of goods: If you are very experienced in grain production and your director is a great weaving master, you will be able to excellently produce both grain and cloth. Directors miss nothing: How well are the carts maintained; have the ships already set sail? Have you speculated on the best Stone Age price? Was it really wise to sell your wool in Lauenburg for the fifth time in a row; perhaps the wool market there was already saturated?
+
+DISADVANTAGES OF DIRECTORS ARE: Directors cost money, that is just the way it is. Directors sometimes tend to react in ways you might not expect, to optimally respond to changing demand. While this is not necessarily a disadvantage, it can be confusing. Directors enrich themselves from your wealth if they think they deserve it.
+
+Despite their disadvantages, we can heartily recommend hiring directors in branches that have reached a certain volume of trade without having to feel guilty. You will enjoy watching everything work...
+
+7.2 A good accountant... - The Writing Room Back at the office, finally! What the globe is for trade, the desk is for other important areas in "The Fugger II". If you move the mouse over the desk in the office and click left, you'll enter the writing room, where your friendly accountant and advisor will look at you skeptically...
+
+7.2.1 The career calls — In office and dignity Move the mouse over the document in front of the accountant in the center of his impressive desk and left-click. You will enter the window where you can submit applications for vacant positions. You will immediately see the number of applications, applying for a position, in later years...
+
+--------------------------------------------------------------------------------
+
+this may nevertheless look different. In the game, some of the dignitaries in Mittelland sometimes pass away, while others are removed from their positions by their superiors due to lack of ability (or lack of favor?). The unlucky current office holders move up in the principality's hierarchy; eventually, a mayor becomes a privy councilor, a judge becomes a mayor, a councilor takes the vacant seat of the honorable judge. Now your time has come. At the end of a round of play, you receive the joyful news that a councilor will be newly elected in your hometown next year!
+
+In the application menu, you can now apply for the vacant office. You will typically not be the only candidate for the position. You can find out who your competitors are by pressing the respective crystal at the beginning of the line. If you decide to submit your application for an office, change the "No" at the end of the line to a "Yes." You have now submitted your application. The only question is whether you will be elected to the office you desire.
+
+Certain offices grant the holder the right to appoint other offices. Find out in the bribery window or elsewhere if you can access this income. If you're unsure whether someone is favorable towards you, perhaps a few elevations can help. You surely know that the better-paid seat has a certain allure. Achieving everything with virtue alone does not mean to hold the path in low regard, however.
+
+As your mission requires, as you wish to deceive your opponents, sooner or later it may be indispensable for you to climb the ranks in the office hierarchy of the Mittelland principality. Secure the favor of those who appoint you and fight your competitors for office and honors! Tabular information on who appoints which office can be found at the end of this manual.
+
+7.2.2 The Privileges Move the mouse slightly further to the right on your accountant's desk in the writing room. The word "Privileges" is displayed in golden letters. Left-click, and you will access your very own privileges menu.
+
+What are privileges? Depending on which office you hold in "The Fugger I", you enjoy certain privileges. These are very specific actions available only to you, unlike your competitors. So, let's assume you are a chamberlain in a town. What luck for you because now you have the opportunity to lower the wage level in your town and ensure that you have to pay your workers less. But perhaps you're not a chamberlain at all, but a canon, and one of your competitors is vying for a significant councilorship in your town. Did you know that as a canon, you have the privilege to forbid weddings in your town? Take a close look at your privileges whenever you take on a new office; perhaps you'll have new opportunities to discover, favor pleasant individuals, or put obstacles in the path of your opponents.
+
+--------------------------------------------------------------------------------
+
+7.2.3 The Law Books of Mittelland  
+When you click on the stack of books to the right of the accountant, you can get an insight into the laws of the principality. There are currently about 30 written laws in Mittelland that you can violate. Keep an eye on both the legal texts and your own actions, as you can quickly find yourself guilty of an offense. Not that it would be tragic, however, you have many envious people on your way to the top, and it can happen that you suddenly find yourself in court, accused of the most horrendous offenses...
+
+ANOTHER NOTE: Your offenses can only be successfully used against you in court if the accusations are based on the investigations of spies. These are, however, preferably used against unpopular persons in Mittelland.
+
+7.2.4 At the Moneylender  
+Click on the left stack of books in the office to reach the moneylender. There you will receive loan offers with quite generous interest rates. Demands of over 30 percent interest per year from your fellow citizens are not uncommon - horrendous interest rates. Nevertheless, in certain situations, it might appear advisable to take such a loan to perhaps presently secure the liquidity you need to, for example, convince the master builder that you are exactly the right candidate for the vacant councilor's position...
+
+7.2.5 The Loan Book  
+Move the mouse pointer to the left half of the bookshelf in the office and click left to access your loan book, which provides information about the loans you have taken out. Ideally, you will be shown here that you owe nothing to anyone. However, if you have taken out loans with the moneylender, these will be presented here with the loan amount, interest, and term. If you wish, you can now repay your loans. Otherwise, at some point, specifically at the expiration of a loan, the creditors' enforcers will be at your heels and, if you are unable to settle your debt, drag you before the formidable jury court, which you can escape from, as will be seen later, but only if you pay a suitable tribute to this (the jury) court.
+
+7.2.6 The Directors Part Two  
+If you click on the bookshelf to the right of your accountant's face in the office, you will reach the window where you can set your directors' budgets.
+
+If you have hired a director at one of your branch offices, you can now decide on the amount annually available to them. Consider the following: your director calculates their salary based on the budget you provide. However, sales taxes and church tithes still apply.
+
+--------------------------------------------------------------------------------
+
+The "rule of thumb" for paying your directors is to provide them with no more than two-thirds of your Talers in total. If you can trust your directors, meaning you have observed them for several years and they manage their expenses quite uniformly, you can safely allocate up to three-quarters of your Talers to them. However, you should keep the rest for tax and tithe payments, to avoid being summoned before the jury...
+
+7.3 Talers are becoming scarce... - Payment
+Move the mouse to the chest in the office and click on the left. This will take you to the payment screen. Here, you can set the wages of your subordinates. If you underpay your directors, they might exceed the budget allocated to them. If you pay your workers below average, their motivation may not be conducive to breaking last year's production records. On the other hand, better pay for your workers will result in them striving to produce larger quantities of goods than perhaps last year, using the production resources you have provided. The same principle applies to paying your mercenaries and robbers. If some of these fellows are under your command, their motivation is directly influenced by the compensation they receive. This means the better you pay your mercenaries and robbers, the better their disposition in the event of a battle will be.
+
+22
+
+7.4 The Church
+
+7.4.1 In Front of the Church
+Click on the cross at the top right of the office to reach the church.
+Click on the left side to leave the church if you are willing to pay the price for it. On the right side of the screen, you have the option to convert to the other faith.
+
+If you decide that you want to enter into the holy state of matrimony, click on the bell tower. You will face the dreadful "matchmaker" – everything else will become clear.
+
+If you disdain all these options, one choice remains: A click on the church portal…
+
+22
+
+--------------------------------------------------------------------------------
+
+7.4.2 Inside the Church  
+You enter the interior of the church and now have the following options:  
+1.) QUICKLY GO TO THE CONFESSIONAL, BUY AN INDULGENCE...  
+If you have significant misdeeds, an indulgence will cost you a considerable sum. Nevertheless, the investment may be worthwhile, as all your offenses against the laws of Mittelland will be atoned for, and you can hardly be successfully sued in court.
+
+2.) MAKE A DONATION FOR THE POOR...  
+Donating to the poor increases your reputation with the secular offices of the principality.
+
+3.) DONATE CANDLES...  
+Should you decide to donate candles, it may result in an increase in your standing with the church offices of Mittelland.
+
+4.) PRAY...  
+Click on one of the two crosses in the church:  
+You pray.
+
+7.5 Toll Castles and Robber Camps  
+7.5.1 The Overview Map  
+Click on the crossed swords in the office to reach the map of Mittelland. Here, you can see the three toll castles and the four robber camps. The toll castles guarantee secure trade in the land; each of the three counties has a toll castle. In Mooringen, it is Waldenfels; Seefels is assigned to the county of Auenthal, and Bergenhöch is monitored by the toll castle of Hohenfels. Click on the name of a toll castle to find out the current owner of the castle as well as some details about the castle itself. If you click on the graphic of the toll castle, you can express your interest in purchasing this toll castle. This means you inform the owner that you are interested in acquiring their castle. If you have sufficient wealth, you may receive an offer to purchase it after some time. Owning a toll castle brings toll revenues and the opportunity to take action against the robber camps.  
+Information about and acquisition of robber camps is managed similarly to toll castles. A robber camp offers the opportunity to ambush peaceful traders or other robbers.  
+
+23
+
+--------------------------------------------------------------------------------
+
+to raid. It is said that there have even been robber chieftains brave enough to attack a toll castle.
+
+7.5.2 Inside the Toll Castle and Robber Camp
+
+If after several years you come into possession of a toll castle or a robber camp, a click on the castle or robber camp graphic will lead you inside. Similar to the settlements, you can see your four types of mercenaries or robbers in the upper area, the ledger is placed below, and various control icons are located at the bottom of the screen.
+
+7.5.2.1 Mercenaries and Robbers
+
+Toll castles house mercenaries, musketeers, cannoneers, and officers. Mercenaries fight with sabers, musketeers, as the name implies, with muskets, and cannoneers have cannons with which they can fire dreadful cartridges. Finally, officers fight like regular mercenaries with a saber, but they are significantly more skilled in handling the nobleman's weapon. Robber camps house robbers, riflemen, and cannoneers, all comparable to the corresponding types of mercenaries. Officers, of course, have no place in a robber camp, so you will find the usual bombers here, a hawker for a robber. They approach faithfully, place a bomb at the enemies' feet, and make sure to leave slowly. A risky undertaking, since the bomber might become acquainted with their explosive - considered their last acquaintance! Once bombs are successfully set, you can command them against the opposing parties as needed.
+
+When you move the mouse over the torso of any of the four mercenaries or robbers and click, an information window appears, providing details about the current training status of the respective group.
+
+The four numbers below the torsos indicate how many men of each category are present in the toll castle or robber camp. By clicking these numbers with the minus sign described in the "Controls" chapter in the mouse pointer, you can discharge your men - but beware: Hiring new mercenaries or robbers is a somewhat complicated process, so think carefully about whom you release from your service! Naturally, your subordinates receive an annual salary, roughly about 100 talers per man. Of course, regular mercenaries earn less than officers. The salary is due at the end of each year, regardless of whether you have given your men assignments or not. So caution is advised: many an owner of a robber camp or toll castle has been driven to ruin by the exorbitant salary demands.
+
+--------------------------------------------------------------------------------
+
+7.5.2.2 The Order Book
+Above the control icons is the order book, where you can give your mercenaries or robbers instructions on what they should do for the year. Setting up the various orders is done exactly like setting orders in the order book of a settlement. Depending on whether you are in a customs castle or a robber camp, different types of orders are available to you. The order status is also interpreted by the program just like in a settlement's order book; toggling through the order types happens, as in the settlement, by clicking on the first term of each order.
+
+7.5.2.3 Customs Castle and Robber Camp: The Raid Order
+With the raid order, you can attack any other customs castle (robber camp) from a customs castle or robber camp, as long as you do not own the target location yourself. The aim of such an order is either to lay waste to the targeted object with your cannons, thereby worsening the "security" (in the case of a customs castle) or the "camouflage" (in the case of a robber camp). Alternatively, the intention may be to conquer the target location. If, for example, you want to raid the robber area of Dunkelforst from your customs castle, you could set up:
+Raid Dunkelforst with 08+03+06+12 mercenaries.
+(Status)
+The bold order components can be changed. Clicking on "Raid" sets the next order type (see below), and clicking on "Dunkelforst" sets the next robber camp or customs castle that does not belong to you. In the four two-digit displays, you set up the army you wish to carry out the order. In this case, it means that you want 8 mercenaries, 3 musketeers, 6 cannons, and 12 officers to participate in the expedition. This could be sensible because your officers are particularly well trained, and you hope for success from the order. However, you might have an entirely different motivation; your musketeers are particularly well trained, and you want to leave many of your musketeers in the customs castle to be prepared for an enemy attack when a large portion of your castle's occupation roams the land.
+
+NOTE: In the absence of large troop units, a customs castle or robber camp is an easy target for your opponents.
+
+7.5.2.4 Customs Castle and Robber Camp: The Send Order
+With the send order, you can send troops from your outpost to any customs castle or robber camp. If you send troops from a customs castle to a robber camp, the four mercenary types will be converted into the four robber types. Similarly, a conversion occurs if you want to transfer troops from a robber camp to a customs castle. You can use this order to balance the troop strength between the outposts or transfer troops to someone else.
+Wanting it to be well paid! Wanting to be Baron! Hugo, the owner of the customs castle Hohenfels, who offered you 12,000 thalers for it, approximately from your robber camp.
+
+--------------------------------------------------------------------------------
+
+If you send troops to Säbeltal, you could set it up like this:
+Send Hohenfels 04+02+07+03 robbers.
+(Status)
+
+You send 4 robbers, 2 bombers, 7 gunners, and 3 riflemen to Hohenfels. There (due to the conversion), 4 mercenaries, 3 musketeers, 7 gunners, and 2 officers will arrive.
+
+7.5.2.5 Robber Camps Only: The Plunder Order
+The Plunder Order is used to plunder goods transports from a robber camp in a specific county. The robbers set off and lie in wait for the transports. However, since robbers do not always know which secret backroads are taken by these transports, this order does not necessarily lead to success.
+Plunder Bergenhöh with 03+05+02+04 robbers.
+(Status)
+
+The destination "Bergenhöh" means: The robbers will attempt to plunder goods transports headed to a city located in the county of Bergenhöh. Potential victims would be transports to Greifenheim, Bergstedt, and Falkenhorst.
+
+7.5.2.6 Toll Castles Only: The Surveillance Order
+The Surveillance Order is the counterpart to the Plunder Order. When mercenaries monitor a county, no robbers pass through and the flows of goods from passing transports can be intercepted and intervened in combat.
+
+Such intervention, helpful to merchants, can be financially rewarding. Robbed merchants often show generosity toward helpful mercenaries.
+Monitor Bergenhöh with 04+05+03+03 mercenaries.
+(Status)
+
+However, it has been known for mercenaries to ally with the sinister robbers and share the loot brotherly...
+
+7.5.2.7 The Control Icons
+At the bottom of the screen are four control icons, five in the case of toll castles, which allow you to expand your base, recruit new men, or conduct maneuvers. In toll castles, you also have the option to set the tax rate.
+
+7.5.2.8 Status Overview
+The first of the control icons at the bottom of the screen leads you to an overview menu of your toll castle or robber camp. Here you can see whether and how many goods are stored on-site and whether a retrieval through a Loot Collection Order from one of your branches awaits. You will also be informed of the security or camouflage level of your base. Highly secure toll castles may deter attackers and prevent an attack from occurring in the first place. Well-camouflaged robber camps, on the other hand, may not be detected by attackers at all. You can also have new casemates or straw camps built here to increase the capacity of your base.
+
+26
+
+--------------------------------------------------------------------------------
+
+7.5.2.9 Recruiting
+A click on the second control icon takes you to a tavern or a harbor dive. Here you can equip your recruiters with a sum of money you find comfortable. At the end of a year, you will then be informed about the success of your attempts to hire new men.
+
+7.5.2.10 Conducting Maneuvers
+The cannon in customs castles and the bomb in robber camps lead you to a window where you can decide to conduct a maneuver. Such a maneuver costs many talers, but it also provides your men with the training they need to pursue their martial craft knowledgeably.
+
+7.5.2.11 Set Customs Rate
+This option is only available in customs castles. With it, you can set the amount of the toll that transports must pay to you as the castle owner, measured by the value of their goods. Which transports must pay tolls at which customs castle depends on the destination of the transport. The following overview reveals these connections:
+
+DESTINATION OF A TRANSPORT: PAY TO CASTLE:
+FÜRSTENBRÜCK,
+FREE CITY, THUS ..........NO DUTY OBLIGATION
+FINSTERWALDE ..................WALDENFELS
+MOORTA .........................WALDENFELS
+LICHTREHERDE ..............WALDENFELS
+GREIFENHEIM..................HOHENFELS
+
+BERGSTEDT ...............................HOHENFELS
+FALKENHORST .......................HOHENFELS
+WALDSTEIN ..............................SEEFELS
+LAUENBURG ............................SEEFELS
+KRONSBACH ...........................SEEFELS
+
+However, consider that if you set the customs rate extremely high, merchants might decide to sell their goods in a city that belongs to another county.
+
+7.5.2.12 Hide Assignment Book
+Clicking the signet ring in your customs castle or robber camp hides your assignment book. Clicking it again will bring it back into view. This can be helpful if, for whatever reason, you simply do not want other players in front of the screen to see more than necessary...
+
+7.6 Top Secret — The Back Room
+Clicking on the door in the left area of the picture in the office takes you to the back room of your office. In this room, you can indulge your dark passions to your heart's content or, however better it sounds, simply give many of your endeavors the crucial push.
+
+"The Fugger II" is a game in which it is about rising in the administrative hierarchy of the Principality of Mithland. The back room offers you numerous opportunities to lend weight to your political ambitions.
+
+--------------------------------------------------------------------------------
+
+7.6.1 Spying
+
+Do you want to find out if someone is breaking the laws of Midland? Then you should assign spies to the respective person. This is done by clicking on the cloak in the back room. Once you have selected the person your people should monitor, you will be given the price and can decide to let things take their course or spare the victim. If you decide to hire spies, an informant icon will appear next to the favor indicator for the respective officeholder. 
+
+Wait a few years. If the person has committed any crimes in the meantime, the previously unfilled information-I will have become a deep black and filled sign. You now possess evidence against this person. 
+
+But what good is this evidence to you? Well, perhaps the person you are observing is one of your superiors who is not very favorably disposed towards you. You could risk being removed from your office by him. Conduct a trial against your victim with the appropriate privilege! If a conviction occurs, he may be dismissed by his superiors: you have rid yourself of an unfavorable person. Besides the means of the trial, there are two other actions you can take if you hold evidence against someone.
+
+7.6.3 Denouncing Someone
+
+If you have evidence against someone, you can denounce this person to someone else. To do this, click on the fireplace, select the victim first, and then the person to whom you want to denounce the victim for whom you have evidence.
+
+EXAMPLE: If you want to denounce the judge of a city to the mayor, so that he may possibly dismiss him and you can rise to the then-vacant judge's position as a councilor, you should 1. have sufficient evidence against the judge and 2. enjoy quite high esteem with the mayor so that he believes you.
+
+You can often get rid of unwelcome opponents by denouncing!
+
+7.6.3 Blackmailing Someone
+
+If you have a lot of evidence against someone, it may be an issue to blackmail this person. This means you can freely dispose of the privileges of the blackmailed person.
+
+--------------------------------------------------------------------------------
+
+If you want to make an attempt, write your blackmail letter at the desk in the backroom...
+
+EXAMPLE 1: You are a priest in a city where you want to build a residence. Unfortunately, the construction costs in this city are quite high. However, if you manage to blackmail the master builder, you gain his privilege of setting the construction cost, significantly reducing the price of building your new residence.
+
+EXAMPLE 2: You are a privy councilor in the county of Bergenhöh. The position of judicial advisor has become available and will be filled next year. Unfortunately, you have a low standing with the chancellor of Bergenhöh, who appoints the judicial advisor, meaning you have to expect that the chancellor might prefer another candidate. Luckily, you have gathered many pieces of evidence of the chancellor’s wrongdoings, and a successful blackmail is possible. When the decision about the new judicial advisor is made at the end of the year, you can practically force the chancellor to appoint you.
+
+Of course, blackmail also has disadvantages. After a few years, your victim may no longer submit to being blackmailed. Then, 1. you will no longer have access to your victim's privileges, and 2. your victim will not quickly forget this blackmail!
+
+7.6.4 Sabotaging Someone
+If all these subtle methods do not help or seem too complicated, simply hire some saboteurs by clicking on the pistol to try to reduce the settlements of your opponents to rubble. They are not very cheap, but if they succeed, you can indeed rub your hands together with satisfaction...
+
+7.7 For Fans of Statistics - The Game Score
+If you are playing "Die Fugger II" with several people, the current game score might be of interest to you at times. Click on the board above the chest in the office to reach the game score window. Here you can see the progress of all players participating in front of the screen as well as some selected computer players. A click on one of the blue crystals provides you with additional information about the respective person.
+
+8. Fortune Favors You... - Events
+
+8.1 At the End of a Round
+If you think you have completed all important actions in your round, press the right mouse button in the office. If you have activated the appropriate warning in the game options banner, you will be asked if you really want to end your round; otherwise, it happens with your click...
+
+If you have diligently increased your talers, it might now happen that the mayor of a city grants you a new title. The first title, that of a citizen, is always awarded to you in the year 1601, as you have lived in a city for a year and thus acquired citizen rights. From now on, you can apply for offices. Subsequently, you will reach a screen on which you are...
+
+--------------------------------------------------------------------------------
+
+financial consequences of your game decisions are presented. How many thalers can your workers handle, what do your transports cost you? If you have sold goods in your round, you will also be required to pay this year's tax and the church tithe. Do you employ spies, mercenaries, or even robbers? Here is where you will be presented with this invoice as well.
+
+8.2 The Dear Chance  
+After the cost accounting, the tricks of fate lurk, either to make you break into storms of enthusiasm—or to let you fall into deep sadness. Several messages can either favor your next steps or force you to adopt a different tactic. There may be crop failures, carriers might set aside goods during transport, or your beautiful country house may be levied with a property tax. But maybe you manage to convince your workers of your miserable economic situation, and they help you out. Or you win several thalers at a dice game.
+
+8.3 The Rainmaker Himself...  
+Be that as it may, perhaps you want to give fate a little nudge and have hired some saboteurs, have other traders cheerfully robbed, or even initiate a lawsuit against the current mayor of your city. Then you will be confronted with the consequences of your actions. Depending on the level of havoc you've caused, the game might switch to an extra sequence, and events will unfold.
+
+8.4 Adventures  
+The Fugger II features over thirty smaller adventures, the so-called sub-plots. These are games within the game, lasting several years, and usually give you the opportunity to improve your wealth and reputation. For example, if you own a toll castle, you may be asked for help in quelling a peasant uprising. Perhaps ancient shards are found in the foundation of your residence, prompting an excavation. Or someone commissions you to ensure the removal of a specific person from their office. As already mentioned, numerous adventures await your mastery.
+
+8.5 Before the Jury...  
+Occasionally, it can happen that, amid all the events, you lose track of your financial situation. In short, some of your goods stored in your branch may be seized without much ado, or one of your carts receives the creditor's mark. If you overstrain the patience of your creditors, you may quickly find yourself before the jury. Take advantage of the possibility of bribery, for debtors' prison looms...
+
+9. Events in Middelland  
+
+9.1 The Course of Things - and the Path to Offices...  
+After all players have completed their rounds, all computer-controlled players spring into action: Some go the way of all flesh, others may perhaps be...
+
+--------------------------------------------------------------------------------
+
+due to incompetence, and others move into the now vacant positions. If one of the positions to be filled is of interest to you and you have applied for it in your writing office, it is now time for that position to be filled. All your competitors line up next to you on a special screen for those who will appoint the position to select from. Then it comes to a vote, and all you can do is keep your fingers crossed. Of course, it occasionally happens that you get to choose an applicant yourself, which is all the more fun if you get to decide the fate of another player in front of the screen. The respective screen background informs you about the kind of office being filled:
+
+A TOWN HALL PORTAL: The appointment of a secular office at the city level.
+A CASTLE: A secular office in a county is vacant.
+A PRINCELY HALL: The appointment of one of the highest secular offices follows.
+A CHURCH PORTAL: A church office in a city is filled.
+A CATHEDRAL: A church office at the county level is appointed.
+THE CATHEDRAL INTERIOR: Archbishop, Archdeacon, or Inquisitor positions are vacant.
+
+9.2 What Else Happened
+Just as it is for you, computer-controlled games have free rein to do as they please. So it may happen that someone takes fencing lessons, hosts a festival, or, if they have the privilege, changes the law books of Mittelland. Tax levels are changed, cities are besieged, competitions fought, and ministerial chairs swapped. Everyone pursues their goals, especially the opponent. They will try to put obstacles in your path.
+
+Your goods transports may be attacked by nasty robbers, you may be dragged before a court, or someone may insult you. In this case, you can choose to overlook the matter, which damages your reputation, or demand satisfaction. You then arrange to meet your opponent at dawn by the old bell tower and, hopefully, use your superior fencing skills for satisfaction.
+
+Finally, if you wish, you will be informed about historical events of the respective year.
+
+10. Help, a Raid — The Battle
+10.1 Introduction
+Since your financial capabilities at the start of a game of The Fugger II do not allow for the acquisition of a robber's camp or even a customs castle, you will likely experience your first raid from the perspective of the victim. Some disgruntled robber captain has just chosen your goods transport to entertain his robbers and acquire your goods for himself...
+
+In this case, tactical combat is initiated — a whole different game within the game. In a short introductory sequence...
+
+--------------------------------------------------------------------------------
+
+watch your transport on its way to the city you have chosen. If you have an escort, you will see your men in significantly greater numbers, a more reassuring feeling than just having to look into the faces of your flabbergasted cart drivers. Then, at some point, the robbers will sneak up on you, and a fight might ensue. 
+
+Initially, you will be asked if you want to persuade the attacker with a small donation to abandon their gruesome plan. If you refuse this for moral or other reasons, or if you simply offer too few talers to your adversary, a fight will ensue. 
+
+Usually, there are mercenaries in the vicinity who have been ordered by your lord to watch over the county. You can, just like your opponent, try to secure the support of these troops. They will ultimately make their decision and, if you wish to participate in the skirmish, join the side of the defender or the attacker. Now, the actual battle ensues.
+
+10.2 The Unit
+
+All troops are divided into individual units. A unit consists of between one and five men, for example, 2 cart drivers or 4 musketeers. All men in a unit act simultaneously according to their tactics, regardless of their current location in the battle scenario.
+
+10.3 The General or Robber Leader
+
+Both attackers and defenders include a special figure. On the attackers' side, this General (for mercenaries) or Robber Leader (for robbers) always appears in the lower left corner of the screen, on the defenders' side in the upper right corner. The General or Robber Leader has a special significance. As long as he is alive, you can access the tactics menu by pressing your hotkey to issue specific orders to each of your units. 
+
+If your General dies, the computer takes control of your men. It might be advisable, therefore, not to let the General advance. (His tactic at the start of the battle is "await.") On the other hand, the General is very powerful and can take down many enemies. You should carefully consider which tactic to assign to your General or Robber Leader...
+
+10.4 The Tactics of a Unit
+
+Pressing your hotkey, the key you selected at the start of the game, will display a flag in your color in one of the upper corners. You have informed the game that you now want to change the tactics of your units. A banner will appear after the last action is completed. 
+
+Move the mouse pointer over one of your men, and a golden frame will be placed around the feet of all soldiers in the respective unit. For example, if you selected an officer from a unit of three officers on the defenders' side, the left part of the banner will show "3 Officers (67%)" and the right "Attack Enemy."
+
+The first indication "3 Officers (67%)" provides information about the condition of the selected unit. The higher the percentage value, the better this unit can deal damage and the more damage it can take in return.
+
+--------------------------------------------------------------------------------
+
+it can still take. The second specification "Attack enemies" is the tactic with which the unit proceeds. Clicking the left mouse button selects the next possible tactic for this unit. If you are satisfied with the tactic you have chosen, you can move the mouse to select another unit; clicking the left button again cycles through its possible tactics.
+
+10.5 Possible Tactics
+Attack enemies: The unit will move toward the nearest enemies and attack them.
+Wait: The unit stands still and does not move. It will defend itself but not inflict damage on any enemy.
+MAKE PRISONERS: If your men operate from a customs castle or a robber camp, you can attempt to take prisoners. In this case, a unit will try to surround enemies and capture them. If the attempt is successful, the enemy falls to the ground, and a flag of your color appears on their body. After the battle, your men will try to "persuade" prisoners to switch to your side.
+CAPTURE GOODS: If you, as an attacker, raid a goods transport, you can seize goods. The unit moves to the uncaptured goods and plants your emblem there; the goods are yours.
+RECAPTURE GOODS: As a defender, you naturally have the opportunity to fight back captured goods. You will then plant your flag on your goods.
+
+SHOOT ENEMIES: Cannoneers fire their cannons at spots in the scenario where they suspect an abundant harvest among the enemies. Sometimes, however, the dreadful cartridges also claim your own people as victims...
+BOMBARD TO SURRENDER: If you attack a customs castle or a robber camp, you can give your cannoneers the tactic to bombard the object to surrender. They then damage it when security or concealment facilities are damaged and casemates or straw storages are destroyed.
+STORM ENTRANCE: Do you want to capture the customs castle, robber camp, or a ship you are attacking? Give one of the specified units this tactic, and your men will strive toward the entrance. A customs castle or a robber camp is considered captured when three specific fields in the entrance area are occupied by three of your swordsmen. On their advance, your men will only attack those enemies that prevent them from occupying these fields. Caution is advised. Before you use this tactic, you should have established significant superiority on the battlefield.
+DEFEND ENTRANCE: The opposite tactic. As a defender of a ship, customs castle, or robber camp, your unit will do everything possible to prevent the object from being captured. The unit will group in the entrance area and attack all enemies that come too close.
+RETREAT: The unit will try to put as much distance as possible between itself and the enemies, but without leaving the combat scenario in a headlong rush.
+
+--------------------------------------------------------------------------------
+
+ESCAPE: Sometimes all is indeed lost. If the condition of a unit is close to zero and you want to save your men, you should give them the order to retreat in panic. The unit will then leave the battlefield by the shortest possible route.
+
+10.6 The End of a Long Battle
+
+Eventually, the slaughter comes to an end. You have either won, lost, or the battle has ended without a decisive outcome. You will now be informed of the gains and losses in a tabular form. Who took how many prisoners, were any goods captured? Will some sailors never be able to sail again? And the pressing question: How many of your beloved bombers misjudged the length of their fuses? You will get answers to all these questions in the summary.
+
+Finally, a warning: If you incite raids with robbers, your men will always demand a certain premium for this. So consider carefully whom or what you raid to make it worthwhile for you. Quite a few leaders of waylayers have ended up destitute due to too frequent raids...
+
+11. Special Events
+
+11.1 ...And for the Third Time - The Auction
+
+At irregular intervals, an auction is held in a city in the Midlands. This event is announced a few years in advance, so you have the opportunity to have your residence or some balloons auctioned off. Then simply release the objects you wish to auction in the appropriate menus. If you have a nice object, it will usually fetch more at auction than if you just sell it outright.
+
+At the beginning of an auction, you can admire the exposés of all the objects to be auctioned in the auction catalog, including possibly your own. You will be informed about the condition of the object, in case of transports also about the quantity, as well as the minimum bid and the previous owner. In this way, you can fix one or two objects of interest to you and do not have to pay close attention to the entire auction to see what happens. If you have looked through the catalog and found no object of interest to you, you can decide not to attend the auction any further; the auction will proceed without you. However, it is not possible for you to withdraw if you want to auction off an object yourself.
+The auctioneer will now explain the first item and open with the minimum bid. Pressing your hot key allows you to place a bid. From time to time, the auctioneer comments on the behavior of the bidders until he finally says "...and for the third time...". The object is thus auctioned, and the next item is announced.
+
+Winning an object at auction can be quite lucrative. Many a bargain has turned into a real steal...
+
+--------------------------------------------------------------------------------
+
+changed hands to its owner. At times, however, the sums coaxed from the bidders by the auctioneer significantly exceed the true value of an object. Caution is therefore advised.
+
+11.2 Put him in the pillory... – In court  
+Crime doesn't pay. Or does it? This question is one you must decide for yourself. At some point in a game of "The Fuggers II," even the most affable individuals will encounter the court. Certainly by the time your opponent sues you for a trivial matter.  
+First, the prosecution reads out a list of charges, after which the defendant has the opportunity to respond. Both parties are then given a chance to hire some witnesses. This costs a few coins but increases the credibility of your side. After the witnesses have given their statements, the pleadings are made. Finally, the judges can also be persuaded with coins before a decision is made.  
+It is especially important for you to know whether the accusations made against you or by you are true or fabricated. In addition to your witnesses and your reputation with the judges, this significantly influences the outcome of a trial. If you have doubts, it is wise to invest a small amount, as the penalties can be harsh.
+
+Potential penalties include:
+– A few hours in the pillory, which is not particularly beneficial to one's health or life expectancy.
+– A fine that isn’t too painful.
+– A multi-year fine that can hurt quite a bit.
+– A year in debtor's prison – missing a turn.
+– Revocation of a title – Prestige can sometimes provide that crucial little edge in The Fuggers II.
+– Removal from office, which can potentially jeopardize the entire mission.
+
+11.3 On my honor... – Duels  
+There is one main reason to issue an insult and thereby demand a duel: If your standing with someone is extremely low, possibly because you have been slandered by that person, yet you depend on their favor, perhaps because they might promote you to a higher position, you should insult them! A duel resolves disputes, meaning: After the exchange of blows, your standing with your opponent will be completely average again, and former issues and differences will be resolved.
+Of course, duels also have a downside. If you decide to fight, depending on your bad luck, your health will suffer. In extreme cases, you may no longer be able to perform your official duties...
+
+--------------------------------------------------------------------------------
+
+12. Appendix I – Distribution of Offices
+
+SECULAR OFFICES IN THE PRINCIPALITY OF MITTELLAND
+
+Regent
+
+Grand Chancellor
+
+Minister of Finance   Minister of Justice   Marshal
+Councillor   Councillor   Councillor   Inquisitor   Archdeacon
+
+SECULAR OFFICES IN COUNTIES
+
+Bailiff
+
+Chancellor
+
+Financial Advisor   Legal Advisor   Captain of the Guard
+Privy Councillor   Privy Councillor   Privy Councillor   Sacristan   Cellarer
+
+CHURCH OFFICES IN THE PRINCIPALITY OF MITTELLAND
+
+Archbishop
+
+CHURCH OFFICES IN COUNTIES
+
+Bishop
+
+Abbot   Deacon
+
+SECULAR OFFICES IN CITIES
+
+Mayor
+
+Master Builder   Judge   Chamberlain
+Councillor   Councillor   Councillor   Priest   Priest
+
+CHURCH OFFICES IN CITIES
+
+Canon
+
+36
+
+--------------------------------------------------------------------------------
+
+13. Appendix II — Who Appoints Whom?
+
+WHO APPOINTS WHOM:  
+SECULAR OFFICES  
+CHURCH OFFICES  
+
+IN THE PRINCIPALITY OF MITTELLAND  
+
+OFFICE:  
+Regent  
+Grand Chancellor  
+Minister of Finance  
+Minister of Justice  
+Marshal  
+Councillors  
+
+APPOINTED BY:  
+Lottery  
+Regent  
+Grand Chancellor  
+Grand Chancellor  
+Grand Chancellor  
+Three Ministers  
+
+OFFICE:  
+Archbishop  
+Inquisitor  
+Archdeacon  
+
+APPOINTED BY:  
+Three Bishops  
+Archbishop  
+Archbishop  
+
+IN THE THREE COUNTIES  
+
+OFFICE:  
+Bailiff  
+Chancellor  
+Financial Advisor  
+Legal Advisor  
+Captain of the Guard  
+Privy Councillors  
+
+APPOINTED BY:  
+Lottery  
+Bailiff  
+Chancellor  
+Chancellor  
+Chancellor  
+Three Advisors  
+
+OFFICE:  
+Bishop  
+Abbot  
+
+APPOINTED BY:  
+Archbishop  
+Sacristan, Cellarer  
+and Bishop  
+
+Deacon  
+Sacristan  
+Cellarer  
+
+Bishop  
+Abbot  
+Abbot  
+
+IN THE TEN CITIES  
+
+OFFICE:  
+Mayor  
+Chamberlain  
+Judge  
+Master Builder  
+
+APPOINTED BY:  
+Three Councillors  
+Mayor  
+Mayor  
+Mayor  
+
+Three Councillors  
+
+Chamberlain,  
+Judge and Master Builder  
+
+OFFICE:  
+Canon  
+
+APPOINTED BY:  
+Bishop of the  
+corresponding  
+county  
+
+Two Priests  
+
+Canon  
+
+37
+
+--------------------------------------------------------------------------------
+
+14. Appendix III – Production Ratios
+
+Optimal production ratios between workers and resources:
+
+GOOD:                RATIO:
+GRAIN                 .5 : 1
+FISH                   .3 : 1
+BEER                  .2 : 1
+WOOL                 .1 : 2
+WOOD                 .7 : 1
+CATTLE               .1 : 1
+ORE                    .5 : 1
+WINE                  .1 : 1
+FUR                    .1 : 2
+GLASS                .3 : 1
+SALT                   .6 : 1
+CLOTH                .2 : 1
+SILVER               .8 : 1
+PEPPER             .9 : 1
+WEAPONS          .4 : 1
+
+38
+
+--------------------------------------------------------------------------------
+
+Important Notes on the Game - Introduction
+
+Germany in the year 1600 – a dark century is about to cast its shadow over a land fragmented into countless free cities, small bishoprics, counties, and principalities, bringing devastation and death.
+
+The old unity of the empire lies broken in pieces, the imperial crown has lost its luster, and the Christian Church is divided into two hostile camps. Hatred and fraternal strife dominate the course of this unleashed century, with the soldiery of warlords ravaging and marauding through the lands. The Thirty Years' War will sweep across Germany's fields, leaving chaos of unimaginable magnitude in its wake.
+
+The lords of this new era, the counts, princes, and kings of the many regions and nation-states, present themselves as shining over the peoples afflicted by hardship and poverty. In 1588, England had defeated the mighty Spanish Armada, followed by Spain's third state bankruptcy in 1596. The German banking houses of the Fuggers and the Welsers, which had extended massive loans to the Spanish king, were thereby ruined. The Fuggers lost three million ducats overnight...
+
+Amid these turbulent times, you find yourself in the small, indeterminate German principality of Mittelland. With no freedom to reside in a city and scarcely able to escape the bonds of your feudal lord, you wander aimlessly until one day you receive news:
+
+Your uncle, a distant relative of a branch of the Fugger family, has passed away! Thanks to this twist of fate, you inherit a depot in one of the small cities of the principality; furthermore, your uncle has left you a pouch with 750 talers and a cart. You make your way to the city, determined to trade your meager existence for a life that grants you fame and prestige as a great merchant and a position endowed with rich privileges.
+
+As you enter the office of your new depot, you immediately notice a large book lying on the old oak desk. You study the pages and realize that it must be an order book. Neatly recorded here are various commissions that your uncle must have given to his workers in the last years of his life. The final entries from the year 1599 task several men with the production of different goods. You weigh your pouch of talers, make a few notes, and decide to hire some workers yourself this year...
+
+Enter the age of the Thirty Years' War, experience the end of the Middle Ages and the dawn of the Enlightenment. Fight your way through the deceitful world of commerce, intrigue, and politics. Increase your wealth and secure the favor of those who pave your way from poverty to the world of high nobility. Open the doors to significant positions or cover up your dark schemes. Prove yourself the equal of a Fugger!  
+
+39
+
+--------------------------------------------------------------------------------
+
+Mittelland  
+A Brief Geography
+
+The Principality of Mittelland is divided into the counties of Mooringen, Auenthal, and Bergenhöh. The capital of Mittelland is the city of Fürstenbrück, located in the center of the country on the shore of the Great Lake.
+
+The County of Mooringen extends in the west of Mittelland. The seat of the Counts of Mooringen is the city of Finsterwalde, located in dark forests. Northeast, in the moors of this region, lies Moortal, while in the south is the port city of Lichterheide. The toll castle Waldenfels, located at the intersection of important trade routes, guarantees both security in the country and a high toll revenue in the county and the principality.
+
+Extensive forest areas and wide fields characterize the County of Auenthal in the southeast of Mittelland. The largest city is Waldstein, an old count's city and seat of the bishops. On the shores to the south lies Lauenburg, an emerging port city. On the southeastern shore of the Great Lake is the village of Kronsbach, which is supplied by many trade routes from the higher regions. A single road leads from the Great Lake directly to the toll castle Seels, a much-visited trade hub controlling ship traffic.
+
+Finally, in the far northeast, lie the cities of Greifenheim, Bergstedt, and Falkenhorst. The first is the capital of the County of Bergenhöh and the seat of the counts and bishops, securely located on high mountains and for this strategic reason has often been a cause of various conflicts. Castle Hohenfels serves as a base for the mercenaries of the region. Their owners are widely known as great military leaders.
+
+No one knows exactly where they are located; at least no one would ever admit it: the robber camps, hidden in ravines or dark forests, are a haven for sinister fellows. Currently known are the names of four of these places, namely Meuchelann, Dunkelforst, Säbeltal, and Henkerswald.
+
+--------------------------------------------------------------------------------
+
+Trade  
+A penny saved is a penny earned!
+
+Excerpt from the agricultural protocols of Nobleman Humbert of Horkenhain, advisor to the County of Mooringen on economic matters:
+
+"Esteemed and interested reader, the following thoughts are presented to you, stemming from my inclination toward economic matters, and well-founded through numerous discussions with highly educated French individuals dedicated to studying connections in this very field.
+
+To cover the costs inherently associated with the production of goods, a merchant must ensure that the proceeds from the sale of goods exceed the aforementioned costs. If this does not succeed, then he is a poor merchant who can hardly expect to evade his creditors over the year.”
+
+Therefore, an answer must be found to the following question: What ensures that a barrel of good fish brings in only five thalers in one city, yet ten thalers in another city, perhaps situated high in the mountains? Two conditions influencing this must be mentioned.
+
+Firstly: If a city is located in the mountains, there is likely no pond or even the open sea nearby. Fishing here proceeds laboriously. Perhaps only a small river is available to the fishermen, from which they catch little over the year. Nevertheless, the fishermen do not want to go hungry. So that their small catch still sustains them, they must sell it at a high price. It may be that the aforementioned ten thalers are not even enough to fill the hungry mouths of the fishermen.
+
+Conversely, if the city is by the sea, fishing is abundant. The fishermen are then satisfied with taking a low price of perhaps five thalers for their catch, earning a pure abundance from the overflowing amount of silver, enabling them to provide for their family.
+
+--------------------------------------------------------------------------------
+
+nourish themselves. The discerning reader will recognize that the geographical location contains the conditions determining the abundance with which a good can be produced. If this abundance is great, the price of the goods in that place will be low. Therefore, I shall call the first guideline of pricing abundance.
+
+Secondly: What does one buy for their daily meal when they have little money? They will eat dry bread, milled from grain, and indulge their throat with no more than a tankard of beer. Their clothes will never be of fine cloth, and their windows will not be adorned with artfully chiseled glass, but instead simply covered with a few wooden boards. And what about one who is well-off, how does he live? He will adorn his table with the finest meats and the choicest wines. He will dress in wonderfully embroidered cloths and wear rings made of silver and gold. And what is it that distinguishes one from the other? Money, nothing other than wealth. It seems to me that as wealth increases, simple goods lose popularity, while luxury goods then enjoy increasing popularity. Thus, the second origin of price should be called popularity and directly depends on wealth.
+
+From my preceding considerations arise three of the three fundamental rules for the merchant, the observance of which allows the merchant to achieve a handsome sum of money:
+
+1. The price of a good in a city rises with the popularity of the good. The richer a city is, the more popular expensive and luxurious goods are. The poorer a city is, the more popular simple and inexpensive goods are.
+
+2. The price of a good in a city decreases with the abundance of the good. The better a good can be produced in a city, the lower the price that can be achieved in the city will be.
+
+Esteemed merchants, the problem becomes apparent! If I catch fish by the sea, my catch is plentiful, but the price achievable there must surely sadden me. Consequently, our third rule imposes itself:
+
+3. If the price of a good is too low, due to the first two rules, to make satisfactory profits, it is worthwhile to sell the goods in another city, where their popularity is possibly high and abundance is low. Therefore, purchase wagons or ships and put them in the noble service of amassing thalers.
+
+--------------------------------------------------------------------------------
+
+About the Relations
+
+To produce a commodity, a number of workers are required, who need to be hired or employed, as well as various machines, fields, or other items from which the goods are obtained. I would now like to explain how a favorable ratio can be achieved.
+
+Grain: The vast fields around Moortal and Kronsbach serve as the granary of the Midlands. Grain is an economical food item. It is important that a field is not tended by too many workers. They get in each other's way and become idle, believing that others will take over their work. If I had two fields to tend, I certainly would not employ more than twelve men for this purpose. However, I must warn those who wish to hoard their coins and send fewer than eight workers to their fields, as they will quickly grow weary, and the yields will be low.
+
+Fish: Caught from the fish-rich sea, the cities of Lauenburg and Lichterheide are likely the main hubs from which large shipments are sent to all other cities in the Midlands. Fish is undoubtedly considered an inexpensive food item. There are many reports about what happened to boats where more than five fishermen tried to work simultaneously. They either lost their great catch due to interference or one of them fell into the waves due to carelessness, finding a miserable, chilly grave. Certainly, it is also extremely dangerous to send out a fishing boat with only one fisherman, as he can hardly withstand the dangers of the sea alone, steering the boat and hauling the net at the same time.
+
+Beer: The most renowned breweries in the land are located in Falkenhorst and Greifenheim. With their centuries-long tradition, they benefit both cities in the production of beer. Beer, like grain and fish, should be considered an inexpensive food item. The best method of brewing beer was, not too long ago, found described in the notes of an old brewmaster. He operated four kettles and employed between ten and twenty workers, depending on popularity and whether he had to supply a large festivity of notable persons. It seems to me that he had, based on his long experience, found a quite favorable ratio.
+
+Wool: There are sheep grazing on the lush meadows before Fürstenbrück, producing wool of a quality previously only known from the British Isles. In contrast, Bergstedt in the County of Bergenhöh is recognized for its particularly robust and resilient wool. Although this commodity is still counted among the cheaper goods, there have been many years when merchants reaped considerable sums for it.
+
+--------------------------------------------------------------------------------
+
+After marking your goods. The best results can be achieved when a worker takes care of shearing two to four sheep.
+
+Wood: In the deep forests around Finsterwalde and Greifenheim grow the mighty oaks and beeches, whose trunks only yield to the blows of the strongest woodcutters in the principality. Wood is a common good, which, depending on origin and grain, is processed into stools or tables, but also serves to create the finest carvings. To achieve abundant logging, a leased patch of forest should be cleared by no fewer than four workers. However, if more than six woodcutters are employed, their chopping may seriously damage the forest and yields will decrease.
+
+Beef: The grass in the pastures of Kronsbach and Lichterheide allows the cattle to develop such high-quality meat that many nobles already order the delicacies from there for their extravagant feasts and entertainments. Good beef is recognized throughout the country as a delicacy and thus fetches high prices. To ensure high quality meat, the cattle should be fattened and cared for by no fewer than one worker throughout the year.
+
+Ore: The ore mines of Falkenhorst and Bergstadt have a long tradition. The purity of the iron ore extracted there is the highest in the country and the quantities mined have made many a mine owner rich. Particularly high prices can be achieved by the sea. Between three and seven workers per mine should ensure good yields.
+
+Wine: The gentle southern slopes of the hills at Moortal and the warm wind in the region around Lauenburg produce the finest drops of middle-ground wine. A delight for the palates of well-heeled lovers, a good vineyard yields handsome profits. One worker should be used per wine barrel to give the grape juice the attention it needs to satisfy even the highest demands.
+
+Fur: The forests around Finsterwalde and Greifenheim are home to animals with the silkiest and softest furs in all of Middelland. Many high-ranking individuals are willing to exchange purse strings full of coins for these exquisite symbols of their wealth - a true luxury good. Should you own a tannery, you surely know that for about two tanning vats, no more than four to six tanners are needed.
+
+Glass: Fine cutting, best chisel work, and wonderful colors distinguish the works of the glassworks from Fürstenbrück and Greifenheim. Happy indeed is he who manages to operate every glass furnace with two to four workers and also employ one of the best glassblowers. It has for some time been in fashion...through the possession of glassworks of the finest nature offered.
+
+--------------------------------------------------------------------------------
+
+Furnishing houses and villas to emphasize one's own wealth yields truly considerable profits for a well-run glassworks.
+
+Salt: Bergstedt and Waldstein are widely known for their rich salt deposits. Many meters underground, usually six miners work in a mine to extract the precious salt, which, these days, is certainly not missing in any household in our country for seasoning various dishes. Especially in places where nature does not allow its own salt deposits, many thalers can be earned by selling the goods.
+
+Cloth: Fine woven fabrics from Moortal and Finsterwalde can nowadays compete even with the best works from Antwerp. Esteemed persons like to dress in these silky fabrics, and their vanity has already led them to spend quite a few thalers on coats and breeches. If you are engaged in this field, here is a reminder often forgotten: for the sake of quality, do not employ more than two workers at one loom; any additional would just stand idly and unnecessarily fatten his belly with your thalers.
+
+Silver: Known for centuries, the silver deposits around Falkenhorst and Kromsach are the largest in all of Mittelland. Desired by nobles and city dwellers, they adorn the person and property on joyful occasions. Silver, considered a special luxury good, will always find buyers even in the rich cities amid the chaos of war. If you are fortunate enough to own a silver mine, employ at least five, but no more than ten workers, to achieve good yields.
+
+Pepper: The pepper ships, arriving from distant lands and docking in the ports of Lauenburg and Lichtreide, are probably among the most lucrative endeavors in which a merchant can invest. Equipped with about ten buyers per expedition, the financially strong merchant investing here can usually live a carefree life within a few years of trading and indulge in pleasures otherwise reserved for the higher nobility.
+
+Weapons: A sensitive topic, as weapon forging is at many times the privilege of a few in the land. However, when it is lawful to pursue this craft, significant profits can be recorded. Four workers should be employed per forge to achieve good yields throughout the year. Weapons are in demand in wealthy cities but also in unfortunate places that fall victim to sieges.
+
+Thus, I will conclude my explanations in the hope of having been of service to the merchants among you.  
+Humbert vom Horkenheine
+
+--------------------------------------------------------------------------------
+
+An Honourable Career
+
+The Rise of Citizen Heinrich
+
+You begin the game with a camp in one of the less significant cities of the Midlands. You have access to a camp and 500 talers. However, this sum should not lead you to make hasty investments; even the Fuggers did not build their trading empire in ten or fifteen years. It is your business acumen that will make the most of it.
+
+The briefly described career of Citizen Heinrich can serve as a model for you, even though Heinrich had many adversities to report on his way up, which can also befall you. In a letter applying for the office of treasurer of Falkenhorst, Heinrich describes his previous career and his experiences.
+
+"To the esteemed Mayor of Falkenhorst:
+Dear Embrecht, until the year of our Lord 1587, I was an unfree peasant who worked his small plot day in, day out and was obliged to perform various corvée services for his feudal lord. One day, I told myself that it could not go on like this and decided, by night and fog, to take to my heels and hide behind the protective gates of a city. As you know, it happened that I ended up in the beautiful town of Falkenhorst, where shortly after my arrival, I purchased a small warehouse with my meager savings. Already after the first year, during which I hired six workers and assigned them to brew beer at two kettles, I had earned a small fortune of 1,200 talers. I still thank you today, dearest Embrecht, for being among my advocates even then, and after I had spent a year within the city walls, elevating me to citizen status.
+
+In 1592, I had amassed a fortune of over 7,000 talers, and as the then council majority Magdalena passed away, I applied for the open position. I always had the impression that Master Builder Harald was not particularly well-disposed towards me; yet during my Sunday church services—where I usually proved my integrity with generous donations—and the following social drinks at the tavern “Duke’s Head,” Judge Guthard and I grew closer; and when eventually my application was to be decided by the wise treasurer Anna, who was also well disposed to everything, it was also well disposed to everything.
+
+Thus, at that time—against the voice of the master builder—the office was assigned to me. I am happy and could say that it was the first and probably not the last time that I achieved my goal.
+
+In my years, I donated a fountain to Falkenhorst and my wedding to a reputable
+
+47
+
+--------------------------------------------------------------------------------
+
+The councilman's daughter from Greifenheim is almost certain. Remember that I rescued her from the clutches of some murderers who wanted to attack her in broad daylight on the street. I have always adhered to the law books of our principality and have never been found guilty of anything. On the contrary, the splendid festivities at my house are widely known. The food was always plentiful, and the guests delighted in the view of my park, into which they would venture at dusk. And what can I do if, six months ago, you observed Nobleman Robert with his mistress in the northern pavilion of my park? I have often pointed out to Robert that I do not tolerate such conduct in my house. 
+
+To make it short: I was actually confident that you would appoint me to the now vacant chamberlain's position. But now, since Robert has slandered me out of envy to some officeholders in Falkenhorst, I deemed it necessary to inform you once more about his activities and my innocence. 
+
+In devoted admiration, your Heinrich."
+
+This is how Heinrich tries to persuade the mayor to favor him over his competitors for the position of chamberlain. What is not evident from these lines is that the letter was accompanied by a filled pouch with over 800 talers. Heinrich's speculation must have been that he had thus provided Mayor Ennbrecht with an incentive both for himself and for the city council. 
+
+One last remark is permissible: Certainly, Heinrich had been an upstanding citizen up to that point. However, if one of his competitors had him under surveillance, Heinrich's crime of bribery might have been his downfall in court...
+
+--------------------------------------------------------------------------------
+
+Means and Ways  
+A Correspondence between Landgrave Ullrich and Inquisitor Valeran
+
+Over the years, you will trade in various goods, pay taxes, and send your transports to the markets in the remotest parts of the principality. You will set the wages for your workers, give generous donations to the people, and perhaps acquire one or two indulgences. You will rise in offices and receive increasingly extensive privileges, opening up entirely new courses of action to fulfill your mission. 
+But what to do when advancement simply won't succeed, when an unpopular officeholder refuses to vacate their seat, and when you are held in low esteem by those who should actually guide your way upward? 
+For this scenario, a comprehensive toolkit is available to rid yourself of undesirable individuals. Here is a brief excerpt from a correspondence between Landgrave Ullrich and Inquisitor Valeran, which provides insights into ways to solve the aforementioned problems.
+
+Greifenheim, in February 1627
+
+"To His Reverence, Duke Valeran,  
+Inquisitor of Mittelland.  
+My most humble congratulations on your new role as Inquisitor of Mittelland. You surely remember the young cleric in Falkenhorst—you visited my church several times when you were still the Bishop of Auenthal. At that time, I had the opportunity to organize two of your magnificent concerts. Well, now it's been five years since I was granted the office of Abbot of Bergenhöhi. As you know, in three years, the office of Bishop of our beautiful county will be vacant, as Bishop Albrecht has decided to retire then. I wonder if it would be presumptuous of me to apply. Unfortunately, two issues might impede my endeavor. Firstly, there are two individuals whom I know could be considered as competitors: Judicial Orator Carolina and Deacon Ludowig. Secondly, I advocate a more liberal faith orientation, if you understand what I mean. The position of Bishop is appointed by Archbishop Gottfried; I know no one in the whole country who is stricter against the Reformation."
+
+This is my situation; I hope you can help me.  
+Landgrave Ullrich, Abbot of Bergenhöhi"
+
+--------------------------------------------------------------------------------
+
+Fürstenbrück, May 1627
+
+"To Landgrave Ullrich, Abbot of Bergenhöh
+Dearest Ullrich!
+Your problems amuse me. How naive are you!? But to be fair, I have been thinking for a while now that the red soutane would suit me much better than the old fat archbishop Gottfried. Therefore, I will help you.
+Regarding your first problem: Judicial Advisor Carolina should hardly interfere with you. Gottfried does not look kindly upon secular officeholders, so I think Carolina is unlikely to have much of a chance. Deacon Ludwig is indeed a problem. As you know, as a deacon, he has the privilege of being given preferential consideration in the election for bishop. But what if there were no Deacon Ludwig to apply at the bishop's election? Think about it.
+As for your second problem, the first thing that comes to mind is to win Archbishop Gottfried's favor—let's say—through a bag filled with numerous talers. However, if I understand you correctly, you are of the Protestant faith while the archbishop leans towards the Holy See. The bribe would have to be astronomically high to achieve any effect. No, this solution is out of the question. Let me reconsider; perhaps I will come up with something else.
+Duke Valeran, Inquisitor of Mittelland"
+
+Greifenheim, November 1627
+
+"To His Excellency Duke Valeran,
+Inquisitor of Mittelland.
+Excellency, I have never done anything like this before. My God, how outrageous it was in that dive "The Plump Abbot." What a blasphemy! That Countess Beatrice tolerates such names in Bergenhöh speaks volumes about her morality regarding divine matters. Nevertheless, a couple of shady characters were willing to spy on the archbishop in the coming years. They demand 1,870 talers per year for it, an enormous sum! That you believe Judicial Advisor Carolina is not a serious competitor for me is highly reassuring, but what do you mean when you say that perhaps Deacon Ludwig might not exist when the election comes? Should I... have him eliminated? That can't be serious.
+Please let me know what means might be available to solve this issue in a less bloodthirsty way.
+Landgrave Ullrich, Abbot of Bergenhöh"
+
+--------------------------------------------------------------------------------
+
+"To Landgrave Ullrich, Abbot of Bergenhöh  
+My best Ullrich!  
+You still have much to learn! Do you really believe it is  
+possible for you to ascend to such high political offices  
+without getting your hands dirty even once? Certainly, I never thought of murder. My plan is  
+as follows: Rile up Deacon Ludwig, have him monitored, send  
+some saboteurs his way, perhaps you can get him to  
+put you on trial. You should beforehand certainly go  
+to church and acquire an indulgence letter so  
+you appear innocent in court. Ludwig will  
+likely invest a lot of money in witnesses; this financial  
+loss will not please Bishop Albrecht at all. If you manage to  
+slander Ludwig to the bishop as well,  
+he will begin to wonder whether he has chosen the right  
+deacon. If you are lucky, Ludwig will be  
+dismissed!  
+Now to Archbishop Gottfried. I have long thought about this  
+problem and have come to the conclusion that there is  
+only one way to get him to make you bishop: You must have  
+enough evidence against him in hand and blackmail him!  
+Only under pressure will he be willing to make you bishop.  
+Think about my suggestions, but do not take  
+too much time. You must act!  
+Duke Valeran, Inquisitor of Mittelland"
+
+Fürstenbrück, March 1628
+
+Greifenheim, January 1631
+
+"To His Reverence Duke Valeran,  
+Inquisitor of Mittelland.
+
+Reverence, what a joyful day! Finally, I have reached my  
+goal – I am bishop!  
+In the summer of 1629, my saboteurs succeeded in a devastating  
+attack on Deacon Ludwig's possessions, and immediately  
+I bought indulgence in the church in Greifenheim. And as you foresaw:  
+Ludwig sued me.  
+
+In wise forethought, I had acquired through a few minor  
+bribes the favor of the judges and the  
+justice advisor of Bergenhöh the year before. Ludwig  
+invested over 5000 thalers in witnesses and wanted to  
+facilitate the high court's decision against me with a donation  
+of another 3000 thalers, but since I was  
+innocent, I was acquitted.  
+I, and the costs of the proceedings amounting to 1700  
+thalers, Ludwig also had to bear. After I then  
+succeeded in slandering him to Bishop Albrecht for his unfounded  
+trial, he was released from his office. The way was clear for me.  
+In the meantime, my informants had gathered numerous  
+pieces of evidence for various legal offenses by Archbishop Gottfried.  
+Imagine, he had taken a mistress, bribed what could  
+be bribed, and furthermore maintained a robber camp in the Hangman's  
+Forest! With this overwhelming material, I finally  
+managed to blackmail Gottfried. I forced him to vote  
+for me in the bishop's election."
+
+--------------------------------------------------------------------------------
+
+If Your Reverence had not given me these valuable hints, I would probably still be an abbot today.  
+In infinite gratitude,  
+Landgrave Ullrich, Bishop of Bergenhöh."
+
+This was not the last letter between Ullrich and Valeran. As he had already informed Ullrich in 1627, Valeran wanted to become archbishop himself. And what could have been more convenient for him than the friendship with a bishop - after all, the office of archbishop is filled by the bishops of the three counties...  
+As you can see, the political entanglements proved to be diverse and highly complicated. To achieve one's goals, it is often necessary to deviate from the path of virtue and to brood over sinister plans in the back room of one's office. However, a certain caution is advisable, for what if you yourself at that time held one of the offices that Ludowig and Gottfried held...  
+
+52
+
+--------------------------------------------------------------------------------
+
+The Law Books
+
+Or: The Justice System of Mittelland
+
+The legal system in Mittelland is based on the Three Great Law Books, first written down in 1433 by order of Prince Arland IV of Fürstenbrück. You too will sooner or later come into contact with the letters of the law, whether because your mission requires it or because you must decide as a judge over the wrongdoings of a person. Therefore, here follows an excerpt from the chronicles of that time, in which the history of the creation of the law books is described.
+
+The Chronicle of Mittelland, recorded by Silvana, scribe of His Lordship, the ruler over the Beautiful Lands, protector of Christendom, and keeper of the insignia of Holy Umbrik, Arland IV of Mittelland.
+
+In the Year of Our Lord 1433
+
+...in the preceding years, certain trials in the high courts of the land had raised doubts regarding the legitimacy and divine approval of various judgments. To guarantee and eternally uphold the protection of the law for the benefit of my people, I hereby decree that it shall be rounded off and valid for everyone, whether peasant, freeman, or nobleman:
+
+Traditional rule sets shall be recorded, upon which anyone in my land may refer in court, no matter how lowly his status. All arbitrariness shall be curbed by the Three Great Law Books.
+
+For all matters of a financial nature, it is decreed:
+It shall be permitted to take credit from money lenders. Whoever tries to control others through money shall be punished. It is disgraceful to pay one's workers starvation wages. Henceforth, everyone shall pay one-seventh of what he earns as taxes.
+
+Further decreed for matters of a legal nature:
+Whoever causes harm to another, in whatever manner this may happen, shall be brought before a proper court.
+
+Fishing in the princely ponds is strictly forbidden.
+
+Whoever, without the approval of the Emperor or the Prince, attempts to besiege cities may face banishment and be declared an outlaw within the borders of Mittelland.  
+
+53
+
+--------------------------------------------------------------------------------
+
+Anyone who falls into robbery shall be punished most severely.  
+Matters of faith shall be addressed as follows:  
+The prince serves the Holy Roman Church, as should his people.  
+Indulgences are deemed favorable, for they cleanse our souls and are for the greater glory of God the Lord.  
+
+Concubinage is reprehensible, as it is written: Thou shalt honor thy wife. The people shall be allowed to celebrate festivals and enjoy wine and song. A tithe, the tenth part of everyone's income, shall be set as a tax for the church.  
+Thus it shall be written and hereafter apply. Furthermore, I decree...  
+
+These laws written down for the first time have been expanded and modified by subsequent rulers over the decades. Today, the legal code is divided into three law books, each containing ten laws. As the oversight of the laws became increasingly complicated, the rulers of the land decided to transfer the authority to legislate to high state officials. Nowadays, the privileges to amend the legal texts are distributed as follows: The Minister of Finance can amend the laws pertaining to monetary matters, the Minister of Justice holds the same right regarding criminal laws; finally, the Archbishop enacts or repeals church laws.
+
+To enforce the legal texts in Midland, there are various offices at the three levels of cities, counties, and the principality, whose holders can act as judges. Normally, verdicts are decided by city judges based on the evidence. However, if the accused holds a county office or even a princely office, the judicial advisor or the Minister of Justice acts as the judge. As assessors who also participate in the decision-making, judges from neighboring cities of the place of accusation or, in serious cases, the judicial advisors of the counties usually function.
+
+Every good merchant, and that probably includes you, should have the three law books fully available in his library. On one hand, to know what your own behavior should be, and on the other hand, to have the opportunity to judge other people's behavior and bring discovered violations to court.
+
+Furthermore, the role of the jury and the culpability, your titles and possessions, your behavior towards others, and your goodwill towards the people determine a specific...
+
+--------------------------------------------------------------------------------
+
+Reputation and a certain creditworthiness. Wealthy patricians are willing to lend you money - of course, at correspondingly high interest rates.  
+You can take such loans on your own, but if your debt becomes too high, you might be forced to take one in order to cover your ongoing expenses.  
+If your debt exceeds a certain level, your creditors might find themselves compelled to seize some of your goods, means of transport, and storage space. In particularly severe cases, entire establishments have been reported to fall victim to seizure. Such concerning events have always been followed by a lawsuit in one of the jury courts. However, there have been heavily indebted merchants who were thrown into prison by their raging creditors without any trial and still languish there today...
+
+The jury courts are composed of ordinary citizens of a town and are independent of the regular permanent courts.
+
+Two cases judged by a jury court are exemplarily described here:  
+Citizen Andreas, a small grain merchant from Kronsbach, is accused. This is the occasion where Citizen Andreas must appear before one of the jury courts - due to the dispute over a loan of 230 thalers, not repaid to Baron Hugo. After Andreas plaintively described his family's situation, the jurors had nothing but a bored, condescending smile and pity for the grain merchant and acquitted him.  
+Baron Hugo, who previously caused judicial scandals, appears before the court. His self-assured grin suggests a bribery operation preceding the trial, where Baron Hugo invested 3,000 thalers in the goodwill of the witnesses. However, some jurors had concerns when they were informed of the extent of the debt: it had, after all, been necessary to seize 14 carts, 3 ships, and two complete establishments. The verdict was therefore - albeit by a narrow majority - "Guilty!"  
+Hugo was immediately taken to the debtors' tower, where he was given a year to reflect and conduct his financial transactions less speculatively in the future. Water and bread did not sit well with someone accustomed to game meat and wine, yet he could rub his hands: foresightedly, he had appointed managers in his remaining establishments to continue his significant speculations in his absence...  
+
+55
+
+--------------------------------------------------------------------------------
+
+The Family  
+How do I establish a dynasty?  
+
+Even in the 17th century, no one lived indefinitely long. On the contrary, life expectancy was considerably lower than in the 20th century, due to poor hygiene, plagues, and wars. Especially in rural areas, but also in many urban crafts where extremely hard physical labor was common six days a week from sunrise to sunset, someone who lived beyond fifty was considered an old man or woman. Although today we are familiar with the birth and death dates of kings, wealthy citizens, and great philosophers of that time, these tend to mislead regarding the normal life expectancy of that era, as these people were highly privileged in terms of medical care, hygiene conditions, and the harshness of their working conditions compared to their contemporaries.
+
+Your internal clock also ticks in Fugger II. Let's say you start the game in the year 1600 at the age of twenty, then you can easily estimate how much time you have left before the Grim Reaper visits you. As the years pass, you will notice that the painful feeling in your fingers that wasn't there last winter has arrived. Enough so that walking becomes more difficult, and your nightly rest gets shorter. Various serious illnesses could take you away early, further shortening your already limited lifespan. Even if you don't want to believe it, but one day help will be there for you if you receive a visit from a quack or physician who adds a few drops of paraffin to your life's light.
+
+Nonetheless, everyone's final hour eventually comes. For this reason, you should think early about courting a fair woman or a handsome man, so you may be blessed with many children.
+
+To aid you, here is an excerpt from the diary of a matchmaker, certainly a disreputable trade. However, the advice of an old woman might still be useful to you.
+
+Jolandra's Diary, August 1614  
+To find a life partner, go to a matchmaker, as I have been all my life. She will make you an offer and show you a picture of your future spouse. What someone like me suggests primarily depends on how high your wealth, position, and reputation among the people are. If you decide to court the person, it is helpful to give them considerable gifts in the following years to win their affection; you should not be stingy in this regard. Furthermore, you must pay attention to where the wedding is to take place. Unfortunately, the cathedral deans of the cities still hold the completely outdated privilege of forbidding weddings without stating reasons if the betrothed are not agreeable to them...
+
+--------------------------------------------------------------------------------
+
+If you have married, you can count yourself lucky, as your reputation with the friends of the bride or groom will increase. For this reason, it is never wrong to host a beautiful celebration before you close the door to your wedding chamber, he he...
+
+As for the wedding itself, in the following years you will likely be blessed with some children, whom you can have baptized in the church. When the time comes, you can make your will and appoint an heir who will receive the majority of your assets in the event of your passing. If you have more children, they will receive a mandatory share of the inheritance.
+
+When your day has come, you will be buried in the cemetery. Your relatives will not miss the opportunity to have an epitaph engraved on the tombstone that describes your life in a few words.
+However, that time has not yet come. Therefore, it is advisable to consider carefully whom you leave your fortune to, as it is often the case that relatives who receive nothing turn against the main heir and envy them their possessions for many years.
+May you, regardless of the possibility of playing Fugger II over several generations, be granted a long, peaceful, and godly life...
+
+--------------------------------------------------------------------------------
+
+Blows of Fate
+A Letter from the Dungeon
+
+To become a successful merchant, it requires not only great skill and excellent connections to important officials. An underrated role is also played by fate, which can sometimes turn to you in either a positive or negative way. But what is this fate, is it just chance? There are priests who claim that God's favor can be won by occasionally lighting some candles in a church or cathedral for a few coins or using some holy water...
+
+Here is the farewell letter from Master Builder Thomas from the year 1623, which—besides a huge pile of debts and a large crowd of raging creditors—was the only thing he left his grieving wife before he disappeared forever behind the gloomy walls of the dungeon.
+
+To Hanna, my beloved wife! Although you never showed much interest in my business, you should know what led me to the dungeon and you to poverty. Seven years ago, my ship named Fortuna slipped away. If you recall the great century flood of 1616 in Lauenburg. In my last hurry, the corridors of some of my... 
+
+I had not taken out any insurance against such a disaster and was therefore forced to take out a loan of several coins from a moneylender—at 27 percent interest. I would have been able to repay it if it hadn't been for Ernst von der Schniefenhöh—cursed be he—besieging Lauenburg two years later. All my carts had to turn back, and I achieved the meager price of only four coins per bushel.
+
+In those days, I saw no other way out than to turn all my carts and my beautiful ship—you surely still remember, the Ammelle—into coins. I also sold my second warehouse in Bergstedt. I invested the entire proceeds in the purchase of additional storage rooms, whose rental yielded good profits in the years following the disaster. Everything went well in the first year. Also, since I had just been elected master builder and had a respectable income, I increased my coins, so much so that—because of the favorable price—I immediately acquired a few more square meters of storage space.
+
+But then luck completely abandoned me. Just recall the great fire of 1620, in which more than half of my house turned to ashes. I then decided to...
+
+--------------------------------------------------------------------------------
+
+set my competitors' warehouses on fire. Oh dear, I wish I had never done that! Canon Helmuth, who had likely been keeping an eye on my economic setbacks for some time, had my activities monitored by some spies at every turn. He took me to court in Lauenburg. I will never forget his nasty grin, which undoubtedly stemmed from bribing the witnesses. There is no other explanation for why eight alleged witnesses testified about crimes I really never committed. And even though I confessed to the sabotage—really my only wrongdoing—all three judges found me guilty. The punishment was dreadful; I had to pay 780 talers in fines each year for four consecutive years. When Mayoress Adelheid subsequently removed me from my post as a master builder, I was ruined. Then, when I also had to make a tax payment of 630 talers and the due date for my loan repayment was approaching, my creditors became alert. When they—led by the dreadful Counselor Heino (remember, at the last court concert he made an utterly ridiculous troubadour)—finally showed up, they found nothing left but my desk that could be turned into money, and... but you know the rest! All this is written to you by your Thomas. P.S.: I wish we could see each other once more; maybe in a few years we would be aware of the terrible Tirrites that only befell me. I still have so many of those wonderful old songs that one once conducted, alone then with one of them a delicious root cake, you know, the one I used to enjoy eating... Thomas's letter shows how quickly fate can destroy a livelihood. Thomas was a promising merchant until the day the storm surge devastated his warehouse. Less risk-taking merchants would have ensured security, taken out insurance, or reduced their trading volume. Measures that Thomas no longer had at his disposal, at the latest since the fire in his warehouse in Bergstedt...
+
+--------------------------------------------------------------------------------
+
+Castles, Swords, Wild Parties  
+From the Life of Baldur Count of Dekadent  
+
+If the previous chapter caused you, dear reader, any stomach aches, then let us now present a depiction from the life of Baldur Count of Dekadent, a true bon vivant as depicted in the books. His stories are those of a man inclined to enjoy all the pleasures of the time, who has neither fear of life nor the necessary respect for death. On the other hand, he is an example of the indulgences that were the life's content for the rich and noble of that era. If you possess enough talers, such pleasures are not beyond your reach... We now catch a glimpse into the hall where the Count tends to host his parties. The Count and his guests are in the middle of lively conversation.
+
+"Wine, cupbearer, more wine... Oh he... have I ever told you the story of how I acquired my first toll castle?...
+No?!
+One day, as I was stopping at an inn while passing through Finsterwald, up comes this...
+...but Greta, not now, you see, I'm just telling my guests a story.
+So, this nobleman approaches me. Ruprecht of the Hollow Throat was his name, if I recall correctly, and he asks me if I fancy playing cards with him in the tumor. You know, when I let the dice roll, luck usually isn’t on my side..."
+"Yes, I still have 4000 talers owed from you."
+"Silence, moneylender! This archdeacon always interrupts my stories... So, I bet 1000 talers and Ruprecht deals the cards. And what do you think, I draw?...
+A ten and... another one!
+Of course, I acted, just like those characters of that Englishman, what's his name again? Shakespeare, exactly! So, I ponder intensely to make the one from the Hollow Oak - ha ha - thoughtful, and then decide, to take no more cards. - Finally, the wine! - Ruprecht takes and then looks quite satisfied. He decides not to take any more either and we reveal:
+He has a jack, a queen, a king, and a nine... I grin - and drop my trousers! Ha ha... and scoop up his talers!
+Over the rest of the evening, I win around 8500 talers, marvelous, I tell you. And then, with my head feeling as if a cannon shot had struck from too much of that Finsterwald Dark, he asks me to return the money yet offers me his toll castle, Waldenfels, for a mere 12000 talers. I think briefly, and we strike a deal...
+Well, that's how it was back then...
+My God, Priest Tankred, is there nothing to eat at your church!?... You look terrible, how you hold your baptism...
+
+--------------------------------------------------------------------------------
+
+slurps you up!“
+
+„Hmpff... Sorry. But it tastes absolu- *grmpf* – absolutely divine.“
+
+„Yes, yes... Oh, Landgrave Elisabeth, do take some more of the rabbit, I had it caught just for you. And you, Abbot Laurentius, is your cup still well-filled?...
+
+Ladies and gentlemen, another story: Once I had a disagreement to resolve with Baron Zelphyr – I was of the opinion that his daughter was a very desirable maid, he was of the opinion that I should direct such compliments to my wife at the time – God rest her soul – we decided to let God be our judge in a duel...
+
+So we met on a misty November morning, our adjutants exchanging courtesies, we ourselves full of concentration.“
+
+„Which weapon did you choose, Baldur?...“
+
+„COUNT Baldur, if you please, priest!... Well, since the scoundrel insulted me, I mentioned the rapier as God's instrument of justice. Then we took our positions. And you won't believe it, suddenly such a thick mist rose up as I've never experienced before. We wildly flailed our weapons around, bumped our heads on different trees, and indeed exchanged some blows. In the end, we were so exhausted that we fell into each other's arms and decided to end our duel.“
+
+„What was then the outcome of your duel?“
+
+„Well, we reconciled, if you will, my reputation with Baron Zelphyr was back to normal, although my health had somewhat suffered. My God, the scar on my cheek still aches at times today... Greta! Greeta!... GRETA! My wound hurts, where are you always when you’re needed?... come and COMFORT me at last...“
+
+Hopefully, dear reader, you are not too indignant about the scene we have just been given insight into. Count Baldur von Dekadent often tends to crude expressions, yet these seem to attract rather than repel his visitors. Forgive his choice of words in any case, it seems it might have been the language of the time...
+
+Well, let each of you draw your own conclusion from the Count’s tales – though the role of Greta certainly merits closer examination:
+
+In our time, it is quite common to take a mistress or a lover as well, in addition to a wife or husband, of course... Our Count Baldur is a relatively harmless example in this regard, since his wife has already passed away. Nevertheless, an undeniable advantage of a mistress or lover is that you yourself, dear reader, will undoubtedly rise in esteem among like-minded individuals...
+
+61
+
+--------------------------------------------------------------------------------
+
+Into Dark Robbery
+
+Or: What Happened to Landgrave Stephan's Goods in the Year of Our Lord 1632
+
+The time had come: In the previous year, Landgrave Stephan had opened his fourth warehouse in Waldstein and had then dispatched his carts and balloons in all directions. Everything pointed to the fact that the landgrave's warehouses would be filled to bursting the following year, and a new noble title would be awarded by the regent of Mittelland.
+
+Just at this moment, the treacherous Baron Hugo entered the peaceful life of the unsuspecting wholesaler Stephan. Baron Hugo sensed rich pickings since Stephan had sent his transports through Mittelland unguarded. The baron, who held dominion over the dreaded bandit camp of Meuchlern led by Orlog, the Merciless, was firmly determined to attack Stephan's transports with his dark companions. In Baron Hugo's hypocritical memoirs, one would later read:
+
+"In the past, I already noticed how excessively agitated Landgrave Stephan became whenever it was necessary to donate part of the goods that had arrived at his warehouse to the needy in the respective town due to lack of storage space.
+
+With an unfailing foresight, I owe the realization that it was not least because of  
+62
+
+--------------------------------------------------------------------------------
+
+Stephan's clumsy sales of storage room will lead to a true celebration among beggars, day laborers, and other useless people next year. 
+
+So I have now decided to spare Stephan this trouble next year by relieving him of some of his goods. 
+
+I thus went to Captain Orlog to arrange the necessary. The robber captain and his comrades have already rendered useful services to me in the past, if you understand what is deeply important to me. Nothing is further from my mind than violence! Yet, unfortunately, during such undertakings, I always encountered stubborn mercenaries that prevented me from transporting my friends' goods away. Therefore, this time, I was even compelled to enlist the support of Baroness Natascha, who then provided me with her "robbers" for the outrageous sum of 12,700 talers. (Captain Orlog and his comrades really do not like that word...)
+
+Thus began the glorious battle against Stephan's coachmen and their carts, in which, unsurprisingly, I proved to be the better strategist. Through extraordinarily skillful tactics, I managed to destroy all twelve opposing mercenaries and coach drivers and not more than a ridiculous thirty-seven robbers and to carry off almost all the goods.
+
+Regrettably, I had to leave half of all the goods to Baroness Natascha for her services, even though she only supported me with twelve robbers."
+
+This confirms here, besides Hugo's deceitful treachery, that a raid can indeed be rewarding. Yet, you should always consider with whom you are dealing if you decide to run a robber camp: With the darkest of all fellows, with robbers! With those who will certainly not let everything happen to them.
+
+Should there also be a similarly greedy merchant as our Baron Hugo in your vicinity, then at least an escort is recommended, which you assign to each of your transports. Alternatively, requesting a military escort from a toll castle monitoring your trade routes could prove rewarding and provide the security that ensures your goods reach the destinations you selected safely.
+
+Despite all these descriptions, if your transports are of great value to you, you should accompany them with escorts so that your coachmen and the accompanying men can deliver a good strike with their clubs on your behalf and against the robbers in case of doubt.
+
+63
+
+--------------------------------------------------------------------------------
+
+Encounters with Wondrous Characters
+
+During your journey through the ranks, whether you're trying to increase your ducats or earn respect through your misdeeds, you will encounter various events. You may participate in festivals, organize guild exhibitions, receive tax refunds, or generously distribute donations to your fellow players.
+
+In addition to these random events, you can also partake in many smaller adventures. A book may be offered to you for publishing, you can attend seminars on various topics, a famous scientist may travel through the land giving lectures, you may take part in expeditions to distant lands, or have excavations conducted beneath the foundations of your residence. You might also be invited to participate in bets, competitions, or even the investigation of a murder case. Many other occurrences await your adventurous spirit.
+
+You should partake in all these in-game events, which often span many game years, if your purse allows it. You often have the opportunity to learn special skills, gain the favor of honored individuals, outsmart your competitors, or simply improve your finances significantly in a convenient manner. Seize every opportunity that presents itself, no matter how unusual; a good adventurer is often also a better merchant...
+
+--------------------------------------------------------------------------------
+
+IDEA AND PROGRAMMING:  
+Matthias Kriessell and Lars Martensen
+
+GRAPHICAL CONCEPT AND LEADERSHIP:  
+Andreas Adamek
+
+2-D GRAPHICS/ANIMATIONS:  
+Tobias Franz, Jürgen Lacher, Lothar Mahler, Mark Yates
+
+3-D GRAPHICS/ANIMATIONS:  
+Lothar Mahler, Andrew Walker, Andreas Dubhorn
+
+MUSIC AND SOUND EFFECTS:  
+Alexander Röder, Theo Hoffmann, Matthias Kriessell, Lars Martensen
+
+VOICE RECORDINGS:  
+Ralf Adam, Alexander Röder, Michael Kairat
+
+NARRATORS:  
+Aart Veeder, Matthias Keller, Peter Heusch,  
+Roberto Cappelluti, Elke Schützold, Monika Hessenberg, Claudia Nix
+
+TESTING AND SUPPORT:  
+Michael Kairat, Michael Backhaus, Rico Ottofülling, Sascha Ramali,  
+Gerald Reiman, Thomas Stahl, Matthias Stiffel, Hedi Tennstädt, Dirk Turowski
+
+HANDBOOK:  
+Lars Martensen, Matthias Kriessell
+
+LAYOUT AND DESIGN:  
+Maren Selke
+
+COORDINATION:  
+Jürgen Reußwig
+
+PROJECT MANAGEMENT:  
+Arne Peters
+
+--------------------------------------------------------------------------------
+
+SUNFLOWERS is a registered trademark and trade name of Sunflowers Interactive Entertainment Software GmbH. Unless specifically indicated otherwise, this does not mean that they are free names and/or designations, e.g., in the sense of the Trademark Reform Act.  
+Copyright © 1996 by SUNFLOWERS Interactive Entertainment Software GmbH. All rights to the software, graphics, texts, illustrations, the manual, etc., are reserved.
+
+Without prior written permission, neither the user manual nor individual parts thereof may be reproduced and/or distributed by mechanical or electronic means, by photocopying or otherwise – except for private purposes. The same applies to the software and its individual parts.  
+Neither SUNFLOWERS nor the authors can accept liability for incorrect information and its consequences.
+
+--------------------------------------------------------------------------------
+

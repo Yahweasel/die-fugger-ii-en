@@ -1,0 +1,23 @@
+watch your transport on its way to the city you have chosen. If you have an escort, you will see your men in significantly greater numbers, a more reassuring feeling than just having to look into the faces of your flabbergasted cart drivers. Then, at some point, the robbers will sneak up on you, and a fight might ensue. 
+
+Initially, you will be asked if you want to persuade the attacker with a small donation to abandon their gruesome plan. If you refuse this for moral or other reasons, or if you simply offer too few talers to your adversary, a fight will ensue. 
+
+Usually, there are mercenaries in the vicinity who have been ordered by your lord to watch over the county. You can, just like your opponent, try to secure the support of these troops. They will ultimately make their decision and, if you wish to participate in the skirmish, join the side of the defender or the attacker. Now, the actual battle ensues.
+
+10.2 The Unit
+
+All troops are divided into individual units. A unit consists of between one and five men, for example, 2 cart drivers or 4 musketeers. All men in a unit act simultaneously according to their tactics, regardless of their current location in the battle scenario.
+
+10.3 The General or Robber Leader
+
+Both attackers and defenders include a special figure. On the attackers' side, this General (for mercenaries) or Robber Leader (for robbers) always appears in the lower left corner of the screen, on the defenders' side in the upper right corner. The General or Robber Leader has a special significance. As long as he is alive, you can access the tactics menu by pressing your hotkey to issue specific orders to each of your units. 
+
+If your General dies, the computer takes control of your men. It might be advisable, therefore, not to let the General advance. (His tactic at the start of the battle is "await.") On the other hand, the General is very powerful and can take down many enemies. You should carefully consider which tactic to assign to your General or Robber Leader...
+
+10.4 The Tactics of a Unit
+
+Pressing your hotkey, the key you selected at the start of the game, will display a flag in your color in one of the upper corners. You have informed the game that you now want to change the tactics of your units. A banner will appear after the last action is completed. 
+
+Move the mouse pointer over one of your men, and a golden frame will be placed around the feet of all soldiers in the respective unit. For example, if you selected an officer from a unit of three officers on the defenders' side, the left part of the banner will show "3 Officers (67%)" and the right "Attack Enemy."
+
+The first indication "3 Officers (67%)" provides information about the condition of the selected unit. The higher the percentage value, the better this unit can deal damage and the more damage it can take in return.

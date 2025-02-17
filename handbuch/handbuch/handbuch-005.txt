@@ -1,0 +1,61 @@
+Der technische Teil
+
+1. Anforderungen an Ihren PC
+
+1.1 Geschwindigkeit und Betriebssystem
+,,Die Fugger II“ kann auf einem PC (ab 486er) gespielt werden,
+der über wenigstens 8 MB Hauptspeicher sowie ein Double-
+Speed CD-ROM-Laufwerk verfügt. Ein Standard-VESA-Trei-
+ber zur Darstellung der SVGA-Grafiken muß installiert seim
+Minimale Anforderungen: 486er mit 33 MHz und 8 MB
+Hauptspeicher, ab MS-DOS Version 3.3, ISA-Bus-Grafikkarte
+mit wenigstens 0,5 MB Videospeicher sowie Double-Speed
+CD-ROM-Laufwerk.
+Empfehlenswert: 486er mit 66 MHz und 8 MB Hauptspeicher,
+VLB- oder PCI-Grafikkarte mit 1 MB Videospeicher und 4x-
+Speed CD-ROM-Laufwerk. Ein Pentium-P90-Prozessor be-
+wältigt die ihm gestellten Aufgaben ebenfalls.
+Betriebssystem: ,,Die Fugger II“ läuft unter MS-DOS ab der
+Version 3.3 mit 8 MB, unter Windows 3.1, Windows NT und
+Windows 95 im DOS-Modus mit 8 MB und unter OS/2 in ei- nemen DOS-Vollbild mit 8 MB.
+
+1.2 Grafik
+,,Die Fugger II“ kann in zwei Farbauflösungen gespielt wer-
+den. Verfügt Ihr PC über 8 MB Hauptspeicher, so können Sie
+zwischen SVGA-Grafik mil 256 Farben und Hi-Color-Grafik
+mil 32768 Farben wählen. Beide Auflösungen unterstützen als
+Standard einen Standard-VESA-Treiber (z.B. UNIVBE).
+
+1.3 Musik, Soundeffekte und Sprachausgabe
+Das Spiel unterstützt die folgenden Soundkarten:
+-Soundblaster2.0 in 22 KHz Mono
+-Soundblaster in 22 KHz Mono
+-Soundblaster-Pro bis 22 KHz Stereo/Pro 2
+-Soundblaster-16 bis 44 KHz Stereo
+-SB-AWE-32 bis 22 KHz Stereo
+-Mozart Wavetable 22 KHz Stereo
+-Sound Galaxy 16 in 22 Held Stereo
+-Roland-LAPC-1 (keine Sprachausgabe)
+-General-MIDI-Karten mit Soundblaster-Kompatibilität
+
+2. Installation und Konfiguration
+
+Zur Installetion von „Die Fugger II“ legen Sie die Fugger-ll0
+CD in Ihr CD-ROM-Laufwerk (im folgenden Beispiel d:),
+wechseln auf das entsprechende Laufwerk durch Eingabe von:
+d:
+(ENTER)
+Sollte Ihr CD-ROM-Laufwerk nicht d: sein, so geben Sie den
+entsprechenden andren Laufwerksbuchstaben ein, beispiels-
+weise: e: (ENTER) oder f: (ENTER).
+Rufen Sie nun das Installationsprogramm auf:
+install
+(ENTER)
+Das „Die Fugger ll-installationsprogramm heißt Sie nun
+willkommen.
+
+HINWEIS: Die meisten Fenster in ,,Die Fugger II“ können
+durch Drücken der rechten Maustaste verlassen werden.
+
+Nun wird der freie Platz auf Ihrer Festplate angezeigt, und Sie
+Siech mit der ESC-Taste entscheiden, welche Art der Installation Sie durch-

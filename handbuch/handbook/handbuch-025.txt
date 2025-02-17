@@ -1,0 +1,29 @@
+If you send troops to Säbeltal, you could set it up like this:
+Send Hohenfels 04+02+07+03 robbers.
+(Status)
+
+You send 4 robbers, 2 bombers, 7 gunners, and 3 riflemen to Hohenfels. There (due to the conversion), 4 mercenaries, 3 musketeers, 7 gunners, and 2 officers will arrive.
+
+7.5.2.5 Robber Camps Only: The Plunder Order
+The Plunder Order is used to plunder goods transports from a robber camp in a specific county. The robbers set off and lie in wait for the transports. However, since robbers do not always know which secret backroads are taken by these transports, this order does not necessarily lead to success.
+Plunder Bergenhöh with 03+05+02+04 robbers.
+(Status)
+
+The destination "Bergenhöh" means: The robbers will attempt to plunder goods transports headed to a city located in the county of Bergenhöh. Potential victims would be transports to Greifenheim, Bergstedt, and Falkenhorst.
+
+7.5.2.6 Toll Castles Only: The Surveillance Order
+The Surveillance Order is the counterpart to the Plunder Order. When mercenaries monitor a county, no robbers pass through and the flows of goods from passing transports can be intercepted and intervened in combat.
+
+Such intervention, helpful to merchants, can be financially rewarding. Robbed merchants often show generosity toward helpful mercenaries.
+Monitor Bergenhöh with 04+05+03+03 mercenaries.
+(Status)
+
+However, it has been known for mercenaries to ally with the sinister robbers and share the loot brotherly...
+
+7.5.2.7 The Control Icons
+At the bottom of the screen are four control icons, five in the case of toll castles, which allow you to expand your base, recruit new men, or conduct maneuvers. In toll castles, you also have the option to set the tax rate.
+
+7.5.2.8 Status Overview
+The first of the control icons at the bottom of the screen leads you to an overview menu of your toll castle or robber camp. Here you can see whether and how many goods are stored on-site and whether a retrieval through a Loot Collection Order from one of your branches awaits. You will also be informed of the security or camouflage level of your base. Highly secure toll castles may deter attackers and prevent an attack from occurring in the first place. Well-camouflaged robber camps, on the other hand, may not be detected by attackers at all. You can also have new casemates or straw camps built here to increase the capacity of your base.
+
+26

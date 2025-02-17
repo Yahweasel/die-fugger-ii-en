@@ -1,0 +1,13 @@
+to raid. It is said that there have even been robber chieftains brave enough to attack a toll castle.
+
+7.5.2 Inside the Toll Castle and Robber Camp
+
+If after several years you come into possession of a toll castle or a robber camp, a click on the castle or robber camp graphic will lead you inside. Similar to the settlements, you can see your four types of mercenaries or robbers in the upper area, the ledger is placed below, and various control icons are located at the bottom of the screen.
+
+7.5.2.1 Mercenaries and Robbers
+
+Toll castles house mercenaries, musketeers, cannoneers, and officers. Mercenaries fight with sabers, musketeers, as the name implies, with muskets, and cannoneers have cannons with which they can fire dreadful cartridges. Finally, officers fight like regular mercenaries with a saber, but they are significantly more skilled in handling the nobleman's weapon. Robber camps house robbers, riflemen, and cannoneers, all comparable to the corresponding types of mercenaries. Officers, of course, have no place in a robber camp, so you will find the usual bombers here, a hawker for a robber. They approach faithfully, place a bomb at the enemies' feet, and make sure to leave slowly. A risky undertaking, since the bomber might become acquainted with their explosive - considered their last acquaintance! Once bombs are successfully set, you can command them against the opposing parties as needed.
+
+When you move the mouse over the torso of any of the four mercenaries or robbers and click, an information window appears, providing details about the current training status of the respective group.
+
+The four numbers below the torsos indicate how many men of each category are present in the toll castle or robber camp. By clicking these numbers with the minus sign described in the "Controls" chapter in the mouse pointer, you can discharge your men - but beware: Hiring new mercenaries or robbers is a somewhat complicated process, so think carefully about whom you release from your service! Naturally, your subordinates receive an annual salary, roughly about 100 talers per man. Of course, regular mercenaries earn less than officers. The salary is due at the end of each year, regardless of whether you have given your men assignments or not. So caution is advised: many an owner of a robber camp or toll castle has been driven to ruin by the exorbitant salary demands.

@@ -1,0 +1,18 @@
+ESCAPE: Sometimes all is indeed lost. If the condition of a unit is close to zero and you want to save your men, you should give them the order to retreat in panic. The unit will then leave the battlefield by the shortest possible route.
+
+10.6 The End of a Long Battle
+
+Eventually, the slaughter comes to an end. You have either won, lost, or the battle has ended without a decisive outcome. You will now be informed of the gains and losses in a tabular form. Who took how many prisoners, were any goods captured? Will some sailors never be able to sail again? And the pressing question: How many of your beloved bombers misjudged the length of their fuses? You will get answers to all these questions in the summary.
+
+Finally, a warning: If you incite raids with robbers, your men will always demand a certain premium for this. So consider carefully whom or what you raid to make it worthwhile for you. Quite a few leaders of waylayers have ended up destitute due to too frequent raids...
+
+11. Special Events
+
+11.1 ...And for the Third Time - The Auction
+
+At irregular intervals, an auction is held in a city in the Midlands. This event is announced a few years in advance, so you have the opportunity to have your residence or some balloons auctioned off. Then simply release the objects you wish to auction in the appropriate menus. If you have a nice object, it will usually fetch more at auction than if you just sell it outright.
+
+At the beginning of an auction, you can admire the exposés of all the objects to be auctioned in the auction catalog, including possibly your own. You will be informed about the condition of the object, in case of transports also about the quantity, as well as the minimum bid and the previous owner. In this way, you can fix one or two objects of interest to you and do not have to pay close attention to the entire auction to see what happens. If you have looked through the catalog and found no object of interest to you, you can decide not to attend the auction any further; the auction will proceed without you. However, it is not possible for you to withdraw if you want to auction off an object yourself.
+The auctioneer will now explain the first item and open with the minimum bid. Pressing your hot key allows you to place a bid. From time to time, the auctioneer comments on the behavior of the bidders until he finally says "...and for the third time...". The object is thus auctioned, and the next item is announced.
+
+Winning an object at auction can be quite lucrative. Many a bargain has turned into a real steal...

@@ -1,0 +1,15 @@
+which significantly increases the fun of the game, all players take their turns one after another: First (except in the first year), you reach a screen where you are informed about the results of your trade from the previous year. After that, you find yourself back at the office, from where you make all important decisions.
+
+When you have completed your turn (your game year), the consequences of your decisions are presented to you. Once all players have completed their turn, the more than one hundred computer-controlled players take action, and you are informed about the progression of events in Mittelland.
+
+To achieve fame and prestige in the thorny world of the 17th century, numerous options are available to you at the office.
+
+7.1 Trade
+
+7.1.1 The Trade Map
+Click on the globe in the office, and you will be taken to a map of Mittelland. From here, you conduct your trading activities. Near the cities where settlement rights have already been granted, small flags wave in the wind. You can easily identify the location of your establishments by their color. This also keeps you informed about your competitors on the screen at any time.
+
+In each city, there are two areas you can click on. If you select the city name, a window will provide you with information about that city. If you click on the city's image, you will be taken to your local establishment, if you have one there.
+
+CITY INFORMATION:
+Is the city hit by a disaster? What goods can be especially 

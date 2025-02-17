@@ -1,0 +1,19 @@
+2.) You can sell an entire item lot by clicking on the graphic of the item.
+
+3.) You can sell all goods in storage by clicking on the icon to the left of the goods icons, which represents an empty warehouse.
+
+7.1.2.2 The Order Book
+
+The order book is the centerpiece of your trade operations. It is where you record which orders your subordinates should complete over the course of a year. In each branch, you have the opportunity to issue two orders per year. For example, you might issue a production order: Harvest grain with 10 workers on 2 fields! Or you have grain in stock and want to sell it in another city for a better price: Sell 270 grain on 3 carts in Bergstedt! (...as long as your branch is not Bergstedt.)
+
+In the order book, you can set four different order types, which are described below. A forecast of the expected costs and storage utilization in percentage gives you an overview of whether you can afford your desires. The costs will only be deducted from you at the end of your round.
+
+The order status at the end of each order line determines whether one of your orders can be executed or whether it should be executed:
+
+1.) A CHECKED CIRCLE: Confirmation of an order! The order is possible and will be executed. You have chosen it.
+
+2.) A CIRCLE: The order is possible, but you have not confirmed it, so it will not be executed.
+
+3.) A BROKEN CIRCLE: The order cannot be executed. A broken circle cannot be clicked and activated. This can happen, for example, if you want to undertake a transport with 4 carts but your branch only has 3 carts available. You can turn impossible orders into feasible ones by lowering the number of transporters or goods to be transported.
+
+The order status you set will be maintained by the program over the years, provided the corresponding order is feasible. This way, you can certain orders...

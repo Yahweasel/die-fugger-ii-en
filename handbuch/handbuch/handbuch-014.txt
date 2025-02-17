@@ -1,0 +1,21 @@
+2.) Sie können einen Warenposten komplett verkaufen, wenn sie auf die Grafik der Ware klicken.
+
+3.) Sie können alle im Lager befindlichen Waren verkaufen, wenn Sie auf das Icon links der Waren-Icons klicken, welches ein leeres Lager darstellt.
+
+7.1.2.2 Das Auftragsbuch
+
+Das Auftragsbuch ist das Herzstück Ihres Handels. In ihm vermerken Sie, welche Aufträge von Ihren Untergebenen im Laufe eines Jahres erledigt werden sollen. In jeder Niederlassung haben Sie die Möglichkeit, pro Jahr zwei Aufträge zu erteilen. So ordnen Sie zum Beispiel einen Produktionsauftrag an: Erntet Korn mit 10 Arbeitern auf 2 Feldern! Oder aber Sie haben Korn auf Lager und möchten es wegen eines besseren Preises in einer anderen Stadt verkaufen: Verkauft 270 Korn auf 3 Karren in Bergstedt! (...sofern Ihre Niederlassung nicht Bergstedt ist.)
+
+Im Auftragsbuch können Sie vier verschiedene Auftrags-typen einstellen, die im folgenden beschrieben werden. Eine Prognose der zu erwartenden Kosten und der Lagerauslastung in Prozent verschafft Ihnen einen Überblick, inwiefern Sie sich Ihre Wünsche leisten können. Die Kosten werden Ihnen erst am Ende Ihrer Runde abgezogen.
+
+Der Auftragsstatus am Ende jeder Auftragszeile bestimmt, ob einer Ihrer Aufträge durchgeführt werden kann bzw. ob er durchgeführt werden soll:
+
+1.) EIN ANGEKREUZTER KREIS: Bestätigung eines Auftrags! Der Auftrag ist möglich und wird durchgeführt. Sie haben ihn gewählt.
+
+2.) EIN KREIS: Der Auftrag ist möglich, Sie haben ihn aber nicht bestätigt, er wird also nicht durchgeführt.
+
+3.) EIN UNTERBROCHENER KREIS: Der Auftrag kann nicht durchgeführt werden. Ein durchbrochener Kreis kann nicht angeklickt und aktiviert werden. Dies kann dann der Fall sein, wenn sie zum Beispiel einen Transport von 4 Karren unternehmen lassen wollen, in Ihrer Niederlassung aber nur noch über 3 Karren verfügen. Unmögliche Aufträge können Sie etwa durch Absenken von Transporterzahlen oder zu transportierenden Waren in durchführbare Aufträge verwandeln.
+
+Der von Ihnen eingestellte Auftragsstatus wird vom Programm über die Jahre beibehalten, sofern der entsprechende Auftrag durchführbar ist. So können Sie bestimmte Auf-
+
+15

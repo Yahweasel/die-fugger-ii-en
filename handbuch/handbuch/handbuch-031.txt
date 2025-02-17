@@ -1,0 +1,60 @@
+sehen Sie Ihren Transport auf dem Weg zu der von Ihnen ge-                 
+wählten Stadt. So Sie über eine Eskorte verfügen, werden Sie             
+ Ihre Mannen in erheblich größerer Anzahl sehen, ein beruh-             
+igenderes Gefühl, als nur in die Gesichter Ihrer verdutzten Fuhr-     
+knechte blicken zu müssen. Dann pirschen sich irgendwann die                   
+Räuber an Sie heran und es kann zum Kampf kommen. Sie                   
+werden zunächst gefragt, ob Sie den Angreifer mittels einer                     
+kleinen Spende dazu überreden wollen, daß er von seinem                  
+grausigen Vorhaben absieht. Wenn Sie solches aus moralischen                    
+oder anderen Gründen ablehnen, aber auch, wenn Sie Ihrem                       
+Widersacher schlicht zu wenige Taler geben, kommt es zum                         
+Kampf.                              
+Meist halten sich in der Umgebung Söldner auf, die von Ihrem                    
+jeweiligen Burgherren mit der Überwachung der Grafschaft be-   
+auftragt worden sind. Sie können, ebenso wie Ihr Gegner, nun       
+versuchen, sich die Unterstützung dieser Truppen zuzusichern.                     
+Diese fällen schließlich ihre Entscheidung und verteilen sich,                    
+so Sie am Scharmützel teilnehmen wollen, auf Seiten des Vertei-    
+digers oder des Angreifers. Nun entbrennt die eigentliche                     
+Schlacht.                         
+10.2 Die Einheit                     
+Alle Truppen sind in einzelne Einheiten unterteilt. Zu einer        
+Einheit gehören zwischen einem und fünf Männer, also bei-     
+spielsweise 2 Fuhrknechte oder 4 Flintenschützen. Alle Männer         
+einer Einheit agieren gleichzeitig gemäß ihrer Taktik, unab-             
+hängig von ihrem derzeitigen Standort im Kampf—Szenario.                   
+10.3 Der General oder Räuberhauptmann                          
+Sowohl Angreifer als auch Verteidiger enthalten eine spezielle            
+Figur. Auf Angreiferseite taucht dieser General (bei Söldnern)        
+oder Räuberhauptmann (bei Räubern) immer in der linken un-     
+teren Bildecke auf, auf Verteidigerseite in der rechten             
+oberen Ecke. Dem General oder Räuberhauptmann kommt         
+eine spezielle Bedeutung zu. Solange er lebt, können Sie mittels      .         
+eines Drucks auf Ihren Hot-Key in das Taktik-Menü gelangen             
+und so jeder Ihrer Einheiten ganz spezifische Befehle erteilen.                 
+Stirbt Ihr General, so übernimmt der Computer die Steuerung                  
+Ihrer Männer. Es kann also ratsam sein, den General nicht                 
+vorrücken zu lassen. (Seine Taktik ist daher zu Kampfbeginn                  
+„Abwarten“.) Andererseits ist der General sehr schlagkräftig                  
+und kann etliche Gegner ausschalten. Sie sollten sich genau                  
+überlegen, welche Taktik Sie Ihrem General oder Räuberhaupt-                 
+mann geben...                          
+10.4 Die Taktik einer Einheit                     
+Drücken Sie Ihren Hot-Key, also die Taste, welche Sie zu Be-                    
+ginn des Spiels ausgewählt haben, so erscheint in einer der                     
+oberen Ecken eine Fahne in Ihrer Farbe. Sie haben dem Spiel                    
+mitgeteilt, daß Sie nun die Taktik Ihrer Einheiten verändern              
+wollen. Ein Banner wird nach Abschluß der letzten Aktion ein-           
+geblendet. Bewegen Sie nun den Mauspfel auf einen Ihrer                       
+Männer, so wird ein goldener Rahmen um die Füße aller in der                       
+entsprechenden Einheit agierenden Soldaten gelegt. Wenn Sie                       
+auf Verteidigerseite beispielsweise einen Offizier aus einer Ein-                  
+heit von drei Offizieren angewählt haben, so wird nun im link-                  
+en Teil des Banners „3 Offiziere (67%)“ und rechts „Gegner                         
+angreifen“ erscheinen.                    
+Die erste Angabe „3 Offiziere (67 %)“ gibt Auskunft über den                 
+Zustand der angewählten Einheit. Je höher der Prozent-Wert,                    
+desto besser kann diese Einheit austeilen und desto mehr Scha-                      
+
+32

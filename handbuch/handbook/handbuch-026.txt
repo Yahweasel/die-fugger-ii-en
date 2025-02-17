@@ -1,0 +1,32 @@
+7.5.2.9 Recruiting
+A click on the second control icon takes you to a tavern or a harbor dive. Here you can equip your recruiters with a sum of money you find comfortable. At the end of a year, you will then be informed about the success of your attempts to hire new men.
+
+7.5.2.10 Conducting Maneuvers
+The cannon in customs castles and the bomb in robber camps lead you to a window where you can decide to conduct a maneuver. Such a maneuver costs many talers, but it also provides your men with the training they need to pursue their martial craft knowledgeably.
+
+7.5.2.11 Set Customs Rate
+This option is only available in customs castles. With it, you can set the amount of the toll that transports must pay to you as the castle owner, measured by the value of their goods. Which transports must pay tolls at which customs castle depends on the destination of the transport. The following overview reveals these connections:
+
+DESTINATION OF A TRANSPORT: PAY TO CASTLE:
+FÜRSTENBRÜCK,
+FREE CITY, THUS ..........NO DUTY OBLIGATION
+FINSTERWALDE ..................WALDENFELS
+MOORTA .........................WALDENFELS
+LICHTREHERDE ..............WALDENFELS
+GREIFENHEIM..................HOHENFELS
+
+BERGSTEDT ...............................HOHENFELS
+FALKENHORST .......................HOHENFELS
+WALDSTEIN ..............................SEEFELS
+LAUENBURG ............................SEEFELS
+KRONSBACH ...........................SEEFELS
+
+However, consider that if you set the customs rate extremely high, merchants might decide to sell their goods in a city that belongs to another county.
+
+7.5.2.12 Hide Assignment Book
+Clicking the signet ring in your customs castle or robber camp hides your assignment book. Clicking it again will bring it back into view. This can be helpful if, for whatever reason, you simply do not want other players in front of the screen to see more than necessary...
+
+7.6 Top Secret — The Back Room
+Clicking on the door in the left area of the picture in the office takes you to the back room of your office. In this room, you can indulge your dark passions to your heart's content or, however better it sounds, simply give many of your endeavors the crucial push.
+
+"The Fugger II" is a game in which it is about rising in the administrative hierarchy of the Principality of Mithland. The back room offers you numerous opportunities to lend weight to your political ambitions.

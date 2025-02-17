@@ -1,0 +1,43 @@
+während Schiffe das zehnfache Fassungsvermögen haben. Vergleichen Sie hierzu die Fassungsvermögen der Transporter. Die Anzahl der benötigten Transporter bestimmt sich nach der Anzahl der zu transportierenden Waren.
+
+TRANSPORTERTYP FASSUNGSVERMÖGEN:
+
+KARREN .......................................................100
+
+SCHIFF .........................................................1.000
+
+BALLON..........................................................50
+
+DAMPFKARREN ..............................................80
+
+TAUCHBOOT...................................................700
+
+FLUGMASCHINE ............................................30
+
+7.1.2.5 Der Schafft-Auftrag
+
+Einen Schafft-Auftrag können Sie nur an einen Zielort vergeben, an dem Sie über eine weitere Niederlassung verfügen. Es werden sowohl die Transporter als auch die Waren an den Zielort verbracht; weder kehren die Transporter zurück, noch werden die verschickten Waren am Zielort automatisch verkauft.
+
+Schafft 1643 Korn auf 2 Schiffen nach Greifenheim. (Status)
+
+7.1.2.6 Der Holt-Beute-Auftrag
+
+Der Holt-Beute-Auftrag stellt eine Besonderheit dar. Sofern Sie im Besitz einer Zollburg oder eines Räub Lagers sind und dort Waren lagern (nach einer Plünderung müssen Sie diese Beute zunächst mit Transportern in eine Ihrer Niederlassungen holen, bevor Sie sie dann verkaufen können).
+
+Holt Beute auf 6 Ballons aus Meuchel I am. (Status)
+
+Es werden „6x Ballons losgeschickt, um Beute zu holen“, und zwar aus dem Räuberlager „Meuchelratten“.
+
+7.1.2.7 Schiffe – Wo kein Fluß ist…
+
+Mit Karren und Ballons können Sie Transporte von jedem Ort an jeden anderen Ort durchführen. Bedenken Sie bei Ihren Transportaufträgen gleichwohl, daß Schiffe darauf angewiesen sind, über ausreichend Wasser unter dem Kiel zu verfügen! Orte, die Sie nicht mit einem Schiff erreichen können, sind Roortal, Finsterval de, Falkenhorst und Waldstein. Auch zu den vier Räuberlager gibt es keine schiffbare Verbindung.
+
+7.1.2.8 Eskortierung von Transportern
+
+Alle oben aufgeführten Transport-Aufträge können Sie auch eskortieren lassen. In diesem Fall tauchen zwei gekreuzte Schwerter hinter den ersten Worten des Auftrags auf, zum Beispiel „Holt Beute x...“, wobei das X hier für die Eskorte steht. In diesem Fall stehen Ihnen, so Sie von einer marodierenden Bande überfallen werden sollten, einige tatkräftige Lands knechte zur Seite, die Ihre Waren verteidigen werden. Eine solche Eskorte hat natürlich ihren Preis: Die Kosten Ihres Transportes werden noch einmal um die Hälfte steigen.
+
+7.1.2.9 Ihr Wohnsitz
+
+Das erste der sechs Icons im unteren Bilderbereich Ihrer Niederlassung führt Sie bei einem Klick zu Ihrem Wohnsitz - zu Spielbeginn auf ein leeres Pergament, denn Sie hat keinen Wohnsitz. Sie haben die Möglichkeit, einen Wohnsitz zu kaufen, einen solchen bauen zu lassen, sofern vorhanden, zu erwerben oder versteigern zu lassen. Bisweilen sorgt ein Sturm gar der Schlimmeres für die Notwendigkeit einer Renovierung; und wenn Sie eines Tages über die nötigen Taler verfügen, können Sie Ihren Wohnsitz sogar mit Parks, Nebengebäuden oder weitläufigen Ländereien erweitern lassen.
+
+17

@@ -1,0 +1,21 @@
+due to incompetence, and others move into the now vacant positions. If one of the positions to be filled is of interest to you and you have applied for it in your writing office, it is now time for that position to be filled. All your competitors line up next to you on a special screen for those who will appoint the position to select from. Then it comes to a vote, and all you can do is keep your fingers crossed. Of course, it occasionally happens that you get to choose an applicant yourself, which is all the more fun if you get to decide the fate of another player in front of the screen. The respective screen background informs you about the kind of office being filled:
+
+A TOWN HALL PORTAL: The appointment of a secular office at the city level.
+A CASTLE: A secular office in a county is vacant.
+A PRINCELY HALL: The appointment of one of the highest secular offices follows.
+A CHURCH PORTAL: A church office in a city is filled.
+A CATHEDRAL: A church office at the county level is appointed.
+THE CATHEDRAL INTERIOR: Archbishop, Archdeacon, or Inquisitor positions are vacant.
+
+9.2 What Else Happened
+Just as it is for you, computer-controlled games have free rein to do as they please. So it may happen that someone takes fencing lessons, hosts a festival, or, if they have the privilege, changes the law books of Mittelland. Tax levels are changed, cities are besieged, competitions fought, and ministerial chairs swapped. Everyone pursues their goals, especially the opponent. They will try to put obstacles in your path.
+
+Your goods transports may be attacked by nasty robbers, you may be dragged before a court, or someone may insult you. In this case, you can choose to overlook the matter, which damages your reputation, or demand satisfaction. You then arrange to meet your opponent at dawn by the old bell tower and, hopefully, use your superior fencing skills for satisfaction.
+
+Finally, if you wish, you will be informed about historical events of the respective year.
+
+10. Help, a Raid — The Battle
+10.1 Introduction
+Since your financial capabilities at the start of a game of The Fugger II do not allow for the acquisition of a robber's camp or even a customs castle, you will likely experience your first raid from the perspective of the victim. Some disgruntled robber captain has just chosen your goods transport to entertain his robbers and acquire your goods for himself...
+
+In this case, tactical combat is initiated — a whole different game within the game. In a short introductory sequence...

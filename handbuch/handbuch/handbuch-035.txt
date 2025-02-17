@@ -1,0 +1,42 @@
+12. Anhang I – Ämterverteilung
+
+WELTLICHE ÄMTER IM FÜRSTENTUM MITTELLAND
+
+Regent
+
+Großkanzler
+
+Finanzminister	Justizminister	Marschall
+Hofrat	Hofrat	Hofrat	Inquisitor	Erzdiakon
+
+WELTLICHE ÄMTER IN GRAFSCHAFTEN
+
+Vogt
+
+Kanzler
+
+Finanzberater	Justizberater	Hauptmann der Wache
+Geheimrat	Geheimrat	Geheimrat	Sakristan	Kellermeister
+
+KIRCHLICHE ÄMTER IM FÜRSTENTUM MITTELLAND
+
+Erzbischof
+
+KIRCHLICHE ÄMTER IN GRAFSCHAFTEN
+
+Bischof
+
+Abt		Diakon
+
+WELTLICHE ÄMTER IN STÄDTEN
+
+Bürgermeister
+
+Baumeister	Richter	Kämmerer
+Ratsherr	Ratsherr	Ratsherr	Priester	Priester
+
+KIRCHLICHE ÄMTER IN STÄDTEN
+
+Domherr
+
+36

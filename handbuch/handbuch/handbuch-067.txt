@@ -1,0 +1,37 @@
+IDEE UND PROGRAMMIERUNG:
+Matthias Kriessell und Lars Martensen
+
+GRAFISCHES KONZEPT UND LEITUNG:
+Andreas Adamek
+
+2-D-GRAFIKEN/ANIMATIONEN:
+Tobias Franz, Jürgen Lacher, Lothar Mahler, Mark Yates
+
+3-D-GRAFIKEN/ANIMATIONEN:
+Lothar Mahler, Andrew Walker, Andreas Dubhorn
+
+MUSIK UND SOUNDEFFEKTE:
+Alexander Röder, Theo Hoffmann, Matthias Kriessell, Lars Martensen
+
+SPRACHAUFNAHMEN:
+Ralf Adam, Alexander Röder, Michael Kairat
+
+SPRECHER:
+Aart Veeder, Matthias Keller, Peter Heusch,
+Roberto Cappelluti, Elke Schützold, Monika Hessenberg, Claudia Nix
+
+TESTPHASE UND SUPPORT:
+Michael Kairat, Michael Backhaus, Rico Ottofülling, Sascha Ramali,
+Gerald Reiman, Thomas Stahl, Matthias Stiffel, Hedi Tennstädt, Dirk Turowski
+
+HANDBUCH:
+Lars Martensen, Matthias Kriessell
+
+LAYOUT UND SATZ:
+Maren Selke
+
+KOORDINATION:
+Jürgen Reußwig
+
+PROJEKTLEITUNG:
+Arne Peters

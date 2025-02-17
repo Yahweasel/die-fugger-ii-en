@@ -1,0 +1,41 @@
+while ships have ten times the capacity. Compare this to the capacities of the transporters. The number of transporters needed is determined by the number of goods to be transported.
+
+TRANSPORTER TYPE CAPACITY:
+
+CART ..........................................................100
+
+SHIP ........................................................1,000
+
+BALLOON ....................................................50
+
+STEAM CART ..............................................80
+
+SUBMARINE ..............................................700
+
+FLYING MACHINE .......................................30
+
+7.1.2.5 The Delivery Order
+
+A delivery order can only be given to a destination where you have another branch. Both the transporters and the goods will be sent to the destination; neither will the transporters return nor will the dispatched goods be automatically sold at the destination.
+
+Deliver 1643 grain on 2 ships to Greifenheim. (Status)
+
+7.1.2.6 The Loot Retrieval Order
+
+The loot retrieval order is a specific task. If you own a custom fort or a robber's camp where goods are stored (after a plunder, you must first retrieve this loot with transporters to one of your branches before you can sell it).
+
+Retrieve loot on 6 balloons from Meuchel I am. (Status)
+
+“6x balloons are sent out to retrieve loot” from the robber camp “Meuchelratten”.
+
+7.1.2.7 Ships – Where There Is No River…
+
+With carts and balloons, you can conduct transport from any place to any other place. Nevertheless, when assigning transport orders, consider that ships need to have enough water beneath their keel! Places that cannot be reached by ship include Roortal, Finsterval, Falkenhorst, and Waldstein. There are also no navigable connections to the four robber camps.
+
+7.1.2.8 Escorting Transporters
+
+All of the transport orders listed above can also be escorted. In this case, two crossed swords appear behind the first words of the order, for example, “Retrieve loot x...”, where X represents the escort. In this case, should you be attacked by a marauding band, some stout-hearted landsknechts will come to your assistance to defend your goods. Such an escort naturally has its price: the costs of your transport will increase by half again.
+
+7.1.2.9 Your Residence
+
+The first of the six icons in the lower graphic area of your branch leads you to your residence when clicked – at the beginning of the game, a blank parchment since you do not have a residence. You have the option to buy a residence, have one built, acquire an available one, or put it up for auction. Sometimes a storm or worse necessitates renovation; and when you one day have the necessary thalers, you can even expand your residence with parks, outbuildings, or extensive lands.

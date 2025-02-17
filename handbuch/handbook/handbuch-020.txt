@@ -1,0 +1,15 @@
+7.2.3 The Law Books of Mittelland  
+When you click on the stack of books to the right of the accountant, you can get an insight into the laws of the principality. There are currently about 30 written laws in Mittelland that you can violate. Keep an eye on both the legal texts and your own actions, as you can quickly find yourself guilty of an offense. Not that it would be tragic, however, you have many envious people on your way to the top, and it can happen that you suddenly find yourself in court, accused of the most horrendous offenses...
+
+ANOTHER NOTE: Your offenses can only be successfully used against you in court if the accusations are based on the investigations of spies. These are, however, preferably used against unpopular persons in Mittelland.
+
+7.2.4 At the Moneylender  
+Click on the left stack of books in the office to reach the moneylender. There you will receive loan offers with quite generous interest rates. Demands of over 30 percent interest per year from your fellow citizens are not uncommon - horrendous interest rates. Nevertheless, in certain situations, it might appear advisable to take such a loan to perhaps presently secure the liquidity you need to, for example, convince the master builder that you are exactly the right candidate for the vacant councilor's position...
+
+7.2.5 The Loan Book  
+Move the mouse pointer to the left half of the bookshelf in the office and click left to access your loan book, which provides information about the loans you have taken out. Ideally, you will be shown here that you owe nothing to anyone. However, if you have taken out loans with the moneylender, these will be presented here with the loan amount, interest, and term. If you wish, you can now repay your loans. Otherwise, at some point, specifically at the expiration of a loan, the creditors' enforcers will be at your heels and, if you are unable to settle your debt, drag you before the formidable jury court, which you can escape from, as will be seen later, but only if you pay a suitable tribute to this (the jury) court.
+
+7.2.6 The Directors Part Two  
+If you click on the bookshelf to the right of your accountant's face in the office, you will reach the window where you can set your directors' budgets.
+
+If you have hired a director at one of your branch offices, you can now decide on the amount annually available to them. Consider the following: your director calculates their salary based on the budget you provide. However, sales taxes and church tithes still apply.

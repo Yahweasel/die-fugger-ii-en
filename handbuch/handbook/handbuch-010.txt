@@ -1,0 +1,15 @@
+6.1 Bribery and Other Misdeeds –
+Selecting a Position
+Whenever the banner is visible on the screen, you have the opportunity to offer bribes. Click on the coin display in the top left: A map of the principality appears. Above the map, the location where you want to bribe someone is displayed. You can select any of the ten cities, one of the three counties, the entire principality, a customs castle, or a bandit camp. A frame appears around the respective target. For example, if you click on Fürstenbrück in the center of the map, an office tree will appear showing the political relationships in the city.
+
+(To select the entire principality: Move the mouse over the large lake in the center of the map and click left, an office tree of the highest princely offices will be shown.)
+
+At the top is the mayor, below are the architect, judge, and treasurer, and finally, at the bottom are the three council members. Under each of the offices is a black bar indicating the reputation you have with the officeholder. The wider the bar, the better for you. At the very bottom of this page, you have the option to switch to ecclesiastical offices, whose structure consists of two priesthoods and the office of the cathedral heart. You also have the choice of the faith denomination. If you share the same faith as your target, click on their office. A window appears where you can enter the sum and let the coins flow. If you give the architect a sufficiently large sum, it will positively impact your reputation, and the black bar below the architect will have widened after the bribe. Keep in mind: If you share the same faith as the "victim" of your bribery, the advantage to you will be greater than someone of a different faith. This mechanism of selecting an office is used in many places throughout the game and is summarized here once again.
+
+1. Choose city, county, principality, bandit camp, or customs castle
+2. Choose secular or ecclesiastical level
+3. Choose office
+
+6.2 Game Options
+
+If you click on a different spot than the coin display in the

@@ -1,0 +1,21 @@
+you want to lead. Minimal installation only copies the essential files to your hard drive, saving disk space. However, in this case, many data from "Die Fugger II" will be read from CD during gameplay, which can lead to wait times during the game. For smooth gameplay, the normal installation is recommended, especially on slower PCs.
+
+You can now choose whether the game should be installed in 256 colors or in 32,768 colors (see point 1-2). Simply click with the left mouse button on the desired version of the installation. Now, enter the desired directory using the keyboard or accept the default "C:\FUGGER2" by pressing the RETURN key. Confirm your entries in the now-opened window with the left mouse button.
+
+If you have a slow CD-ROM drive, you will be advised to play the animations in the game in a reduced size. While you can still choose the full size, the animations in the game may run choppily with this configuration. After this selection, the necessary data will be copied to your hard drive. After a successful installation, close the information window by pressing the right mouse button.
+
+You will now automatically be taken to the sound menu to set up your sound card. If you do not have a sound card, simply click the mouse or press Enter and you do not need to select a sound card. After selecting the sound card, you can start Autodetect (or set the port address and IRQ). Try the "Test" option to check if your card has been configured correctly. The sound check is stopped by pressing the right mouse button. Now click "Activate Sound Card." A prompt will ask if you want to copy the sound effects to your hard drive to increase game speed. After the copying process or selecting "No," close the sound menu by pressing the right mouse button.
+
+NOTE: If you have both a Roland-LAPC-1 card and a Soundblaster-compatible card, you can activate both cards. In this case, music playback will occur via the Roland-LAPC-1, and effects and voice output will be played through the Soundblaster card!
+
+The installation and configuration of "Die Fugger II" is now complete. By entering "fugger2" + (ENTER) in the appropriate "Die Fugger II" directory on your hard drive, you will enter a world full of intrigues and political schemes.
+
+May you achieve wealth and prestige! Good luck!
+
+NOTE: You can access the configuration menu for your sound card at any time in the game's options menu (see p.12) as well as by entering "sndsetup" in the corresponding "Die Fugger II" directory on your hard drive.
+
+3. A Few Words from the Developers
+
+3.1 Dear Women!
+
+Unfortunately – perhaps for good reason with most computer games these days – you are among the players in

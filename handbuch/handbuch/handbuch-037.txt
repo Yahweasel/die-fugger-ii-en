@@ -1,0 +1,22 @@
+14. Anhang III – Produktionsverhältnisse
+
+Optimale Produktionsverhältnisse zwischen Arbeitern und Produktionsmittel:
+
+WARE:                   VERHÄLTNIS:
+KORN                      .5 : 1
+FISCH                      .3 : 1
+BIER                        .2 : 1
+WOLLE                    .1 : 2
+HOLZ                       .7 : 1
+RIND                       .1 : 1
+ERZ                         .5 : 1
+WEIN                      .1 : 1
+FELL                        .1 : 2
+GLAS                       .3 : 1
+SALZ                       .6 : 1
+TUCH                       .2 : 1
+SILBER                    .8 : 1
+PFEFFER                 .9 : 1
+WAFFEN                 .4 : 1
+
+38

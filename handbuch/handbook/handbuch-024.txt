@@ -1,0 +1,14 @@
+7.5.2.2 The Order Book
+Above the control icons is the order book, where you can give your mercenaries or robbers instructions on what they should do for the year. Setting up the various orders is done exactly like setting orders in the order book of a settlement. Depending on whether you are in a customs castle or a robber camp, different types of orders are available to you. The order status is also interpreted by the program just like in a settlement's order book; toggling through the order types happens, as in the settlement, by clicking on the first term of each order.
+
+7.5.2.3 Customs Castle and Robber Camp: The Raid Order
+With the raid order, you can attack any other customs castle (robber camp) from a customs castle or robber camp, as long as you do not own the target location yourself. The aim of such an order is either to lay waste to the targeted object with your cannons, thereby worsening the "security" (in the case of a customs castle) or the "camouflage" (in the case of a robber camp). Alternatively, the intention may be to conquer the target location. If, for example, you want to raid the robber area of Dunkelforst from your customs castle, you could set up:
+Raid Dunkelforst with 08+03+06+12 mercenaries.
+(Status)
+The bold order components can be changed. Clicking on "Raid" sets the next order type (see below), and clicking on "Dunkelforst" sets the next robber camp or customs castle that does not belong to you. In the four two-digit displays, you set up the army you wish to carry out the order. In this case, it means that you want 8 mercenaries, 3 musketeers, 6 cannons, and 12 officers to participate in the expedition. This could be sensible because your officers are particularly well trained, and you hope for success from the order. However, you might have an entirely different motivation; your musketeers are particularly well trained, and you want to leave many of your musketeers in the customs castle to be prepared for an enemy attack when a large portion of your castle's occupation roams the land.
+
+NOTE: In the absence of large troop units, a customs castle or robber camp is an easy target for your opponents.
+
+7.5.2.4 Customs Castle and Robber Camp: The Send Order
+With the send order, you can send troops from your outpost to any customs castle or robber camp. If you send troops from a customs castle to a robber camp, the four mercenary types will be converted into the four robber types. Similarly, a conversion occurs if you want to transfer troops from a robber camp to a customs castle. You can use this order to balance the troop strength between the outposts or transfer troops to someone else.
+Wanting it to be well paid! Wanting to be Baron! Hugo, the owner of the customs castle Hohenfels, who offered you 12,000 thalers for it, approximately from your robber camp.

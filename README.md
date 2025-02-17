@@ -11,6 +11,12 @@ Specifically, this patch applies to the version which the README calls a
 It may work with other versions, and at least should be relatively easy to adapt
 to other versions with some expertise, but has only been tested with this one.
 
+A translation of the handbook is also available, in
+[handbook-en.txt](handbuch/handbook-en.txt). It was translated in a similar way.
+Thanks to archive.org user Eulisker for uploading the [original German
+handbook](https://archive.org/details/fugger-ii-die-1996-das-handbuch-de), in
+higher quality than the copy that came with my version of the game.
+
 ## Applying the patch
 
 The patch is provided as a .ips file, which can be applied with any IPS patcher

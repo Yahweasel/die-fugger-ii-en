@@ -1,0 +1,26 @@
+Click the banner to open the marketplace and the options window. Here are your choices:
+
+6.2.1 Save  
+Click the sign with the letter "S". You can add comments and save up to five game states.
+
+6.2.2 Load  
+A previously saved game can be resumed by clicking the "L" sign.
+
+6.2.3 Graphics  
+Here you can choose the color resolution between 256 and 32,768 colors, set the window size for animations, and determine the text scrolling speed.
+
+6.2.4 Music  
+This window provides you with three volume controls for digital sound, music, and speech. You can also toggle the voice output on or off and check your settings with a "sound check". Through the menu item "Sound cards...", you can access the sound menu (see p.7).
+
+6.2.5 Options  
+You can manage historical records (historical events), adventures (sub-plots), fate (random events), help from Jakob Fugger (game aids), and maintain or set specific conditions. If playing with more experienced players, you will be advised of mistakes in your trading or warned if your screen life's end is near and you have no heirs to continue. If you enable "Confirm turn", you will be asked if you really want to end your turn after a right-click in the office. Enabling "Announce player" will display the next player's name before each turn. Disabling "Witnesses & Pleas" will shorten court proceedings.
+
+6.2.6 New Player  
+"Die Fugger II" allows you to add more players during an ongoing game, provided not all six starting locations are taken. For example, if two players have advanced to the year 1617 and a third player wants to join, the game will start with the average wealth of the two others; however, they will need to earn their own office and title.
+
+6.2.7 End Game  
+At some point around four in the morning, you may be so tired that you decide to abandon the current game. The city gate in the marketplace is the exit from the 17th century. You can resume the last ended game directly after restarting "Die Fugger II" by selecting the "Continue last game" option.
+
+7. In the Office  
+
+"Die Fugger II" is a game based on turns and years. That means, when playing with multiple players,
