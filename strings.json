@@ -24022,7 +24022,8 @@
     "raw": "$|$B$ZJede Ver~sicherung kostet Euch jhr~lich 1%% Eu~res Ver~m~gens!$N",
     "string": "$|$B$ZJede Ver~sicherung kostet Euch jähr~lich 1%% Eu~res Ver~mö~gens!$N",
     "enRaw": "$|$(B)$(Z)Each insurance costs you 1% of your wealth annually!$(N)",
-    "en": "$|$B$ZEach insurance costs you 1% of your wealth annually!$N"
+    "en": "$|$B$ZEach insurance costs you 1% of your wealth annually!$N",
+    "en2": "$|$B$ZEach insurance costs you 1%% of your wealth annually!$N"
   },
   {
     "start": 790080,
