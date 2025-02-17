@@ -1481,7 +1481,8 @@
     "raw": "Bei einem Spa~zier~gang in %s seht Ihr, wie eine Frau von zwei Ru~bern be~droht wird. ",
     "string": "Bei einem Spa~zier~gang in %s seht Ihr, wie eine Frau von zwei Räu~bern be~droht wird. ",
     "enRaw": "During a walk in %(s), you see a woman being threatened by two robbers.",
-    "en": "During a walk in %s, you see a woman being threatened by two robbers."
+    "en": "During a walk in %s, you see a woman being threatened by two robbers.",
+    "en2": "During a walk in %s, you see a woman being threatened by two robbers. "
   },
   {
     "start": 558777,
@@ -5584,7 +5585,7 @@
     "string": "mit Schlag~sahne",
     "enRaw": "with whipped cream",
     "en": "with whipped cream",
-    "en2": "w/ whipped cream"
+    "en2": "w. whipped cream"
   },
   {
     "start": 612145,
@@ -5617,7 +5618,7 @@
     "string": "mit Him~beer~eis",
     "enRaw": "with raspberry ice cream",
     "en": "with raspberry ice cream",
-    "en2": "w/ berry cream"
+    "en2": "w. berry cream"
   },
   {
     "start": 612241,
@@ -8512,7 +8513,8 @@
     "raw": " desweiteren ",
     "string": " desweiteren ",
     "enRaw": "furthermore",
-    "en": "furthermore"
+    "en": "furthermore",
+    "en2": " furthermore "
   },
   {
     "start": 632285,
@@ -8520,7 +8522,8 @@
     "raw": " darber~hinaus ",
     "string": " darüber~hinaus ",
     "enRaw": "beyond that",
-    "en": "beyond that"
+    "en": "beyond that",
+    "en2": " beyond that "
   },
   {
     "start": 632303,
@@ -8529,7 +8532,7 @@
     "string": "außer~dem ",
     "enRaw": "aside from that",
     "en": "aside from that",
-    "en2": "otherwise"
+    "en2": "otherwise "
   },
   {
     "start": 632314,
@@ -8538,7 +8541,7 @@
     "string": " zudem ",
     "enRaw": "in addition",
     "en": "in addition",
-    "en2": "addtly"
+    "en2": " plus "
   },
   {
     "start": 632322,
@@ -8546,7 +8549,8 @@
     "raw": " wei~ter ",
     "string": " wei~ter ",
     "enRaw": "further",
-    "en": "further"
+    "en": "further",
+    "en2": " further "
   },
   {
     "start": 632332,
@@ -8579,7 +8583,7 @@
     "string": "Straf",
     "enRaw": "Penalty",
     "en": "Penalty",
-    "en2": "Fine"
+    "en2": "\u0000"
   },
   {
     "start": 632391,
@@ -8587,7 +8591,8 @@
     "raw": "Kirchen",
     "string": "Kirchen",
     "enRaw": "Church",
-    "en": "Church"
+    "en": "Church",
+    "en2": "church "
   },
   {
     "start": 632399,
@@ -8670,7 +8675,8 @@
     "raw": "alles Lge!<",
     "string": "alles Lüge!<",
     "enRaw": "all lies!",
-    "en": "all lies!"
+    "en": "all lies!",
+    "en2": "all lies!<"
   },
   {
     "start": 632722,
@@ -8978,7 +8984,7 @@
     "string": "aFertig!$|",
     "enRaw": "Finished!",
     "en": "Finished!",
-    "en2": "aFinish!$|"
+    "en2": "aNone!$|"
   },
   {
     "start": 633602,
@@ -12401,7 +12407,8 @@
     "raw": "Verkauft",
     "string": "Verkauft",
     "enRaw": "Sold",
-    "en": "Sold"
+    "en": "Sold",
+    "en2": "Sell"
   },
   {
     "start": 657875,
@@ -12409,7 +12416,8 @@
     "raw": "Verk.",
     "string": "Verk.",
     "enRaw": "Sold.",
-    "en": "Sold."
+    "en": "Sold.",
+    "en2": "Sell"
   },
   {
     "start": 657881,
@@ -12752,7 +12760,8 @@
     "raw": "Braut",
     "string": "Braut",
     "enRaw": "Bride",
-    "en": "Bride"
+    "en": "Bride",
+    "en2": "Brews"
   },
   {
     "start": 660783,
@@ -12792,7 +12801,8 @@
     "raw": "Kel~tert",
     "string": "Kel~tert",
     "enRaw": "Vintages",
-    "en": "Vintages"
+    "en": "Vintages",
+    "en2": "Make"
   },
   {
     "start": 660824,
@@ -14619,7 +14629,8 @@
     "raw": " stif~tet der Stadt %o ein%s.$N$N",
     "string": " stif~tet der Stadt %o ein%s.$N$N",
     "enRaw": "endows the city with %(o) a %(s).$(N)$(N)",
-    "en": "endows the city with %o a %s.$N$N"
+    "en": "endows the city with %o a %s.$N$N",
+    "en2": " endows the city %o a %s.$N$N"
   },
   {
     "start": 674128,
@@ -14627,7 +14638,8 @@
     "raw": "e Kathedrale",
     "string": "e Kathedrale",
     "enRaw": "cathedral",
-    "en": "cathedral"
+    "en": "cathedral",
+    "en2": " cathedral"
   },
   {
     "start": 674141,
@@ -14635,7 +14647,8 @@
     "raw": "e Kirche",
     "string": "e Kirche",
     "enRaw": "church",
-    "en": "church"
+    "en": "church",
+    "en2": " church"
   },
   {
     "start": 674150,
@@ -14643,7 +14656,8 @@
     "raw": " Theater",
     "string": " Theater",
     "enRaw": "theater",
-    "en": "theater"
+    "en": "theater",
+    "en2": " theater"
   },
   {
     "start": 674159,
@@ -14651,7 +14665,8 @@
     "raw": " Hospital",
     "string": " Hospital",
     "enRaw": "hospital",
-    "en": "hospital"
+    "en": "hospital",
+    "en2": " hospital"
   },
   {
     "start": 674169,
@@ -14659,7 +14674,8 @@
     "raw": "en Springbrunnen",
     "string": "en Springbrunnen",
     "enRaw": "fountain",
-    "en": "fountain"
+    "en": "fountain",
+    "en2": " fountain"
   },
   {
     "start": 674186,
@@ -15479,7 +15495,8 @@
     "raw": "%m Ver~siche~rung abschlieáen$N",
     "string": "%m Ver~siche~rung abschließen$N",
     "enRaw": "take out %(m) insurance$(N)",
-    "en": "take out %m insurance$N"
+    "en": "take out %m insurance$N",
+    "en2": "%m take out insurance$N"
   },
   {
     "start": 680949,
@@ -16221,7 +16238,7 @@
     "string": "Ein %s Händ~ler be~tritt Euer Kon~tor und bit~tet um eine Unter~redung: >Mein Name ist %s. Ich habe einen Freund in %s, der mich ge~beten hat, mit Euch be~züg~lich eines Ge~schäftes Kon~takt auf~zu~nehmen, an dem ihm sehr ge~legen ist. Wenn Ihr be~reit wäret, %w Jahre hin~tereina~nder in %s je~weils minde~stens %d Ein~heiten %s zu ver~kaufen, so ließe mein Freund sich dies %d Taler ko~sten - pro Jahr!<$NEine klei~ne Pause ent~steht, dann fährt der Mann fort: >Wenn Ihr Euren Teil der Ver~ein~barung je~doch nicht ein~haltet, dann wird eine Ver~trags~strafe in Höhe von %d Ta~lern fäl~lig... Nun, was meint Ihr?<$Z%a>Das Ge~schäft gilt!<%a>Hm, das scheint zu schwer.<$|",
     "enRaw": "A %(s) trader enters your office and requests a meeting: >My name is %(s). I have a friend in %(s) who has asked me to contact you regarding a business deal that is very important to him. If you would be willing to sell at least %(d) units of %(s) each year for %(w) consecutive years in %(s), my friend would pay %(d) Talers for it - per year!<$(N) A small pause follows, then the man continues: >However, if you do not fulfill your part of the agreement, a penalty of %(d) Talers will be due... Well, what do you think?<$(Z)%(a)>The deal is on!<%(a)>Hmm, that seems too difficult.<$|",
     "en": "A %s trader enters your office and requests a meeting: >My name is %s. I have a friend in %s who has asked me to contact you regarding a business deal that is very important to him. If you would be willing to sell at least %d units of %s each year for %w consecutive years in %s, my friend would pay %d Talers for it - per year!<$N A small pause follows, then the man continues: >However, if you do not fulfill your part of the agreement, a penalty of %d Talers will be due... Well, what do you think?<$Z%a>The deal is on!<%a>Hmm, that seems too difficult.<$|",
-    "en2": "A %s merchant enters your office and requests a meeting: >My name is %s. I have a friend in %s who has asked me to contact you regarding a business deal that is very important to him. If you are willing, for %w consecutive years, in %s, to sell at least %d units of %s, my friend would be willing to pay %d thalers for it—per year!<$NA brief pause ensues, then the man continues: >However, if you do not uphold your part of the agreement, a penalty of %d thalers will be due... Well, what do you say?<$Z%a>The deal is on!<%a>Hm, that seems too difficult.<$|"
+    "en2": "A %s merchant enters your office and requests a meeting: >My name is %s. I have a friend in %s who has asked me to contact you regarding a business deal that is very important to him. If you are willing, for %w consecutive years, in %s, to sell at least %d units of %s, my friend would be willing to pay %d thalers for it-per year!<$NA brief pause ensues, then the man continues: >However, if you do not uphold your part of the agreement, a penalty of %d thalers will be due... Well, what do you say?<$Z%a>The deal is on!<%a>Hm, that seems too difficult.<$|"
   },
   {
     "start": 687926,
@@ -18510,7 +18527,8 @@
     "raw": "%s be~lagert viele Mo~na~te lang %s. Angst und Schrecken her~rschen im Land. ",
     "string": "%s be~lagert viele Mo~na~te lang %s. Angst und Schrecken her~rschen im Land. ",
     "enRaw": "%(s) besieges %(s) for many months. Fear and terror reign in the country.",
-    "en": "%s besieges %s for many months. Fear and terror reign in the country."
+    "en": "%s besieges %s for many months. Fear and terror reign in the country.",
+    "en2": "%s besieges %s for many months. Fear and terror reign in the country. "
   },
   {
     "start": 712353,
@@ -20313,15 +20331,6 @@
     "string": "Wegen $hUn~zu~frieden~heit$h der Fuhr~leute brennt %1u durch.$N$N",
     "enRaw": "Due to $(h)dissatisfaction$(h) of the drivers, %(1u) burns through.$(N)$(N)",
     "en": "Due to $hdissatisfaction$h of the drivers, %1u burns through.$N$N"
-  },
-  {
-    "start": 732993,
-    "end": 733003,
-    "raw": "durch.$N$N",
-    "string": "durch.$N$N",
-    "enRaw": "through.$(N)$(N)",
-    "en": "through.$N$N",
-    "en2": "thru.$N$N"
   },
   {
     "start": 733004,
@@ -23247,15 +23256,6 @@
     "en2": "%M%M%M%M%s at auction for %l!$N"
   },
   {
-    "start": 785305,
-    "end": 785326,
-    "raw": "H$ZWert: %d Taler$N$Z",
-    "string": "H$ZWert: %d Taler$N$Z",
-    "enRaw": "H$(Z)Value: %(d) taler$(N)$(Z)",
-    "en": "H$ZValue: %d taler$N$Z",
-    "en2": "H$ZValue: %d thal$N$Z"
-  },
-  {
     "start": 785328,
     "end": 785348,
     "raw": "%j%M%M%M Verkaufen$N",
@@ -23279,7 +23279,7 @@
     "string": "%M%M%M%j Kaufinteresse zurückziehen$|",
     "enRaw": "%(M)%(M)%(M)%(j) Withdraw interest in buying$|",
     "en": "%M%M%M%j Withdraw interest in buying$|",
-    "en2": "%M%M%M%j Unconsider buying$|"
+    "en2": "%M%M%M%j Withdraw consideration$|"
   },
   {
     "start": 785440,
@@ -25699,5 +25699,48 @@
     "string": "Der %s von %o$N",
     "enRaw": "The %(s) of %(o)$(N)",
     "en": "The %s of %o$N"
+  },
+  {
+    "start": 329280,
+    "end": 329284,
+    "raw": "Nein",
+    "string": "Nein",
+    "enRaw": "No",
+    "en": "No"
+  },
+  {
+    "start": 681886,
+    "end": 681919,
+    "raw": "$H$g$CDamit ist %1N1 convicted!$N",
+    "string": "$H$g$CDamit ist %1N1 convicted!$N",
+    "enRaw": "$(H)$(g)$(C)With that, %(1N)1 is convicted!$(N)",
+    "en": "$H$g$CWith that, %1N1 is convicted!$N",
+    "en2": "$H$g$CSo, %1N1 is convicted!$N"
+  },
+  {
+    "start": 647891,
+    "end": 647909,
+    "raw": "$C>Dies ist %1N5.",
+    "string": "$C>Dies ist %1N5.",
+    "en2": "$C>This is %1N5.",
+    "enRaw": "$(C)>This is %(1N)5.",
+    "en": "$C>This is %1N5."
+  },
+  {
+    "start": 732961,
+    "end": 733002,
+    "raw": "Lei~der brennt $h%1u$hzu %3N5, durch.$N$N",
+    "string": "Lei~der brennt $h%1u$hzu %3N5, durch.$N$N",
+    "enRaw": "Unfortunately, burns $(h)%(1u)$(h)to %(3N)5, through.$(N)$(N)",
+    "en": "Unfortunately, burns $h%1u$hto %3N5, through.$N$N",
+    "en2": "Sadly, burns $h%1u$hto %3N5, through.$N$N"
+  },
+  {
+    "start": 785260,
+    "end": 785326,
+    "raw": "$C^ Information %o _$ZBesitzer ist %3N5.$N$14H$ZValue: %d thal$N$Z",
+    "string": "$C^ Information %o _$ZBesitzer ist %3N5.$N$14H$ZValue: %d thal$N$Z",
+    "enRaw": "$(C)^ Information %(o) _$(Z)Owner is %(3N)5.$(N)$14H$(Z)Value: %(d) thal$(N)$(Z)",
+    "en": "$C^ Information %o _$ZOwner is %3N5.$N$14H$ZValue: %d thal$N$Z"
   }
 ]
