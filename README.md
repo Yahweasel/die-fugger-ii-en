@@ -17,10 +17,12 @@ Thanks to archive.org user Eulisker for uploading the [original German
 handbook](https://archive.org/details/fugger-ii-die-1996-das-handbuch-de), in
 higher quality than the copy that came with my version of the game.
 
-A translation of the mission cards that came in my box—I have no idea whether
-they're the same in every box—is available in
-[cards-en.txt](mission-cards/cards-en.txt). It was translated the same as the
-manual.
+A translation of the mission cards is in
+[all-cards-en.txt](mission-cards/all-cards-en.txt). Thanks to max-plenert.de for
+uploading the [whole set](https://www.max-plenert.de/fugger2/autragskarten.pdf).
+My box (bought used, of course) came with only a few cards, given in
+[cards-en.txt](mission-cards/cards-en.txt). Both card sets were translated in
+the same manner as the handbook.
 
 
 ## Applying the patch

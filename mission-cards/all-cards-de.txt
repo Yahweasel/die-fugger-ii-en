@@ -1,0 +1,129 @@
+Auftragskarten für Fugger 2
+
+Leicht:
+
+Drei verschiedene Amtsinhaber der Heimatstadt erpressen.
+
+Code: 5566, 0902, 1225
+
+12 Schiffe oder Tauchboote erwerben und 5 Jahre halten.
+
+Code: 2454, 1409, 3423
+
+Ablaßbriefe im Wert von 10.000 Talern kaufen.
+
+Code: 5687, 2455, 5162
+
+Domherr werden und 7 Jahre lang bleiben.
+
+Code: 0831, 1245, 9901
+
+Handelszertifikat III erlangen.
+
+Code: 0534, 1274, 2632
+
+Landgraf oder Landgräfin werden.
+
+Code: 0472, 4208, 1265
+
+Vermögen von 50.000 Talern anhäufen.
+
+Code: 5365, 2345, 2562
+
+3 Schurken vor Gericht bringen und deren Verurteilung herbeiführen.
+
+Code: 1233, 9897, 6966
+
+1 prächtigen Landsitz mit Park, Nebengebäuden, Ländereien 3 J. halten.
+
+Code: 8801, 8545, 8562
+
+Bürgermeister werden und 5 Jahre lang bleiben.
+
+Code: 8797, 1229, 9867
+
+
+Mittel:
+
+Waren im Wert von 40.000 Talern bei Überfällen erbeuten.
+
+Code: 8808, 8549, 8569
+
+Dafür sorgen, daß in einer Grafschaft 11 Amtsinhaber eures Glaubens sind.
+
+Code: 0122, 0908, 7077
+
+Gegen 16 Gesetze verstoßen.
+
+Code: 6677, 1013, 1709
+
+Dem Fürstentum Bauwerke im Gesamtwert von 160.000 Talern stiften.
+
+Code: 5688, 2458, 5160
+
+Viele grandiose Feste geben; dabei 500 Gäste bewirten.
+
+Code: 9434, 0164, 3742
+
+Bischof werden und 5 Jahre lang bleiben.
+
+Code: 1942, 2356, 0012
+
+Graf oder Gräfin werden.
+
+Code: 9371, 3107, 0464
+
+Kanzler werden und 5 Jahre lang bleiben.
+
+Code: 9808, 2330, 0978
+
+Vermögen von 200.000 Talern anhäufen.
+
+Code: 4365, 1345, 1562
+
+Fähigkeiten in der Herstellung 3er Güter perfektionieren.
+
+Code: 3554, 2509, 4523
+
+
+Schwer:
+
+Sorgen, daß 40 Amtsinh. Fürstl. o. grafschaftl. Ebene eures Glaubens sind.
+
+Code: 0992, 0788, 7857
+
+Alle 3 Zollburgen besetzen und 3 Jahre lang halten.
+
+Code: 9151, 3987, 0944
+
+Waren im Wert von 150.000 Talern bei Überfällen erbeuten.
+
+Code: 8681, 8325, 8342
+
+Dem Fürstentum Bauwerke im Gesamtwert von 600.000 Talern stiften.
+
+Code: 5467, 2235, 5942
+
+Dafür sorgen, daß alle Gesetze wenigstens liberal sind und 4 J. bleiben.
+
+Code: 3334, 2389, 4303
+
+Gegen 24 Gesetze verstoßen.
+
+Code: 6457, 1893, 1589
+
+7 Städte erfolgreich belagern.
+
+Code: 9214, 0924, 3522
+
+Vermögen von 750.000 Talern anhäufen.
+
+Code: 4145, 1125, 1342
+
+Großkanzler werden und 7 Jahre lang bleiben.
+
+Code: 9688, 2110, 0758
+
+Erzbischof werden und 7 Jahre lang bleiben.
+
+Code: 1722, 2136, 0892
