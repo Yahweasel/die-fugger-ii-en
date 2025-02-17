@@ -1273,7 +1273,8 @@
     "raw": "Wei~den",
     "string": "Wei~den",
     "enRaw": "Willows",
-    "en": "Willows"
+    "en": "Willows",
+    "en2": "Pasturs"
   },
   {
     "start": 557359,
@@ -1454,7 +1455,7 @@
     "string": "Rats~her~ren",
     "enRaw": "Council lords",
     "en": "Council lords",
-    "en2": "Councillords"
+    "en2": "Councilors"
   },
   {
     "start": 558665,
@@ -3066,7 +3067,8 @@
     "raw": "Am 24. Mrz 1603 stirbt - ge~brochen - Kni~gin Elisa~beth I. von Eng~land. Die letzen Jahre seit dem Tod ihres Ge~lieb~ten Graf Essex waren ihr zur Qual ge~worden. Neuer Souvern von Eng~land ist nun~mehr Jabob I., Sohn von Maria Stuart von Schott~land. Jakob I. hatte be~reits - mit nur einem Jahr - seit 1567 den schotti~schen Thron inne.$ZIn Kanada wer~den die ersten franzsi~schen Sied~lungen ge~grn~det.$N",
     "string": "Am 24. März 1603 stirbt - ge~brochen - Köni~gin Elisa~beth I. von Eng~land. Die letzen Jahre seit dem Tod ihres Ge~lieb~ten Graf Essex waren ihr zur Qual ge~worden. Neuer Souverän von Eng~land ist nun~mehr Jabob I., Sohn von Maria Stuart von Schott~land. Jakob I. hatte be~reits - mit nur einem Jahr - seit 1567 den schotti~schen Thron inne.$ZIn Kanada wer~den die ersten französi~schen Sied~lungen ge~grün~det.$N",
     "enRaw": "On March 24, 1603, Queen Elizabeth I of England dies—broken. The last years since the death of her beloved Earl of Essex had become a torment to her. The new sovereign of England is now James I, son of Mary Stuart of Scotland. James I had already held the Scottish throne since 1567, at just one year old.$(Z)In Canada, the first French settlements are founded.$(N)",
-    "en": "On March 24, 1603, Queen Elizabeth I of England dies—broken. The last years since the death of her beloved Earl of Essex had become a torment to her. The new sovereign of England is now James I, son of Mary Stuart of Scotland. James I had already held the Scottish throne since 1567, at just one year old.$ZIn Canada, the first French settlements are founded.$N"
+    "en": "On March 24, 1603, Queen Elizabeth I of England dies—broken. The last years since the death of her beloved Earl of Essex had become a torment to her. The new sovereign of England is now James I, son of Mary Stuart of Scotland. James I had already held the Scottish throne since 1567, at just one year old.$ZIn Canada, the first French settlements are founded.$N",
+    "en2": "On March 24, 1603, Queen Elizabeth I of England dies-broken. The last years since the death of her beloved Earl of Essex had become a torment to her. The new sovereign of England is now James I, son of Mary Stuart of Scotland. James I had already held the Scottish throne since 1567, at just one year old.$ZIn Canada, the first French settlements are founded.$N"
   },
   {
     "start": 567514,
@@ -5921,7 +5923,7 @@
     "string": ">Das unehrenhafte Verhalten der Angeklagten und ihre Ver~bindungen zu Freidenkern sind allen bekannt.<$N",
     "enRaw": "The dishonorable behavior of the defendant and her connections to free thinkers are known to everyone.<$(N)",
     "en": "The dishonorable behavior of the defendant and her connections to free thinkers are known to everyone.<$N",
-    "en2": "The defendant's dishonorable behavior and her connections to free thinkers are known to everyone.<$N"
+    "en2": ">The defendant's dishonorable behavior and her connections to free thinkers are known to everyone.<$N"
   },
   {
     "start": 615361,
@@ -5930,7 +5932,7 @@
     "string": ">Das arro~gante Verhalten der Angeklagten und ihre Ver~bindungen zu Fein~den des Lan~des sind allen bekannt.<$N",
     "enRaw": "The arrogant behavior of the defendant and her connections to the enemies of the country are known to everyone.<$(N)",
     "en": "The arrogant behavior of the defendant and her connections to the enemies of the country are known to everyone.<$N",
-    "en2": "The defendant's arrogant behavior and her connections to the enemies of the country are known to everyone.<$N"
+    "en2": ">The defendant's arrogant behavior and her connections to the enemies of the country are known to everyone.<$N"
   },
   {
     "start": 615473,
@@ -5938,7 +5940,8 @@
     "raw": ">Der Angeklagte ver~dient die Hchststrafe, wie die Zeu~gen unmiáverstndlich darlegten.<$N",
     "string": ">Der Angeklagte ver~dient die Höchststrafe, wie die Zeu~gen unmißverständlich darlegten.<$N",
     "enRaw": "The defendant deserves the maximum penalty, as the witnesses unequivocally demonstrated.<$(N)",
-    "en": "The defendant deserves the maximum penalty, as the witnesses unequivocally demonstrated.<$N"
+    "en": "The defendant deserves the maximum penalty, as the witnesses unequivocally demonstrated.<$N",
+    "en2": ">The defendant deserves the max penalty, as the witnesses unequivocally demonstrated.<$N"
   },
   {
     "start": 615565,
@@ -5947,7 +5950,7 @@
     "string": ">Der Angeklagte ver~dient eine an~ge~messene Strafe, wie die Zeu~gen äußerst glaubhaft darlegten.<$N",
     "enRaw": "The defendant deserves an appropriate penalty, as the witnesses presented in an extremely credible manner.<$(N)",
     "en": "The defendant deserves an appropriate penalty, as the witnesses presented in an extremely credible manner.<$N",
-    "en2": "The defendant deserves a just penalty, as the witnesses proved in an extremely credible manner.<$N"
+    "en2": ">The defendant deserves a just penalty, as the witnesses proved in an extremely credible manner.<$N"
   },
   {
     "start": 615666,
@@ -5955,7 +5958,8 @@
     "raw": ">Der Angeklagte ver~dient eine harte Strafe, wie die Zeu~gen ein~deutig dar~legten.<$N",
     "string": ">Der Angeklagte ver~dient eine harte Strafe, wie die Zeu~gen ein~deutig dar~legten.<$N",
     "enRaw": "The defendant deserves a harsh penalty, as the witnesses clearly demonstrated.<$(N)",
-    "en": "The defendant deserves a harsh penalty, as the witnesses clearly demonstrated.<$N"
+    "en": "The defendant deserves a harsh penalty, as the witnesses clearly demonstrated.<$N",
+    "en2": ">The defendant deserves a harsh penalty, as the witnesses clearly demonstrated.<$N"
   },
   {
     "start": 615753,
@@ -5963,7 +5967,8 @@
     "raw": ">Der Angeklagte ver~dient eine ge~rechte Bestrafung, wie die Zeu~gen unwiderlegbar darlegten.<$N",
     "string": ">Der Angeklagte ver~dient eine ge~rechte Bestrafung, wie die Zeu~gen unwiderlegbar darlegten.<$N",
     "enRaw": "The defendant deserves a fair punishment, as the witnesses irrefutably demonstrated.<$(N)",
-    "en": "The defendant deserves a fair punishment, as the witnesses irrefutably demonstrated.<$N"
+    "en": "The defendant deserves a fair punishment, as the witnesses irrefutably demonstrated.<$N",
+    "en2": ">The defendant deserves a fair punishment, as the witnesses irrefutably demonstrated.<$N"
   },
   {
     "start": 615850,
@@ -5972,7 +5977,7 @@
     "string": ">Der Angeklagte ver~dient 30 Jahre Kerker, wie die Zeu~gen in den letzten Stun~den darlegten.<$N",
     "enRaw": "The defendant deserves 30 years in prison, as the witnesses demonstrated in the last few hours.<$(N)",
     "en": "The defendant deserves 30 years in prison, as the witnesses demonstrated in the last few hours.<$N",
-    "en2": "The defendant deserves 30 years in prison, as the witnesses demonstrated in the last hours.<$N"
+    "en2": ">The defendant deserves 30 years in prison, as the witnesses demonstrated in the last hours.<$N"
   },
   {
     "start": 615947,
@@ -5981,7 +5986,7 @@
     "string": ">Der Angeklagte ver~dient die Verbannung, wie die Zeu~gen auf meine Anwei... - äh - darlegten.<$N",
     "enRaw": "The defendant deserves banishment, as the witnesses demonstrated on my instruc... - uh - account.<$(N)",
     "en": "The defendant deserves banishment, as the witnesses demonstrated on my instruc... - uh - account.<$N",
-    "en2": "The defendant deserves banishment, as the witnesses demonstrated on my instruc... -uh-account.<$N"
+    "en2": ">The defendant deserves banishment, as the witnesses demonstrated on my instruc...-uh-account.<$N"
   },
   {
     "start": 616045,
@@ -5989,7 +5994,8 @@
     "raw": ">Die Angeklagte ver~dient die Hchststrafe, wie die Zeu~gen unmiáverstndlich darlegten.<$N",
     "string": ">Die Angeklagte ver~dient die Höchststrafe, wie die Zeu~gen unmißverständlich darlegten.<$N",
     "enRaw": "The defendant deserves the maximum penalty, as the witnesses unequivocally demonstrated.<$(N)",
-    "en": "The defendant deserves the maximum penalty, as the witnesses unequivocally demonstrated.<$N"
+    "en": "The defendant deserves the maximum penalty, as the witnesses unequivocally demonstrated.<$N",
+    "en2": ">The defendant deserves the max penalty, as the witnesses unequivocally demonstrated.<$N"
   },
   {
     "start": 616137,
@@ -5998,7 +6004,7 @@
     "string": ">Die Angeklagte ver~dient eine an~ge~messene Strafe, wie die Zeu~gen äußerst glaubhaft darlegten.<$N",
     "enRaw": "The defendant deserves an appropriate penalty, as the witnesses presented in an extremely credible manner.<$(N)",
     "en": "The defendant deserves an appropriate penalty, as the witnesses presented in an extremely credible manner.<$N",
-    "en2": "The defendant deserves a just penalty, as the witnesses proved in an extremely credible manner.<$N"
+    "en2": ">The defendant deserves a just penalty, as the witnesses proved in an extremely credible manner.<$N"
   },
   {
     "start": 616238,
@@ -6007,7 +6013,7 @@
     "string": ">Die Angeklagte ver~dient eine harte Strafe, wie die Zeu~gen ganz genau darlegten.<$N",
     "enRaw": "The defendant deserves a harsh penalty, as the witnesses demonstrated very clearly.<$(N)",
     "en": "The defendant deserves a harsh penalty, as the witnesses demonstrated very clearly.<$N",
-    "en2": "The defendant deserves a harsh penalty, as the witnesses demonstrated clearly.<$N"
+    "en2": ">The defendant deserves a harsh penalty, as the witnesses demonstrated clearly.<$N"
   },
   {
     "start": 616324,
@@ -6015,7 +6021,8 @@
     "raw": ">Die Angeklagte ver~dient eine ge~rechte Bestrafung, wie die Zeu~gen unwiderlegbar darlegten.<$N",
     "string": ">Die Angeklagte ver~dient eine ge~rechte Bestrafung, wie die Zeu~gen unwiderlegbar darlegten.<$N",
     "enRaw": "The defendant deserves a fair punishment, as the witnesses irrefutably demonstrated.<$(N)",
-    "en": "The defendant deserves a fair punishment, as the witnesses irrefutably demonstrated.<$N"
+    "en": "The defendant deserves a fair punishment, as the witnesses irrefutably demonstrated.<$N",
+    "en2": ">The defendant deserves a fair punishment, as the witnesses irrefutably demonstrated.<$N"
   },
   {
     "start": 616421,
@@ -6024,7 +6031,7 @@
     "string": ">Die Angeklagte ver~dient 30 Jahre Kerker, wie die Zeu~gen in den letzten Stun~den darlegten.<$N",
     "enRaw": "The defendant deserves 30 years in prison, as the witnesses demonstrated in the last few hours.<$(N)",
     "en": "The defendant deserves 30 years in prison, as the witnesses demonstrated in the last few hours.<$N",
-    "en2": "The defendant deserves 30 years in prison, as the witnesses demonstrated in the last hours.<$N"
+    "en2": ">The defendant deserves 30 years in prison, as the witnesses demonstrated in the last hours.<$N"
   },
   {
     "start": 616518,
@@ -6033,7 +6040,7 @@
     "string": ">Die Angeklagte ver~dient die Verbannung, wie die Zeu~gen auf meine Anwei... - äh - darlegten.<$N",
     "enRaw": "The defendant deserves banishment, as the witnesses demonstrated on my instruc... - uh - account.<$(N)",
     "en": "The defendant deserves banishment, as the witnesses demonstrated on my instruc... - uh - account.<$N",
-    "en2": "The defendant deserves banishment, as the witnesses demonstrated on my instruc... -uh-account.<$N"
+    "en2": ">The defendant deserves banishment, as the witnesses demonstrated on my instruc...-uh-account.<$N"
   },
   {
     "start": 616616,
@@ -6041,7 +6048,8 @@
     "raw": ">Die Zeu~gen haben unwiderlegbar gezeigt, daá der Angeklagte schuldig ist!<$N",
     "string": ">Die Zeu~gen haben unwiderlegbar gezeigt, daß der Angeklagte schuldig ist!<$N",
     "enRaw": "The witnesses have irrefutably shown that the defendant is guilty!<$(N)",
-    "en": "The witnesses have irrefutably shown that the defendant is guilty!<$N"
+    "en": "The witnesses have irrefutably shown that the defendant is guilty!<$N",
+    "en2": ">The witnesses have irrefutably shown that the defendant is guilty!<$N"
   },
   {
     "start": 616694,
@@ -6049,7 +6057,8 @@
     "raw": ">Die Zeu~gen haben eindeutig gezeigt, daá der Angeklagte schuldig ist!<$N",
     "string": ">Die Zeu~gen haben eindeutig gezeigt, daß der Angeklagte schuldig ist!<$N",
     "enRaw": "The witnesses have clearly shown that the defendant is guilty!<$(N)",
-    "en": "The witnesses have clearly shown that the defendant is guilty!<$N"
+    "en": "The witnesses have clearly shown that the defendant is guilty!<$N",
+    "en2": ">The witnesses have clearly shown that the defendant is guilty!<$N"
   },
   {
     "start": 616768,
@@ -6058,7 +6067,7 @@
     "string": ">Die Zeu~gen haben äußerst glaubhaft gezeigt, daß der Angeklagte schuldig ist!<$N",
     "enRaw": "The witnesses have shown in an extremely credible manner that the defendant is guilty!<$(N)",
     "en": "The witnesses have shown in an extremely credible manner that the defendant is guilty!<$N",
-    "en2": "The witnesses have shown extremely credibly that the defendant is guilty!<$N"
+    "en2": ">The witnesses have shown extremely credibly that the defendant is guilty!<$N"
   },
   {
     "start": 616850,
@@ -6066,7 +6075,8 @@
     "raw": ">Die Zeu~gen haben unmiáverstndlich gezeigt, daá der Angeklagte schuldig ist!<$N",
     "string": ">Die Zeu~gen haben unmißverständlich gezeigt, daß der Angeklagte schuldig ist!<$N",
     "enRaw": "The witnesses have unequivocally shown that the defendant is guilty!<$(N)",
-    "en": "The witnesses have unequivocally shown that the defendant is guilty!<$N"
+    "en": "The witnesses have unequivocally shown that the defendant is guilty!<$N",
+    "en2": ">The witnesses have unequivocally shown that the defendant is guilty!<$N"
   },
   {
     "start": 616932,
@@ -6074,7 +6084,8 @@
     "raw": ">Die Zeu~gen haben unwiderlegbar gezeigt, daá die Angeklagte schuldig ist!<$N",
     "string": ">Die Zeu~gen haben unwiderlegbar gezeigt, daß die Angeklagte schuldig ist!<$N",
     "enRaw": "The witnesses have irrefutably shown that the defendant is guilty!<$(N)",
-    "en": "The witnesses have irrefutably shown that the defendant is guilty!<$N"
+    "en": "The witnesses have irrefutably shown that the defendant is guilty!<$N",
+    "en2": ">The witnesses have irrefutably shown that the defendant is guilty!<$N"
   },
   {
     "start": 617010,
@@ -6082,7 +6093,8 @@
     "raw": ">Die Zeu~gen haben eindeutig gezeigt, daá die Angeklagte schuldig ist!<$N",
     "string": ">Die Zeu~gen haben eindeutig gezeigt, daß die Angeklagte schuldig ist!<$N",
     "enRaw": "The witnesses have clearly shown that the defendant is guilty!<$(N)",
-    "en": "The witnesses have clearly shown that the defendant is guilty!<$N"
+    "en": "The witnesses have clearly shown that the defendant is guilty!<$N",
+    "en2": ">The witnesses have clearly shown that the defendant is guilty!<$N"
   },
   {
     "start": 617084,
@@ -6091,7 +6103,7 @@
     "string": ">Die Zeu~gen haben äußerst glaubhaft gezeigt, daß die Angeklagte schuldig ist!<$N",
     "enRaw": "The witnesses have shown in an extremely credible manner that the defendant is guilty!<$(N)",
     "en": "The witnesses have shown in an extremely credible manner that the defendant is guilty!<$N",
-    "en2": "The witnesses have shown in extremely credibly that the defendant is guilty!<$N"
+    "en2": ">The witnesses have shown extremely credibly that the defendant is guilty!<$N"
   },
   {
     "start": 617166,
@@ -6099,7 +6111,8 @@
     "raw": ">Die Zeu~gen haben unmiáverstndlich gezeigt, daá die Angeklagte schuldig ist!<$N",
     "string": ">Die Zeu~gen haben unmißverständlich gezeigt, daß die Angeklagte schuldig ist!<$N",
     "enRaw": "The witnesses have unequivocally shown that the defendant is guilty!<$(N)",
-    "en": "The witnesses have unequivocally shown that the defendant is guilty!<$N"
+    "en": "The witnesses have unequivocally shown that the defendant is guilty!<$N",
+    "en2": ">The witnesses have unequivocally shown that the defendant is guilty!<$N"
   },
   {
     "start": 617248,
@@ -6107,7 +6120,8 @@
     "raw": ">Daher fordere ich, daá der Angeklagte fr seine Verbrechen ver~ur~teilt wird.<$N",
     "string": ">Daher fordere ich, daß der Angeklagte für seine Verbrechen ver~ur~teilt wird.<$N",
     "enRaw": "Therefore, I demand that the defendant be convicted for his crimes.<$(N)",
-    "en": "Therefore, I demand that the defendant be convicted for his crimes.<$N"
+    "en": "Therefore, I demand that the defendant be convicted for his crimes.<$N",
+    "en2": ">Therefore, I demand that the defendant be convicted for his crimes.<$N"
   },
   {
     "start": 617330,
@@ -6115,7 +6129,8 @@
     "raw": ">Daher fordere ich, daá die Angeklagte fr ihre Verbrechen ver~ur~teilt wird.<$N",
     "string": ">Daher fordere ich, daß die Angeklagte für ihre Verbrechen ver~ur~teilt wird.<$N",
     "enRaw": "Therefore, I demand that the defendant be convicted for her crimes.<$(N)",
-    "en": "Therefore, I demand that the defendant be convicted for her crimes.<$N"
+    "en": "Therefore, I demand that the defendant be convicted for her crimes.<$N",
+    "en2": ">Therefore, I demand that the defendant be convicted for her crimes.<$N"
   },
   {
     "start": 617411,
@@ -8489,7 +8504,7 @@
     "string": "$C>%1N0! Man beschuldigt Euch%sschwer, daß Ihr gegen %s verstoßen habt:<$N",
     "enRaw": "$(C)>%(1N)0! You are gravely accused of having violated %(s):<$(N)",
     "en": "$C>%1N0! You are gravely accused of having violated %s:<$N",
-    "en2": "$C>%1N0! You are %s gravely accused of having violated %s:<$N"
+    "en2": "$C>%1N0! You are%sgravely accused of having violated %s:<$N"
   },
   {
     "start": 632271,
@@ -8590,7 +8605,7 @@
     "string": " was wollt Ihr sagen?$Z%a%m$|",
     "enRaw": "what do you want to say?$(Z)%(a)%(m)$|",
     "en": "what do you want to say?$Z%a%m$|",
-    "en2": "what do you say?$Z%a%m$|"
+    "en2": " what do you plea?$Z%a%m$|"
   },
   {
     "start": 632500,
@@ -9405,7 +9420,7 @@
     "raw": "$CDen furcht~baren Flam~men fal~len %d Ein~wohner zum Opfer%s",
     "string": "$CDen furcht~baren Flam~men fal~len %d Ein~wohner zum Opfer%s",
     "enRaw": "$(C)The terrible flames claim %(d) resident(s) as victims%(s)",
-    "en": "$CThe terrible flames claim %d resident(s) as victims%s"
+    "en": "$CThe terrible flames claim %d residents as victims%s"
   },
   {
     "start": 636987,
@@ -9413,7 +9428,8 @@
     "raw": "$C%d Br~ger kn~nen sich nicht mehr ret~ten%s",
     "string": "$C%d Bür~ger kön~nen sich nicht mehr ret~ten%s",
     "enRaw": "$(C)%(d) citizens can no longer save themselves%(s)",
-    "en": "$C%d citizens can no longer save themselves%s"
+    "en": "$C%d citizens can no longer save themselves%s",
+    "en2": "$C%d citizens cannot be saved%s"
   },
   {
     "start": 637034,
@@ -9429,7 +9445,8 @@
     "raw": "$C%d Men~schen kn~nen nicht mehr ge~bor~gen wer~den%s",
     "string": "$C%d Men~schen kön~nen nicht mehr ge~bor~gen wer~den%s",
     "enRaw": "$(C)%(d) people can no longer be rescued%(s)",
-    "en": "$C%d people can no longer be rescued%s"
+    "en": "$C%d people can no longer be rescued%s",
+    "en2": "$C%d people cannot be rescued%s"
   },
   {
     "start": 637143,
@@ -9438,7 +9455,7 @@
     "string": " und %s der schönsten Bau~werke%swer~den zer~stört.$N",
     "enRaw": "and %(s) of the most beautiful buildings are destroyed.$(N)",
     "en": "and %s of the most beautiful buildings are destroyed.$N",
-    "en2": "and %s of the beautiful buildings %s are destroyed.$N"
+    "en2": " and %s of the beautiful buildings%s are destroyed.$N"
   },
   {
     "start": 637200,
@@ -9480,7 +9497,7 @@
     "string": " sowie ein Stück des Markt~platzes ",
     "enRaw": "as well as a part of the marketplace",
     "en": "as well as a part of the marketplace",
-    "en2": "as well as part of the marketplace"
+    "en2": " as well as part of the marketplace"
   },
   {
     "start": 637265,
@@ -10541,7 +10558,8 @@
     "raw": "$CGroáe Ereignisse werfen ihre Schatten voraus. %1N5, hat Eurem Werben end~lich nachgegeben, Ihr schwebt im siebten Him~mel...$N",
     "string": "$CGroße Ereignisse werfen ihre Schatten voraus. %1N5, hat Eurem Werben end~lich nachgegeben, Ihr schwebt im siebten Him~mel...$N",
     "enRaw": "$(C)Great events cast their shadows before them. %(1N)5 has finally succumbed to your wooing, you are on cloud nine...$(N)",
-    "en": "$CGreat events cast their shadows before them. %1N5 has finally succumbed to your wooing, you are on cloud nine...$N"
+    "en": "$CGreat events cast their shadows before them. %1N5 has finally succumbed to your wooing, you are on cloud nine...$N",
+    "en2": "$CGreat events cast their shadows before them. %1N5 has finally succumbed to your wooing. You are on cloud nine...$N"
   },
   {
     "start": 645406,
@@ -10820,7 +10838,8 @@
     "raw": " Hbsch, nicht wahr?<$N",
     "string": " Hübsch, nicht wahr?<$N",
     "enRaw": "Pretty, isn't it?<$(N)",
-    "en": "Pretty, isn't it?<$N"
+    "en": "Pretty, isn't it?<$N",
+    "en2": " Pretty, isn't she?<$N"
   },
   {
     "start": 647933,
@@ -11496,7 +11515,8 @@
     "raw": "schlecht",
     "string": "schlecht",
     "enRaw": "badly",
-    "en": "badly"
+    "en": "badly",
+    "en2": "bad"
   },
   {
     "start": 651197,
@@ -16533,7 +16553,8 @@
     "raw": "1N5, wird von %3N5, vor dem ehrenwerten Gericht von %s %s.$N",
     "string": "1N5, wird von %3N5, vor dem ehrenwerten Gericht von %s %s.$N",
     "enRaw": "1N5, by %(3N)5, before the honorable court of %(s) %(s).$(N)",
-    "en": "1N5, by %3N5, before the honorable court of %s %s.$N"
+    "en": "1N5, by %3N5, before the honorable court of %s %s.$N",
+    "en2": "1N5, by %3N5, before the honorable court of %s is %s.$N"
   },
   {
     "start": 691058,
@@ -19637,7 +19658,8 @@
     "raw": "$B%1N5, n~dert die Fi~nanz~ge~setze von Mit~tel~land.$N$N",
     "string": "$B%1N5, än~dert die Fi~nanz~ge~setze von Mit~tel~land.$N$N",
     "enRaw": "$(B)%(1N)5, change the financial laws of Midland.$(N)$(N)",
-    "en": "$B%1N5, change the financial laws of Midland.$N$N"
+    "en": "$B%1N5, change the financial laws of Midland.$N$N",
+    "en2": "$B%1N5, changes the financial laws of Midland.$N$N"
   },
   {
     "start": 725698,
@@ -19670,7 +19692,8 @@
     "raw": "$B%1N5, n~dert die Straf~ge~setze von Mit~tel~land.$N$N",
     "string": "$B%1N5, än~dert die Straf~ge~setze von Mit~tel~land.$N$N",
     "enRaw": "$(B)%(1N)5, change the criminal laws of Midland.$(N)$(N)",
-    "en": "$B%1N5, change the criminal laws of Midland.$N$N"
+    "en": "$B%1N5, change the criminal laws of Midland.$N$N",
+    "en2": "$B%1N5, changes the criminal laws of Midland.$N$N"
   },
   {
     "start": 725874,
@@ -24420,7 +24443,8 @@
     "raw": "$1H$g$4>$4<$C%1N1! Ihr steht am Rande des Ruins. Eure Geldgeber sorgen dafr, daá Ihr das nchste Jahr im Schuldturm zubringen mát.$N",
     "string": "$1H$g$4>$4<$C%1N1! Ihr steht am Rande des Ruins. Eure Geldgeber sorgen dafür, daß Ihr das nächste Jahr im Schuldturm zubringen müßt.$N",
     "enRaw": "$1H$(g)$4>$4<$(C)%(1N)1! You are on the brink of ruin. Your creditors ensure that you will spend the next year in the debt tower.$(N)",
-    "en": "$1H$g$4>$4<$C%1N1! You are on the brink of ruin. Your creditors ensure that you will spend the next year in the debt tower.$N"
+    "en": "$1H$g$4>$4<$C%1N1! You are on the brink of ruin. Your creditors ensure that you will spend the next year in the debt tower.$N",
+    "en2": "$1H$g$4>$4<$C%1N1! You are on the brink of ruin. Your creditors ensure that you will spend the next year in debtors' prison.$N"
   },
   {
     "start": 793512,
@@ -24428,7 +24452,8 @@
     "raw": "$1H$g$4>$4<$C%1N1! Ihr steht am Rande des Ruins. Eure Geldgeber sehen zwar davon ab, Eure letzte Niederlassung zu pfnden, sorgen aber dafr, daá Ihr das nchste Jahr im Schuldturm zubringen mát.$N",
     "string": "$1H$g$4>$4<$C%1N1! Ihr steht am Rande des Ruins. Eure Geldgeber sehen zwar davon ab, Eure letzte Niederlassung zu pfänden, sorgen aber dafür, daß Ihr das nächste Jahr im Schuldturm zubringen müßt.$N",
     "enRaw": "$1H$(g)$4>$4<$(C)%(1N)1! You are on the brink of ruin. Your creditors refrain from seizing your last settlement, but they ensure that you will spend the next year in the debt tower.$(N)",
-    "en": "$1H$g$4>$4<$C%1N1! You are on the brink of ruin. Your creditors refrain from seizing your last settlement, but they ensure that you will spend the next year in the debt tower.$N"
+    "en": "$1H$g$4>$4<$C%1N1! You are on the brink of ruin. Your creditors refrain from seizing your last settlement, but they ensure that you will spend the next year in the debt tower.$N",
+    "en2": "$1H$g$4>$4<$C%1N1! You are on the brink of ruin. Your creditors refrain from seizing your last settlement, but they ensure that you will spend the next year in debtors' prison.$N"
   },
   {
     "start": 793712,
@@ -24659,7 +24684,8 @@
     "raw": " fhrt ein Ma~n~ver in der Um~ge~bung von %o durch.$N$N",
     "string": " führt ein Ma~nö~ver in der Um~ge~bung von %o durch.$N$N",
     "enRaw": "conducts a maneuver in the vicinity of %(o).$(N)$(N)",
-    "en": "conducts a maneuver in the vicinity of %o.$N$N"
+    "en": "conducts a maneuver in the vicinity of %o.$N$N",
+    "en2": " conducts a maneuver in the vicinity of %o.$N$N"
   },
   {
     "start": 796256,
@@ -25597,7 +25623,8 @@
     "raw": "$h%1N5, schwrzt$h %4N0 bei %3N5, an.$N$N",
     "string": "$h%1N5, schwärzt$h %4N0 bei %3N5, an.$N$N",
     "enRaw": "$(h)%(1N)5, blackens$(h) %(4N)0 at %(3N)5, on.$(N)$(N)",
-    "en": "$h%1N5, blackens$h %4N0 at %3N5, on.$N$N"
+    "en": "$h%1N5, blackens$h %4N0 at %3N5, on.$N$N",
+    "en2": "$h%1N5, slanders$h %4N0 to %3N5.$N$N"
   },
   {
     "start": 789412,
