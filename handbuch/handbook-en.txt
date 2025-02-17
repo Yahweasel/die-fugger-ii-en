@@ -41,10 +41,10 @@ The Technical Part
 1. Requirements for Your PC
 
 1.1 Speed and Operating System
-"The Fugger II" can be played on a PC (from 486 onwards) with at least 8 MB of main memory and a double-speed CD-ROM drive. A standard VESA driver for displaying SVGA graphics must be installed. Minimum requirements: 486 with 33 MHz and 8 MB of main memory, from MS-DOS version 3.3, ISA-bus graphics card with at least 0.5 MB of video memory, and a double-speed CD-ROM drive. Recommended: 486 with 66 MHz and 8 MB of main memory, VLB or PCI graphics card with 1 MB of video memory, and a 4x-speed CD-ROM drive. A Pentium P90 processor can also handle the tasks set before it. Operating System: "The Fugger II" runs under MS-DOS version 3.3 with 8 MB, under Windows 3.1, Windows NT, and Windows 95 in DOS mode with 8 MB, and under OS/2 in a DOS full screen with 8 MB.
+"Die Fugger II" can be played on a PC (from 486 onwards) with at least 8 MB of main memory and a double-speed CD-ROM drive. A standard VESA driver for displaying SVGA graphics must be installed. Minimum requirements: 486 with 33 MHz and 8 MB of main memory, from MS-DOS version 3.3, ISA-bus graphics card with at least 0.5 MB of video memory, and a double-speed CD-ROM drive. Recommended: 486 with 66 MHz and 8 MB of main memory, VLB or PCI graphics card with 1 MB of video memory, and a 4x-speed CD-ROM drive. A Pentium P90 processor can also handle the tasks set before it. Operating System: "Die Fugger II" runs under MS-DOS version 3.3 with 8 MB, under Windows 3.1, Windows NT, and Windows 95 in DOS mode with 8 MB, and under OS/2 in a DOS full screen with 8 MB.
 
 1.2 Graphics
-"The Fugger II" can be played in two color resolutions. If your PC has 8 MB of main memory, you can choose between SVGA graphics with 256 colors and Hi-Color graphics with 32,768 colors. Both resolutions support a standard VESA driver (e.g., UNIVBE) as standard.
+"Die Fugger II" can be played in two color resolutions. If your PC has 8 MB of main memory, you can choose between SVGA graphics with 256 colors and Hi-Color graphics with 32,768 colors. Both resolutions support a standard VESA driver (e.g., UNIVBE) as standard.
 
 1.3 Music, Sound Effects, and Voice Output
 The game supports the following sound cards:
@@ -60,16 +60,16 @@ The game supports the following sound cards:
 
 2. Installation and Configuration
 
-To install "The Fugger II," insert the Fugger II CD into your CD-ROM drive (example here is drive d:), switch to the corresponding drive by entering:
+To install "Die Fugger II," insert the Fugger II CD into your CD-ROM drive (example here is drive d:), switch to the corresponding drive by entering:
 d:
 (ENTER)
 If your CD-ROM drive is not d:, enter the appropriate drive letter, for example: e: (ENTER) or f: (ENTER).
 Now call up the installation program:
 install
 (ENTER)
-The "The Fugger II" installation program now welcomes you.
+The "Die Fugger II" installation program now welcomes you.
 
-NOTE: Most windows in "The Fugger II" can be exited by pressing the right mouse button.
+NOTE: Most windows in "Die Fugger II" can be exited by pressing the right mouse button.
 
 The free space on your hard disk will now be displayed, and you can decide with the ESC key which type of installation you would like to perform.
 
@@ -354,7 +354,7 @@ DISADVANTAGES OF DIRECTORS ARE: Directors cost money, that is just the way it is
 
 Despite their disadvantages, we can heartily recommend hiring directors in branches that have reached a certain volume of trade without having to feel guilty. You will enjoy watching everything work...
 
-7.2 A good accountant... - The Writing Room Back at the office, finally! What the globe is for trade, the desk is for other important areas in "The Fugger II". If you move the mouse over the desk in the office and click left, you'll enter the writing room, where your friendly accountant and advisor will look at you skeptically...
+7.2 A good accountant... - The Writing Room Back at the office, finally! What the globe is for trade, the desk is for other important areas in "Die Fugger II". If you move the mouse over the desk in the office and click left, you'll enter the writing room, where your friendly accountant and advisor will look at you skeptically...
 
 7.2.1 The career calls — In office and dignity Move the mouse over the document in front of the accountant in the center of his impressive desk and left-click. You will enter the window where you can submit applications for vacant positions. You will immediately see the number of applications, applying for a position, in later years...
 
@@ -370,7 +370,7 @@ As your mission requires, as you wish to deceive your opponents, sooner or later
 
 7.2.2 The Privileges Move the mouse slightly further to the right on your accountant's desk in the writing room. The word "Privileges" is displayed in golden letters. Left-click, and you will access your very own privileges menu.
 
-What are privileges? Depending on which office you hold in "The Fugger I", you enjoy certain privileges. These are very specific actions available only to you, unlike your competitors. So, let's assume you are a chamberlain in a town. What luck for you because now you have the opportunity to lower the wage level in your town and ensure that you have to pay your workers less. But perhaps you're not a chamberlain at all, but a canon, and one of your competitors is vying for a significant councilorship in your town. Did you know that as a canon, you have the privilege to forbid weddings in your town? Take a close look at your privileges whenever you take on a new office; perhaps you'll have new opportunities to discover, favor pleasant individuals, or put obstacles in the path of your opponents.
+What are privileges? Depending on which office you hold in "Die Fugger I", you enjoy certain privileges. These are very specific actions available only to you, unlike your competitors. So, let's assume you are a chamberlain in a town. What luck for you because now you have the opportunity to lower the wage level in your town and ensure that you have to pay your workers less. But perhaps you're not a chamberlain at all, but a canon, and one of your competitors is vying for a significant councilorship in your town. Did you know that as a canon, you have the privilege to forbid weddings in your town? Take a close look at your privileges whenever you take on a new office; perhaps you'll have new opportunities to discover, favor pleasant individuals, or put obstacles in the path of your opponents.
 
 --------------------------------------------------------------------------------
 
@@ -533,7 +533,7 @@ Clicking the signet ring in your customs castle or robber camp hides your assign
 7.6 Top Secret — The Back Room
 Clicking on the door in the left area of the picture in the office takes you to the back room of your office. In this room, you can indulge your dark passions to your heart's content or, however better it sounds, simply give many of your endeavors the crucial push.
 
-"The Fugger II" is a game in which it is about rising in the administrative hierarchy of the Principality of Mithland. The back room offers you numerous opportunities to lend weight to your political ambitions.
+"Die Fugger II" is a game in which it is about rising in the administrative hierarchy of the Principality of Mithland. The back room offers you numerous opportunities to lend weight to your political ambitions.
 
 --------------------------------------------------------------------------------
 
@@ -591,7 +591,7 @@ After the cost accounting, the tricks of fate lurk, either to make you break int
 Be that as it may, perhaps you want to give fate a little nudge and have hired some saboteurs, have other traders cheerfully robbed, or even initiate a lawsuit against the current mayor of your city. Then you will be confronted with the consequences of your actions. Depending on the level of havoc you've caused, the game might switch to an extra sequence, and events will unfold.
 
 8.4 Adventures  
-The Fugger II features over thirty smaller adventures, the so-called sub-plots. These are games within the game, lasting several years, and usually give you the opportunity to improve your wealth and reputation. For example, if you own a toll castle, you may be asked for help in quelling a peasant uprising. Perhaps ancient shards are found in the foundation of your residence, prompting an excavation. Or someone commissions you to ensure the removal of a specific person from their office. As already mentioned, numerous adventures await your mastery.
+Die Fugger II features over thirty smaller adventures, the so-called sub-plots. These are games within the game, lasting several years, and usually give you the opportunity to improve your wealth and reputation. For example, if you own a toll castle, you may be asked for help in quelling a peasant uprising. Perhaps ancient shards are found in the foundation of your residence, prompting an excavation. Or someone commissions you to ensure the removal of a specific person from their office. As already mentioned, numerous adventures await your mastery.
 
 8.5 Before the Jury...  
 Occasionally, it can happen that, amid all the events, you lose track of your financial situation. In short, some of your goods stored in your branch may be seized without much ado, or one of your carts receives the creditor's mark. If you overstrain the patience of your creditors, you may quickly find yourself before the jury. Take advantage of the possibility of bribery, for debtors' prison looms...
@@ -621,7 +621,7 @@ Finally, if you wish, you will be informed about historical events of the respec
 
 10. Help, a Raid — The Battle
 10.1 Introduction
-Since your financial capabilities at the start of a game of The Fugger II do not allow for the acquisition of a robber's camp or even a customs castle, you will likely experience your first raid from the perspective of the victim. Some disgruntled robber captain has just chosen your goods transport to entertain his robbers and acquire your goods for himself...
+Since your financial capabilities at the start of a game of Die Fugger II do not allow for the acquisition of a robber's camp or even a customs castle, you will likely experience your first raid from the perspective of the victim. Some disgruntled robber captain has just chosen your goods transport to entertain his robbers and acquire your goods for himself...
 
 In this case, tactical combat is initiated — a whole different game within the game. In a short introductory sequence...
 
@@ -694,7 +694,7 @@ Winning an object at auction can be quite lucrative. Many a bargain has turned i
 changed hands to its owner. At times, however, the sums coaxed from the bidders by the auctioneer significantly exceed the true value of an object. Caution is therefore advised.
 
 11.2 Put him in the pillory... – In court  
-Crime doesn't pay. Or does it? This question is one you must decide for yourself. At some point in a game of "The Fuggers II," even the most affable individuals will encounter the court. Certainly by the time your opponent sues you for a trivial matter.  
+Crime doesn't pay. Or does it? This question is one you must decide for yourself. At some point in a game of "Die Fugger II," even the most affable individuals will encounter the court. Certainly by the time your opponent sues you for a trivial matter.  
 First, the prosecution reads out a list of charges, after which the defendant has the opportunity to respond. Both parties are then given a chance to hire some witnesses. This costs a few coins but increases the credibility of your side. After the witnesses have given their statements, the pleadings are made. Finally, the judges can also be persuaded with coins before a decision is made.  
 It is especially important for you to know whether the accusations made against you or by you are true or fabricated. In addition to your witnesses and your reputation with the judges, this significantly influences the outcome of a trial. If you have doubts, it is wise to invest a small amount, as the penalties can be harsh.
 
@@ -703,7 +703,7 @@ Potential penalties include:
 – A fine that isn’t too painful.
 – A multi-year fine that can hurt quite a bit.
 – A year in debtor's prison – missing a turn.
-– Revocation of a title – Prestige can sometimes provide that crucial little edge in The Fuggers II.
+– Revocation of a title – Prestige can sometimes provide that crucial little edge in Die Fugger II.
 – Removal from office, which can potentially jeopardize the entire mission.
 
 11.3 On my honor... – Duels  

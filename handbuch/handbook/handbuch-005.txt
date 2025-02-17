@@ -3,10 +3,10 @@ The Technical Part
 1. Requirements for Your PC
 
 1.1 Speed and Operating System
-"The Fugger II" can be played on a PC (from 486 onwards) with at least 8 MB of main memory and a double-speed CD-ROM drive. A standard VESA driver for displaying SVGA graphics must be installed. Minimum requirements: 486 with 33 MHz and 8 MB of main memory, from MS-DOS version 3.3, ISA-bus graphics card with at least 0.5 MB of video memory, and a double-speed CD-ROM drive. Recommended: 486 with 66 MHz and 8 MB of main memory, VLB or PCI graphics card with 1 MB of video memory, and a 4x-speed CD-ROM drive. A Pentium P90 processor can also handle the tasks set before it. Operating System: "The Fugger II" runs under MS-DOS version 3.3 with 8 MB, under Windows 3.1, Windows NT, and Windows 95 in DOS mode with 8 MB, and under OS/2 in a DOS full screen with 8 MB.
+"Die Fugger II" can be played on a PC (from 486 onwards) with at least 8 MB of main memory and a double-speed CD-ROM drive. A standard VESA driver for displaying SVGA graphics must be installed. Minimum requirements: 486 with 33 MHz and 8 MB of main memory, from MS-DOS version 3.3, ISA-bus graphics card with at least 0.5 MB of video memory, and a double-speed CD-ROM drive. Recommended: 486 with 66 MHz and 8 MB of main memory, VLB or PCI graphics card with 1 MB of video memory, and a 4x-speed CD-ROM drive. A Pentium P90 processor can also handle the tasks set before it. Operating System: "Die Fugger II" runs under MS-DOS version 3.3 with 8 MB, under Windows 3.1, Windows NT, and Windows 95 in DOS mode with 8 MB, and under OS/2 in a DOS full screen with 8 MB.
 
 1.2 Graphics
-"The Fugger II" can be played in two color resolutions. If your PC has 8 MB of main memory, you can choose between SVGA graphics with 256 colors and Hi-Color graphics with 32,768 colors. Both resolutions support a standard VESA driver (e.g., UNIVBE) as standard.
+"Die Fugger II" can be played in two color resolutions. If your PC has 8 MB of main memory, you can choose between SVGA graphics with 256 colors and Hi-Color graphics with 32,768 colors. Both resolutions support a standard VESA driver (e.g., UNIVBE) as standard.
 
 1.3 Music, Sound Effects, and Voice Output
 The game supports the following sound cards:
@@ -22,15 +22,15 @@ The game supports the following sound cards:
 
 2. Installation and Configuration
 
-To install "The Fugger II," insert the Fugger II CD into your CD-ROM drive (example here is drive d:), switch to the corresponding drive by entering:
+To install "Die Fugger II," insert the Fugger II CD into your CD-ROM drive (example here is drive d:), switch to the corresponding drive by entering:
 d:
 (ENTER)
 If your CD-ROM drive is not d:, enter the appropriate drive letter, for example: e: (ENTER) or f: (ENTER).
 Now call up the installation program:
 install
 (ENTER)
-The "The Fugger II" installation program now welcomes you.
+The "Die Fugger II" installation program now welcomes you.
 
-NOTE: Most windows in "The Fugger II" can be exited by pressing the right mouse button.
+NOTE: Most windows in "Die Fugger II" can be exited by pressing the right mouse button.
 
 The free space on your hard disk will now be displayed, and you can decide with the ESC key which type of installation you would like to perform.
