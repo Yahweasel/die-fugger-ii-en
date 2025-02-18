@@ -386,7 +386,8 @@
     "raw": "Ka~te",
     "string": "Ka~te",
     "enRaw": "Kate",
-    "en": "Kate"
+    "en": "Kate",
+    "en2": "Cot"
   },
   {
     "start": 556308,
@@ -420,7 +421,7 @@
     "string": "Land~haus",
     "enRaw": "Country house",
     "en": "Country house",
-    "en2": "Townhouse"
+    "en2": "Chalet"
   },
   {
     "start": 556343,
@@ -446,7 +447,7 @@
     "string": "Burg",
     "enRaw": "Castle",
     "en": "Castle",
-    "en2": "Cstl"
+    "en2": "Fort"
   },
   {
     "start": 556365,
@@ -25442,7 +25443,8 @@
     "raw": "                                Kein Auftrag                                ",
     "string": "                                Kein Auftrag                                ",
     "enRaw": "No order",
-    "en": "No order"
+    "en": "No order",
+    "en2": "                               No assignment                                "
   },
   {
     "start": 781912,
@@ -25537,7 +25539,8 @@
     "raw": "                                Kein Auftrag                                ",
     "string": "                                Kein Auftrag                                ",
     "enRaw": "No assignment",
-    "en": "No assignment"
+    "en": "No assignment",
+    "en2": "                               No assignment                                "
   },
   {
     "start": 785944,
@@ -25590,7 +25593,8 @@
     "raw": "                                Kein Auftrag                                ",
     "string": "                                Kein Auftrag                                ",
     "enRaw": "No assignment",
-    "en": "No assignment"
+    "en": "No assignment",
+    "en2": "                               No assignment                                "
   },
   {
     "start": 787432,
