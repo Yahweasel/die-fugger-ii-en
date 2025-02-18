@@ -11718,7 +11718,7 @@
     "string": "Seine Räu~ber taten alles für ihn.$|",
     "enRaw": "His robbers did everything for him.$|",
     "en": "His robbers did everything for him.$|",
-    "en2": "His robbers did all him.$|"
+    "en2": "His robbers did all for him.$|"
   },
   {
     "start": 652271,
@@ -17787,14 +17787,6 @@
     "string": "%m Ar~beiter ver~schwinden las~sen$N",
     "enRaw": "%(m) Make workers disappear$(N)",
     "en": "%m Make workers disappear$N"
-  },
-  {
-    "start": 704448,
-    "end": 704492,
-    "raw": " der Ar~bei~ter von %3N5, ver~schwinden.$N$N",
-    "string": " der Ar~bei~ter von %3N5, ver~schwinden.$N$N",
-    "enRaw": "the worker from %(3N)5, disappear.$(N)$(N)",
-    "en": "the worker from %3N5, disappear.$N$N"
   },
   {
     "start": 704493,
@@ -25135,7 +25127,7 @@
     "string": "%aEin%s für %d Taler.$|",
     "enRaw": "%(a)One%(s) for %(d) thaler.$|",
     "en": "%aOne%s for %d thaler.$|",
-    "en2": "%aOne%s for %d thal.$|"
+    "en2": "%aA%s for %d thalers.$|"
   },
   {
     "start": 681034,
@@ -25743,5 +25735,22 @@
     "string": "$C^ Information %o _$ZBesitzer ist %3N5.$N$14H$ZValue: %d thal$N$Z",
     "enRaw": "$(C)^ Information %(o) _$(Z)Owner is %(3N)5.$(N)$14H$(Z)Value: %(d) thal$(N)$(Z)",
     "en": "$C^ Information %o _$ZOwner is %3N5.$N$14H$ZValue: %d thal$N$Z"
+  },
+  {
+    "start": 651182,
+    "end": 651187,
+    "raw": "máig",
+    "string": "mäßig",
+    "enRaw": "moderate",
+    "en": "moderate",
+    "en2": "modst"
+  },
+  {
+    "start": 704431,
+    "end": 704492,
+    "raw": "$B%1N5, lát %w%% der Ar~bei~ter von %3N5, ver~schwinden.$N$N",
+    "string": "$B%1N5, läßt %w%% der Ar~bei~ter von %3N5, ver~schwinden.$N$N",
+    "enRaw": "$(B)%(1N)5, makes %(w)%% of the workers from %(3N)5, disappear.$(N)$(N)",
+    "en": "$B%1N5, makes %w%% of the workers from %3N5, disappear.$N$N"
   }
 ]
