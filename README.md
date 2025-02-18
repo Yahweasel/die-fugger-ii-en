@@ -20,8 +20,10 @@ It may work with other versions, and at least should be relatively easy to adapt
 to other versions with some expertise, but has only been tested with this one.
 
 A translation of the handbook is also available, in
-[handbook-en.txt](handbuch/handbook-en.txt). It was translated in a similar way.
-Thanks to archive.org user Eulisker for uploading the [original German
+[handbook-en.txt](handbuch/handbook-en.txt), as well as the
+[README.TXT](handbuch/game-readme-en.txt) that comes installed next to the game
+binary. They were translated in a similar way. Thanks to archive.org user
+Eulisker for uploading the [original German
 handbook](https://archive.org/details/fugger-ii-die-1996-das-handbuch-de), in
 higher quality than the copy that came with my version of the game.
 
