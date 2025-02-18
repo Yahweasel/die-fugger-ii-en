@@ -3160,7 +3160,7 @@
     "string": "Der Reli~gions~streit zwi~schen Pro~testan~ten und Katho~li~ken ver~schärft sich. Auch ver~mehren sich poli~ti~sche Kon~flikte unter den Reichs~ständen. Dies führt zur Grün~dung der pro~testanti~schen Union am 14. Mai 1608 in Au~hausen. Zur Ab~wehr von >Rechts~widrig~keiten< schließen sich die Kur~pfalz, An~halt, Würtem~berg, Baden-Ans~bach sowie eini~ge wei~tere Fürsten~tümer zu~sammen.$ZDurch den Druck sei~ner Brüder und Vet~tern ge~zwun~gen, ver~zichtet Kai~ser Rudolf zu~gunsten sei~nes Bru~ders Mat~thias auf Öster~reich und Un~garn. Fak~tisch herrscht er damit nur noch über Böh~men.$ZHein~rich IV. von Frank~reich, selbst zum Katholi~zismus über~ge~wechselt, steht immer mehr unter dem Ein~fluß der Jesui~ten. Die Män~ner um Possevino sehen den Schlüssel zur Restaura~tion der alten Ord~nung im deutschen Reich und ver~suchen, Hein~rich dazu zu be~wegen, sich gegen die Pro~testan~ten zu stel~len. Die französi~sche Staats~re~gierung um den calvi~ni~sti~schen Fi~nanzmini~ster Sully scheint ohn~mächtig...$ZDer Her~zog von Richelieu, Armand-Jean du Plessis, wird Bischof von Lucon.$N",
     "enRaw": "The religious conflict between Protestants and Catholics intensifies. Political conflicts among the Imperial Estates also increase. This leads to the founding of the Protestant Union on May 14, 1608, in Auhausen. To defend against \"illegalities,\" the Electoral Palatinate, Anhalt, Württemberg, Baden-Ansbach, and several other principalities join forces.$(Z)Forced by the pressure of his brothers and cousins, Emperor Rudolf resigns in favor of his brother Matthias over Austria and Hungary. Practically, he only rules over Bohemia.$(Z)Henry IV of France, having himself converted to Catholicism, comes increasingly under the influence of the Jesuits. The men around Possevino see the key to the restoration of the old order in the German Empire and try to persuade Henry to side against the Protestants. The French state government around the Calvinist finance minister Sully seems powerless...$(Z)The Duke of Richelieu, Armand-Jean du Plessis, is appointed Bishop of Luçon.$(N)",
     "en": "The religious conflict between Protestants and Catholics intensifies. Political conflicts among the Imperial Estates also increase. This leads to the founding of the Protestant Union on May 14, 1608, in Auhausen. To defend against \"illegalities,\" the Electoral Palatinate, Anhalt, Württemberg, Baden-Ansbach, and several other principalities join forces.$ZForced by the pressure of his brothers and cousins, Emperor Rudolf resigns in favor of his brother Matthias over Austria and Hungary. Practically, he only rules over Bohemia.$ZHenry IV of France, having himself converted to Catholicism, comes increasingly under the influence of the Jesuits. The men around Possevino see the key to the restoration of the old order in the German Empire and try to persuade Henry to side against the Protestants. The French state government around the Calvinist finance minister Sully seems powerless...$ZThe Duke of Richelieu, Armand-Jean du Plessis, is appointed Bishop of Luçon.$N",
-    "en2": "The religious conflict between Protestants and Catholics intensifies. Political conflicts among the Imperial Estates also increase. This leads to the founding of the Protestant Union on May 14, 1608, in Auhausen. To defend against >illegalities<, the Electoral Palatinate, Anhalt, Württemberg, Baden-Ansbach, and several other principalities join forces.$ZForced by the pressure of his brothers and cousins, Emperor Rudolf resigns in favor of his brother Matthias over Austria and Hungary. Practically, he only rules over Bohemia.$ZHenry IV of France, having himself converted to Catholicism, comes increasingly under the influence of the Jesuits. The men around Possevino see the key to the restoration of the old order in the German Empire and try to persuade Henry to side against the Protestants. The French state government around the Calvinist finance minister Sully seems powerless...$ZThe Duke of Richelieu, Armand-Jean du Plessis, is appointed Bishop of Luçon.$N"
+    "en2": "The religious conflict between Protestants and Catholics intensifies. Political conflicts among the Imperial Estates also increase. This leads to the founding of the Protestant Union on May 14, 1608, in Auhausen. To defend against >illegalities<, the Electoral Palatinate, Anhalt, Württemberg, Baden-Ansbach, and several other principalities join forces.$ZForced by the pressure of his brothers and cousins, Emperor Rudolf resigns in favor of his brother Matthias over Austria and Hungary. Practically, he only rules over Bohemia.$ZHenry IV of France, having himself converted to Catholicism, comes increasingly under the influence of the Jesuits. The men around Possevino see the key to the restoration of the old order in the German Empire and try to persuade Henry to side against the Protestants. The French state government around the Calvinist finance minister Sully seems powerless...$ZThe Duke of Richelieu, Armand-Jean du Plessis, is appointed Bishop of Lucon.$N"
   },
   {
     "start": 571339,
@@ -21678,12 +21678,10 @@
     "en": "$P$2H$CYou entered the secret number of a %s card!$NTry again.$N"
   },
   {
-    "start": 765256,
+    "start": 765236,
     "end": 765289,
-    "raw": " Ihr wiát, was Ihr zu tun habt!$N",
-    "string": " Ihr wißt, was Ihr zu tun habt!$N",
-    "enRaw": "You know what you have to do!$(N)",
-    "en": "You know what you have to do!$N"
+    "raw": "$P$3H$CWohlan, %1N0: Ihr wiát, was Ihr zu tun habt!$N",
+    "string": "$P$3H$CWohlan, %1N0: Ihr wißt, was Ihr zu tun habt!$N"
   },
   {
     "start": 765292,
@@ -23939,13 +23937,10 @@
     "en2": "These are ready:$N"
   },
   {
-    "start": 784223,
+    "start": 784212,
     "end": 784246,
-    "raw": "%d%% Eures Einsatzes.$|",
-    "string": "%d%% Eures Einsatzes.$|",
-    "enRaw": "%(d)%% of your investment.$|",
-    "en": "%d%% of your investment.$|",
-    "en2": "%d%% of your investm.$|"
+    "raw": "%a%1N3 fr %d%% Eures Einsatzes.$|",
+    "string": "%a%1N3 für %d%% Eures Einsatzes.$|"
   },
   {
     "start": 784248,
