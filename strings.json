@@ -21971,7 +21971,8 @@
     "raw": " Katalog _$N",
     "string": " Katalog _$N",
     "enRaw": "Catalog _$(N)",
-    "en": "Catalog _$N"
+    "en": "Catalog _$N",
+    "en2": " Catalog _$N"
   },
   {
     "start": 767544,
@@ -21982,13 +21983,12 @@
     "en": "$t$|$4H$10>$56<$Z$C^ Position %d _$N$N%J$N"
   },
   {
-    "start": 767699,
+    "start": 767588,
     "end": 767731,
-    "raw": ">$10<$CMindestgebot:$N%d Taler$N",
-    "string": ">$10<$CMindestgebot:$N%d Taler$N",
-    "enRaw": ">$10<$(C)Minimum bid:$(N)%(d) thalers$(N)",
-    "en": ">$10<$CMinimum bid:$N%d thalers$N",
-    "en2": ">$10<$CMin. bid:$N%d thalers$N"
+    "raw": "$|$4H$56>$10<$Z$C^ Expos$e _$N$N$BWir versteigern %4u aus den Be~stn~den von %3N5.$Z$CZustand: %d%%$Z$|$16H$56>$10<$CMindestgebot:$N%d Taler$N",
+    "string": "$|$4H$56>$10<$Z$C^ Expos$e _$N$N$BWir versteigern %4u aus den Be~stän~den von %3N5.$Z$CZustand: %d%%$Z$|$16H$56>$10<$CMindestgebot:$N%d Taler$N",
+    "enRaw": "$|$4H$56>$10<$(Z)$(C)^ Expos$(e) _$(N)$(N)$(B)We are auctioning %(4u) from the stocks of %(3N)5.$(Z)$(C)Condition: %(d)%%$(Z)$|$16H$56>$10<$(C)Minimum bid:$(N)%(d) thalers$(N)",
+    "en": "$|$4H$56>$10<$Z$C^ Expos$e _$N$N$BWe are auctioning %4u from the stocks of %3N5.$Z$CCondition: %d%%$Z$|$16H$56>$10<$CMinimum bid:$N%d thalers$N"
   },
   {
     "start": 767732,
@@ -21999,13 +21999,13 @@
     "en": "$t$|$4H$10>$56<$Z$C^ Position %d _$N$N%J$N"
   },
   {
-    "start": 767873,
+    "start": 767776,
     "end": 767905,
-    "raw": ">$10<$CMindestgebot:$N%d Taler$N",
-    "string": ">$10<$CMindestgebot:$N%d Taler$N",
-    "enRaw": ">$10<$(C)Minimum bid:$(N)%(d) thalers$(N)",
-    "en": ">$10<$CMinimum bid:$N%d thalers$N",
-    "en2": ">$10<$CMin. bid:$N%d thalers$N"
+    "raw": "$|$4H$56>$10<$Z$C^ Expos$e _$N$N$BVersteigert wird %5W in %o aus dem Be~sitz von %3N1.$Z$|$16H$56>$10<$CMindestgebot:$N%d Taler$N",
+    "string": "$|$4H$56>$10<$Z$C^ Expos$e _$N$N$BVersteigert wird %5W in %o aus dem Be~sitz von %3N1.$Z$|$16H$56>$10<$CMindestgebot:$N%d Taler$N",
+    "enRaw": "$|$4H$56>$10<$(Z)$(C)^ Expos$(e) _$(N)$(N)$(B)Up for auction is %(5W) in %(o) from the possession of %(3N)1.$(Z)$|$16H$56>$10<$(C)Minimum bid:$(N)%(d) thalers$(N)",
+    "en": "$|$4H$56>$10<$Z$C^ Expos$e _$N$N$BUp for auction is %5W in %o from the possession of %3N1.$Z$|$16H$56>$10<$CMinimum bid:$N%d thalers$N",
+    "en2": "$|$4H$56>$10<$Z$C^ Expos$e _$N$N$BUp for auction is %5W in %o from %3N1.$Z$|$16H$56>$10<$CMinimum bid:$N%d thalers$N"
   },
   {
     "start": 767908,
@@ -22016,12 +22016,12 @@
     "en": "$t$|$4H$10>$56<$Z$C^ Position %d _$N$N%J$N"
   },
   {
-    "start": 767987,
+    "start": 767952,
     "end": 768167,
-    "raw": "1N1 hat sich ent~schlos~sen, die %se Zoll~burg %o ver~stei~gern zu las~sen. Die Burg be~her~bergt %4u und ver~fgt ber %d Ka~se~mat~ten.$N$|$16H$56>$10<$CMindestgebot:$N%d Taler$N",
-    "string": "1N1 hat sich ent~schlos~sen, die %se Zoll~burg %o ver~stei~gern zu las~sen. Die Burg be~her~bergt %4u und ver~fügt über %d Ka~se~mat~ten.$N$|$16H$56>$10<$CMindestgebot:$N%d Taler$N",
-    "enRaw": "1N1 has decided to auction off %(s)'s customs castle %(o). The castle houses %(4u) and has %(d) casemates.$(N)$|$16H$56>$10<$(C)Minimum bid:$(N)%(d) thalers$(N)",
-    "en": "1N1 has decided to auction off %s's customs castle %o. The castle houses %4u and has %d casemates.$N$|$16H$56>$10<$CMinimum bid:$N%d thalers$N"
+    "raw": "$|$4H$56>$10<$Z$C^ Expos$e _$N$N$B%1N1 hat sich ent~schlos~sen, die %se Zoll~burg %o ver~stei~gern zu las~sen. Die Burg be~her~bergt %4u und ver~fgt ber %d Ka~se~mat~ten.$N$|$16H$56>$10<$CMindestgebot:$N%d Taler$N",
+    "string": "$|$4H$56>$10<$Z$C^ Expos$e _$N$N$B%1N1 hat sich ent~schlos~sen, die %se Zoll~burg %o ver~stei~gern zu las~sen. Die Burg be~her~bergt %4u und ver~fügt über %d Ka~se~mat~ten.$N$|$16H$56>$10<$CMindestgebot:$N%d Taler$N",
+    "enRaw": "$|$4H$56>$10<$(Z)$(C)^ Expos$(e) _$(N)$(N)$(B)%(1N)1 has decided to auction off the %(s)e toll castle %(o). The castle houses %(4u) and features %(d) casemates.$(N)$|$16H$56>$10<$(C)Minimum bid:$(N)%(d) thalers$(N)",
+    "en": "$|$4H$56>$10<$Z$C^ Expos$e _$N$N$B%1N1 has decided to auction off the %se toll castle %o. The castle houses %4u and features %d casemates.$N$|$16H$56>$10<$CMinimum bid:$N%d thalers$N"
   },
   {
     "start": 768169,
