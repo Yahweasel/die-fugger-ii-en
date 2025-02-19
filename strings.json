@@ -9201,13 +9201,13 @@
     "en": "%a>%s %s<$|"
   },
   {
-    "start": 633591,
+    "start": 633590,
     "end": 633601,
-    "raw": "aFertig!$|",
-    "string": "aFertig!$|",
-    "enRaw": "Finished!",
-    "en": "Finished!",
-    "en2": "aNone!$|"
+    "raw": "%aFertig!$|",
+    "string": "%aFertig!$|",
+    "enRaw": "%(a)Done!$|",
+    "en": "%aDone!$|",
+    "en2": "%aNone!$|"
   },
   {
     "start": 633602,
@@ -10581,12 +10581,12 @@
     "en": "$CThe guards shiver, and as the figures emerge from the fog, it is already too late to close the drawbridge. %2N3 %s attack...$N"
   },
   {
-    "start": 643066,
+    "start": 643061,
     "end": 643086,
-    "raw": "vRuberlager %o...$N",
-    "string": "vRäuberlager %o...$N",
-    "enRaw": "Robber camp %(o)...$(N)",
-    "en": "Robber camp %o...$N"
+    "raw": "$C%v%vRuberlager %o...$N",
+    "string": "$C%v%vRäuberlager %o...$N",
+    "enRaw": "$(C)%(v)%(v)Robber camp %(o)...$(N)",
+    "en": "$C%v%vRobber camp %o...$N"
   },
   {
     "start": 643087,
@@ -11823,12 +11823,12 @@
     "en": "$BThe silver mining was %s.$N"
   },
   {
-    "start": 651085,
+    "start": 651084,
     "end": 651120,
-    "raw": "BDie Ge~wrz~im~por~te wa~ren %s.$N",
-    "string": "BDie Ge~würz~im~por~te wa~ren %s.$N",
-    "enRaw": "BThe spice imports were %(s).$(N)",
-    "en": "BThe spice imports were %s.$N"
+    "raw": "$BDie Ge~wrz~im~por~te wa~ren %s.$N",
+    "string": "$BDie Ge~würz~im~por~te wa~ren %s.$N",
+    "enRaw": "$(B)The spice imports were %(s).$(N)",
+    "en": "$BThe spice imports were %s.$N"
   },
   {
     "start": 651121,
@@ -12035,12 +12035,13 @@
     "en": "a golden ring"
   },
   {
-    "start": 652164,
+    "start": 652163,
     "end": 652184,
-    "raw": "CHier ruht$Z$N%1N0$Z",
-    "string": "CHier ruht$Z$N%1N0$Z",
-    "enRaw": "CHere lies$(Z)$(N)%(1N)0$(Z)",
-    "en": "CHere lies$Z$N%1N0$Z"
+    "raw": "$CHier ruht$Z$N%1N0$Z",
+    "string": "$CHier ruht$Z$N%1N0$Z",
+    "enRaw": "$(C)Here rests$(Z)$(N)%(1N)0$(Z)",
+    "en": "$CHere rests$Z$N%1N0$Z",
+    "en2": "$CHere lies$Z$N%1N0$Z"
   },
   {
     "start": 652185,
@@ -15104,12 +15105,13 @@
     "en2": "%aA%s for %d thalers.$|"
   },
   {
-    "start": 674270,
+    "start": 674269,
     "end": 674282,
-    "raw": "aNichts!$|$Z",
-    "string": "aNichts!$|$Z",
-    "enRaw": "Nothing!$|$(Z)",
-    "en": "Nothing!$|$Z"
+    "raw": "%aNichts!$|$Z",
+    "string": "%aNichts!$|$Z",
+    "enRaw": "%(a)Nothing!$|$(Z)",
+    "en": "%aNothing!$|$Z",
+    "en2": "%aNothing$|$Z"
   },
   {
     "start": 674283,
@@ -17833,12 +17835,12 @@
     "en2": "$CMercs$N"
   },
   {
-    "start": 697726,
+    "start": 697725,
     "end": 697736,
-    "raw": "CRu~ber$N",
-    "string": "CRäu~ber$N",
-    "enRaw": "CRobbers$(N)",
-    "en": "CRobbers$N"
+    "raw": "$CRu~ber$N",
+    "string": "$CRäu~ber$N",
+    "enRaw": "$(C)Robbers$(N)",
+    "en": "$CRobbers$N"
   },
   {
     "start": 697746,
@@ -19848,13 +19850,13 @@
     "en2": "$B$g%1N0, how many thalers do you want to invest in witnesses & judges?$Z$L%m thalers in witnesses and$N$L%m thalers in judges.$N%aHere are the thalers!$|"
   },
   {
-    "start": 722383,
+    "start": 722382,
     "end": 722438,
-    "raw": "CDie Pro~zeákosten in Hhe von %d Ta~lern trgt %1N1!$N",
-    "string": "CDie Pro~zeßkosten in Höhe von %d Ta~lern trägt %1N1!$N",
-    "enRaw": "CThe court costs amounting to %(d) thalers are borne by %(1N)1!$(N)",
-    "en": "CThe court costs amounting to %d thalers are borne by %1N1!$N",
-    "en2": "CThe court costs amounting to %d are borne by %1N1!$N"
+    "raw": "$CDie Pro~zeákosten in Hhe von %d Ta~lern trgt %1N1!$N",
+    "string": "$CDie Pro~zeßkosten in Höhe von %d Ta~lern trägt %1N1!$N",
+    "enRaw": "$(C)The legal costs amounting to %(d) thalers will be borne by %(1N)1!$(N)",
+    "en": "$CThe legal costs amounting to %d thalers will be borne by %1N1!$N",
+    "en2": "$CThe legal costs of %d thalers will be borne by %1N1!$N"
   },
   {
     "start": 722439,
@@ -21491,12 +21493,12 @@
     "en": "H$C^ Free hard disk space _$Z$20<$20>"
   },
   {
-    "start": 763685,
+    "start": 763684,
     "end": 763709,
-    "raw": "LLaufwerk %c:$E$R%d MB$N",
-    "string": "LLaufwerk %c:$E$R%d MB$N",
-    "enRaw": "LDrive %(c):$(E)$(R)%(d) MB$(N)",
-    "en": "LDrive %c:$E$R%d MB$N"
+    "raw": "$LLaufwerk %c:$E$R%d MB$N",
+    "string": "$LLaufwerk %c:$E$R%d MB$N",
+    "enRaw": "$(L)Drive %(c):$(E)$(R)%(d) MB$(N)",
+    "en": "$LDrive %c:$E$R%d MB$N"
   },
   {
     "start": 763715,
@@ -21521,14 +21523,6 @@
     "string": "$Z$C^ Achtung! _$Z$BFür die hohe Farb~auf~lö~sung be~nöti~gen Sie wenig~stens 8 MB Haupt~spei~cher und einen Stan~dard-Vesa-Trei~ber, der 32.768 Far~ben un~ter~stützen kann.$N",
     "enRaw": "$(Z)$(C)^ Attention! _$(Z)$(B)For the high color resolution, you need at least 8 MB of main memory and a standard VESA driver that can support 32,768 colors.$(N)",
     "en": "$Z$C^ Attention! _$Z$BFor the high color resolution, you need at least 8 MB of main memory and a standard VESA driver that can support 32,768 colors.$N"
-  },
-  {
-    "start": 764026,
-    "end": 764030,
-    "raw": "MB$N",
-    "string": "MB$N",
-    "enRaw": "MB$(N)",
-    "en": "MB$N"
   },
   {
     "start": 764032,
@@ -21681,7 +21675,10 @@
     "start": 765236,
     "end": 765289,
     "raw": "$P$3H$CWohlan, %1N0: Ihr wiát, was Ihr zu tun habt!$N",
-    "string": "$P$3H$CWohlan, %1N0: Ihr wißt, was Ihr zu tun habt!$N"
+    "string": "$P$3H$CWohlan, %1N0: Ihr wißt, was Ihr zu tun habt!$N",
+    "enRaw": "$(P)$3H$(C)Well then, %(1N)0: You know what you have to do!$(N)",
+    "en": "$P$3H$CWell then, %1N0: You know what you have to do!$N",
+    "en2": "$P$3H$CWell, %1N0: You know what you have to do!$N"
   },
   {
     "start": 765292,
@@ -22184,14 +22181,6 @@
     "string": "$N$CSeid Ihr zufrieden?$Z%m %m$N",
     "enRaw": "$(N)$(C)Are you satisfied?$(Z)%(m) %(m)$(N)",
     "en": "$N$CAre you satisfied?$Z%m %m$N"
-  },
-  {
-    "start": 770024,
-    "end": 770028,
-    "raw": "MMMM",
-    "string": "MMMM",
-    "enRaw": "MMMM",
-    "en": "MMMM"
   },
   {
     "start": 770032,
@@ -23886,13 +23875,12 @@
     "en2": "Storage in %o _$N$L"
   },
   {
-    "start": 783962,
+    "start": 783944,
     "end": 784005,
-    "raw": "ZPreis: %w Taler$N$N%j %m m$18c verkaufen$Z",
-    "string": "ZPreis: %w Taler$N$N%j %m m$18c verkaufen$Z",
-    "enRaw": "ZPrice: %(w) taler$(N)$(N)%(j) Sell %(m) m$18c$(Z)",
-    "en": "ZPrice: %w taler$N$N%j Sell %m m$18c$Z",
-    "en2": "ZPrice: %w thaler$N$N%j Sell %m m$18c$Z"
+    "raw": "%slager: %w m$18c$ZPreis: %w Taler$N$N%j %m m$18c verkaufen$Z",
+    "string": "%slager: %w m$18c$ZPreis: %w Taler$N$N%j %m m$18c verkaufen$Z",
+    "enRaw": "%(s)stock: %(w) m$18c$(Z)Price: %(w) thalers$(N)$(N)%(j) sell %(m) m$18c$(Z)",
+    "en": "%sstock: %w m$18c$ZPrice: %w thalers$N$N%j sell %m m$18c$Z"
   },
   {
     "start": 784024,
@@ -23940,7 +23928,9 @@
     "start": 784212,
     "end": 784246,
     "raw": "%a%1N3 fr %d%% Eures Einsatzes.$|",
-    "string": "%a%1N3 für %d%% Eures Einsatzes.$|"
+    "string": "%a%1N3 für %d%% Eures Einsatzes.$|",
+    "enRaw": "%(a)%(1N)3 for %(d)%% of your stake.$|",
+    "en": "%a%1N3 for %d%% of your stake.$|"
   },
   {
     "start": 784248,
@@ -23985,13 +23975,12 @@
     "en2": "$N$C%o is not located on a waterway. Therefore, ships are of no use here.$N"
   },
   {
-    "start": 784681,
+    "start": 784676,
     "end": 784696,
-    "raw": "CIm Lager: %m$N",
-    "string": "CIm Lager: %m$N",
-    "enRaw": "CIn storage: %(m)$(N)",
-    "en": "CIn storage: %m$N",
-    "en2": "CStorage: %m$N"
+    "raw": "$34>$CIm Lager: %m$N",
+    "string": "$34>$CIm Lager: %m$N",
+    "enRaw": "$34>$(C)In stock: %(m)$(N)",
+    "en": "$34>$CIn stock: %m$N"
   },
   {
     "start": 784700,
@@ -25024,13 +25013,13 @@
     "en2": "$LTransport:$E$R%d Thal.$N"
   },
   {
-    "start": 790317,
+    "start": 790316,
     "end": 790338,
-    "raw": "LZlle:$E$R%d Taler$N",
-    "string": "LZölle:$E$R%d Taler$N",
-    "enRaw": "Duties:$(E)$(R)%(d) Talers$(N)",
-    "en": "Duties:$E$R%d Talers$N",
-    "en2": "LDuties:$E$R%d Thal$N"
+    "raw": "$LZlle:$E$R%d Taler$N",
+    "string": "$LZölle:$E$R%d Taler$N",
+    "enRaw": "$(L)Duties:$(E)$(R)%(d) thalers$(N)",
+    "en": "$LDuties:$E$R%d thalers$N",
+    "en2": "$LDuties:$E$R%d thal$N"
   },
   {
     "start": 790340,
@@ -25131,13 +25120,12 @@
     "en2": "$C$3HYou own $htoo many branches$h:$Z$CEmperor %s$Zconfiscates %d%% of your wealth!$NThat is %d Thalers.$N"
   },
   {
-    "start": 790765,
+    "start": 790764,
     "end": 790834,
-    "raw": "BAls %1N4 er~hal~tet Ihr ein Ein~kom~men in H~he von %d Ta~lern.$N$N",
-    "string": "BAls %1N4 er~hal~tet Ihr ein Ein~kom~men in Hö~he von %d Ta~lern.$N$N",
-    "enRaw": "BAs %(1N)4 you receive an income of %(d) Talers.$(N)$(N)",
-    "en": "BAs %1N4 you receive an income of %d Talers.$N$N",
-    "en2": "BAs %1N4 you receive an income of %d Thalers.$N$N"
+    "raw": "$BAls %1N4 er~hal~tet Ihr ein Ein~kom~men in H~he von %d Ta~lern.$N$N",
+    "string": "$BAls %1N4 er~hal~tet Ihr ein Ein~kom~men in Hö~he von %d Ta~lern.$N$N",
+    "enRaw": "$(B)As %(1N)4, you receive an income of %(d) thalers.$(N)$(N)",
+    "en": "$BAs %1N4, you receive an income of %d thalers.$N$N"
   },
   {
     "start": 790836,
@@ -25158,13 +25146,13 @@
     "en2": "gets %d Thalers."
   },
   {
-    "start": 790989,
+    "start": 790988,
     "end": 791042,
-    "raw": "hJakob Fugger rt:$h Habt ein Auge auf %4e in %o!$N$N",
-    "string": "hJakob Fugger rät:$h Habt ein Auge auf %4e in %o!$N$N",
-    "enRaw": "hJakob Fugger advises:$(h) Keep an eye on %(4e) in %(o)!$(N)$(N)",
-    "en": "hJakob Fugger advises:$h Keep an eye on %4e in %o!$N$N",
-    "en2": "hJakob Fugger advises:$h Watch %4e in %o!$N$N"
+    "raw": "$hJakob Fugger rt:$h Habt ein Auge auf %4e in %o!$N$N",
+    "string": "$hJakob Fugger rät:$h Habt ein Auge auf %4e in %o!$N$N",
+    "enRaw": "$(h)Jakob Fugger advises:$(h) Keep an eye on %(4e) in %(o)!$(N)$(N)",
+    "en": "$hJakob Fugger advises:$h Keep an eye on %4e in %o!$N$N",
+    "en2": "$hJakob Fugger advises:$h Watch %4e in %o!$N$N"
   },
   {
     "start": 791044,
@@ -25711,13 +25699,12 @@
     "en": "N1!$ZAs %1N4, you receive %d thalers from Rome this year.$N"
   },
   {
-    "start": 796555,
+    "start": 796540,
     "end": 796627,
-    "raw": "ZAls %1N4 er~hal~tet Ihr in die~sem Jahr %d Ta~ler aus Ab~laá~ku~fen.$N",
-    "string": "ZAls %1N4 er~hal~tet Ihr in die~sem Jahr %d Ta~ler aus Ab~laß~käu~fen.$N",
-    "enRaw": "ZAs %(1N)4, you receive %(d) thalers from the sale of indulgences this year.$(N)",
-    "en": "ZAs %1N4, you receive %d thalers from the sale of indulgences this year.$N",
-    "en2": "ZAs %1N4, you get %d thalers from the sale of indulgences this year.$N"
+    "raw": "$V$P$3H$C%1N1!$ZAls %1N4 er~hal~tet Ihr in die~sem Jahr %d Ta~ler aus Ab~laá~ku~fen.$N",
+    "string": "$V$P$3H$C%1N1!$ZAls %1N4 er~hal~tet Ihr in die~sem Jahr %d Ta~ler aus Ab~laß~käu~fen.$N",
+    "enRaw": "$(V)$(P)$3H$(C)%(1N)1!$(Z)As %(1N)4, you receive %(d) thalers from indulgence sales this year.$(N)",
+    "en": "$V$P$3H$C%1N1!$ZAs %1N4, you receive %d thalers from indulgence sales this year.$N"
   },
   {
     "start": 796628,
