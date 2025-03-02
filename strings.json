@@ -169,6 +169,33 @@
     "en": "her"
   },
   {
+    "start": 556011,
+    "end": 556012,
+    "raw": "e",
+    "string": "e",
+    "enRaw": "one",
+    "en": "one",
+    "en2": "\u0000"
+  },
+  {
+    "start": 556013,
+    "end": 556015,
+    "raw": "er",
+    "string": "er",
+    "enRaw": "he",
+    "en": "he",
+    "en2": "\u0000"
+  },
+  {
+    "start": 556016,
+    "end": 556018,
+    "raw": "es",
+    "string": "es",
+    "enRaw": "it",
+    "en": "it",
+    "en2": "\u0000"
+  },
+  {
     "start": 556019,
     "end": 556026,
     "raw": "Kar~ren",
@@ -3383,7 +3410,8 @@
     "raw": "Im Prager Frie~den vom 30. Mai 1635 kommt es zu einer Eini~gung zwi~schen den ver~fein~de~ten Par~tei~en: Die katho~lische Liga wird auf~ge~lst. Der Kai~ser tritt die Lausitz an Kur~sachsen ab und ver~zichtet nach 6 Jahren der Unter~drckung des Pro~testan~tis~mus auf die Durch~fhrung des Resti~tu~tions~edikts von 1629.$ZWegen der nach den ver~lorenen Schlachten der Evange~lischen drohen~den ber~macht Habs~burgs tritt Frank~reich auf der Seite Schwe~dens in den Krieg ein.$ZKar~di~nal Richelieu grn~det die Academie francaise.$N",
     "string": "Im Prager Frie~den vom 30. Mai 1635 kommt es zu einer Eini~gung zwi~schen den ver~fein~de~ten Par~tei~en: Die katho~lische Liga wird auf~ge~löst. Der Kai~ser tritt die Lausitz an Kur~sachsen ab und ver~zichtet nach 6 Jahren der Unter~drückung des Pro~testan~tis~mus auf die Durch~führung des Resti~tu~tions~edikts von 1629.$ZWegen der nach den ver~lorenen Schlachten der Evange~lischen drohen~den Über~macht Habs~burgs tritt Frank~reich auf der Seite Schwe~dens in den Krieg ein.$ZKar~di~nal Richelieu grün~det die Academie francaise.$N",
     "enRaw": "In the Peace of Prague on May 30, 1635, an agreement is reached between the warring parties: The Catholic League is dissolved. The emperor cedes Lusatia to Electoral Saxony and, after six years of suppressing Protestantism, refrains from enforcing the Edict of Restitution of 1629.$(Z)Due to the looming dominance of the Habsburgs after the Evangelical losses in battle, France enters the war on the side of Sweden.$(Z)Cardinal Richelieu founds the Académie française.$(N)",
-    "en": "In the Peace of Prague on May 30, 1635, an agreement is reached between the warring parties: The Catholic League is dissolved. The emperor cedes Lusatia to Electoral Saxony and, after six years of suppressing Protestantism, refrains from enforcing the Edict of Restitution of 1629.$ZDue to the looming dominance of the Habsburgs after the Evangelical losses in battle, France enters the war on the side of Sweden.$ZCardinal Richelieu founds the Académie française.$N"
+    "en": "In the Peace of Prague on May 30, 1635, an agreement is reached between the warring parties: The Catholic League is dissolved. The emperor cedes Lusatia to Electoral Saxony and, after six years of suppressing Protestantism, refrains from enforcing the Edict of Restitution of 1629.$ZDue to the looming dominance of the Habsburgs after the Evangelical losses in battle, France enters the war on the side of Sweden.$ZCardinal Richelieu founds the Académie française.$N",
+    "en2": "In the Peace of Prague on May 30, 1635, an agreement is reached between the warring parties: The Catholic League is dissolved. The emperor cedes Lusatia to Electoral Saxony and, after six years of suppressing Protestantism, refrains from enforcing the Edict of Restitution of 1629.$ZDue to the looming dominance of the Habsburgs after the Evangelical losses in battle, France enters the war on the side of Sweden.$ZCardinal Richelieu founds the Academie francaise.$N"
   },
   {
     "start": 586808,
@@ -6456,7 +6484,7 @@
     "raw": "ine Streckbank",
     "string": "ine Streckbank",
     "enRaw": "a rack",
-    "en": "a rack"
+    "en": "a torture rack"
   },
   {
     "start": 617923,
@@ -8858,7 +8886,15 @@
     "raw": ">Also, das Meiste stimmt nicht.<",
     "string": ">Also, das Meiste stimmt nicht.<",
     "enRaw": ">Well, most of it is not true.<",
-    "en": ">Well, most of it is not true.<"
+    "en": ">Well, most of it is not true.<",
+    "en2": ">Well, most of it is false.<"
+  },
+  {
+    "start": 632607,
+    "raw": ">h, na ja...<",
+    "string": ">Öh, na ja...<",
+    "enRaw": ">Uh, well...<",
+    "en": ">Uh, well...<"
   },
   {
     "start": 632608,
@@ -8885,13 +8921,12 @@
     "en": ">I've done none of that!<"
   },
   {
-    "start": 632709,
+    "start": 632702,
     "end": 632721,
-    "raw": "alles Lge!<",
-    "string": "alles Lüge!<",
-    "enRaw": "all lies!",
-    "en": "all lies!",
-    "en2": "all lies!<"
+    "raw": ">Lge, alles Lge!<",
+    "string": ">Lüge, alles Lüge!<",
+    "enRaw": ">Lie, all lies!<",
+    "en": ">Lie, all lies!<"
   },
   {
     "start": 632722,
@@ -10814,7 +10849,8 @@
     "raw": "$B%1N5, hat sich ent~schieden, $hEure Wer~bung abzu~lehnen$h, da Ihr nicht gengend Ge~schenke ge~macht habt...$N$N",
     "string": "$B%1N5, hat sich ent~schieden, $hEure Wer~bung abzu~lehnen$h, da Ihr nicht genügend Ge~schenke ge~macht habt...$N$N",
     "enRaw": "$(B)%(1N)5, has decided to $(h)decline your advertisement$(h), as you have not given enough gifts...$(N)$(N)",
-    "en": "$B%1N5, has decided to $hdecline your advertisement$h, as you have not given enough gifts...$N$N"
+    "en": "$B%1N5, has decided to $hdecline your advertisement$h, as you have not given enough gifts...$N$N",
+    "en2": "$B%1N5, has decided to $hdecline your courtship$h, as you have not given enough gifts...$N$N"
   },
   {
     "start": 645129,
@@ -11161,22 +11197,13 @@
     "en": "$CYou leave the matchmaker...$N"
   },
   {
-    "start": 647891,
-    "end": 647909,
-    "raw": "$C>Dies ist %1N5.",
-    "string": "$C>Dies ist %1N5.",
-    "en2": "$C>This is %1N5.",
-    "enRaw": "$(C)>This is %(1N)5.",
-    "en": "$C>This is %1N5."
-  },
-  {
-    "start": 647909,
+    "start": 647892,
     "end": 647932,
-    "raw": " Hbsch, nicht wahr?<$N",
-    "string": " Hübsch, nicht wahr?<$N",
-    "enRaw": "Pretty, isn't it?<$(N)",
-    "en": "Pretty, isn't it?<$N",
-    "en2": " Pretty, isn't she?<$N"
+    "raw": "$C>Dies ist %1N5. Hbsch, nicht wahr?<$N",
+    "string": "$C>Dies ist %1N5. Hübsch, nicht wahr?<$N",
+    "enRaw": "$(C)>This is %(1N)5. Pretty, isn't it?<$(N)",
+    "en": "$C>This is %1N5. Pretty, isn't it?<$N",
+    "en2": "$C>This is %1N5. Pretty, isn't she?<$N"
   },
   {
     "start": 647933,
@@ -13260,6 +13287,14 @@
     "end": 660862,
     "raw": "auf",
     "string": "auf",
+    "enRaw": "on",
+    "en": "on"
+  },
+  {
+    "start": 660866,
+    "end": 660868,
+    "raw": "an",
+    "string": "an",
     "enRaw": "on",
     "en": "on"
   },
@@ -15400,7 +15435,8 @@
     "raw": "Frei~herr",
     "string": "Frei~herr",
     "enRaw": "Baron",
-    "en": "Baron"
+    "en": "Baron",
+    "en2": "Freeman"
   },
   {
     "start": 674825,
@@ -19002,7 +19038,8 @@
     "raw": " spricht %4N1 hei~lig. %1N0 steigt im An~sehen vie~ler Glu~bi~ger im Lan~de.$N$N",
     "string": " spricht %4N1 hei~lig. %1N0 steigt im An~sehen vie~ler Gläu~bi~ger im Lan~de.$N$N",
     "enRaw": "canonizes %(4N)1. %(1N)0 rises in the esteem of many believers in the country.$(N)$(N)",
-    "en": "canonizes %4N1. %1N0 rises in the esteem of many believers in the country.$N$N"
+    "en": "canonizes %4N1. %1N0 rises in the esteem of many believers in the country.$N$N",
+    "en2": " canonizes %4N1. %1N0 rises in the esteem of many believers in the country.$N$N"
   },
   {
     "start": 711631,
@@ -20700,7 +20737,8 @@
     "raw": "Ihr ge~winnt einen Kar~ren beim Glcks~spiel.$N$N",
     "string": "Ihr ge~winnt einen Kar~ren beim Glücks~spiel.$N$N",
     "enRaw": "You win a cart in the gambling game.$(N)$(N)",
-    "en": "You win a cart in the gambling game.$N$N"
+    "en": "You win a cart in the gambling game.$N$N",
+    "en2": "You win a cart in a gambling game.$N$N"
   },
   {
     "start": 730274,
@@ -20928,7 +20966,8 @@
     "raw": "Beim Glcks~spiel ge~winnt Ihr %4u.$N$N",
     "string": "Beim Glücks~spiel ge~winnt Ihr %4u.$N$N",
     "enRaw": "You win %(4u) at gambling.$(N)$(N)",
-    "en": "You win %4u at gambling.$N$N"
+    "en": "You win %4u at gambling.$N$N",
+    "en2": "You win %4u gambling.$N$N"
   },
   {
     "start": 733044,
@@ -22149,6 +22188,15 @@
     "string": "Ge~gen~spie~ler",
     "enRaw": "Opponent",
     "en": "Opponent"
+  },
+  {
+    "start": 769512,
+    "end": 769514,
+    "raw": "in",
+    "string": "in",
+    "enRaw": "in",
+    "en": "in",
+    "en2": "\u0000"
   },
   {
     "start": 769644,
@@ -25552,7 +25600,8 @@
     "raw": "$CDamit wird %1F %s in %o.$N$H",
     "string": "$CDamit wird %1F %s in %o.$N$H",
     "enRaw": "$(C)With that, %(1F) %(s) in %(o).$(N)$(H)",
-    "en": "$CWith that, %1F %s in %o.$N$H"
+    "en": "$CWith that, %1F %s in %o.$N$H",
+    "en2": "$CThus, %1F is %s in %o.$N$H"
   },
   {
     "start": 794964,
@@ -25672,7 +25721,7 @@
     "string": "$BBurg $h%o$h kommt %l un~ter den Ham~mer!$N$N",
     "enRaw": "$(B)Castle $(h)%(o)$(h) goes under the hammer for %(l)!$(N)$(N)",
     "en": "$BCastle $h%o$h goes under the hammer for %l!$N$N",
-    "en2": "$BCastle $h%o$h under the hammer for %l!$N$N"
+    "en2": "$BCastle $h%o$h goes for auction in %l!$N$N"
   },
   {
     "start": 796304,
