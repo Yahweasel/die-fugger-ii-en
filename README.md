@@ -51,7 +51,9 @@ was short enough. In particular, “yes” is still “ja” throughout the game
 ## Applying the patch
 
 The patch is provided as a .ips file, which can be applied with any IPS patcher
-(such as flips). Or, you can use `tools/apply.js`.
+(such as [flips](https://github.com/Alcaro/Flips/releases)). Or, you can use
+`tools/apply.js`.
+
 
 
 ## How the patch was made
@@ -74,4 +76,5 @@ hand.
 
 Finally, the patch is applied with `tools/apply.js`.
 
-I created the .ips file with flips, as a further convenience.
+I created the .ips file with [flips](https://github.com/Alcaro/Flips/releases),
+as a further convenience.
